@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>digital-video</title>
+<script type="text/javascript" src="jwplayer/swfobject.js"></script>
+<script type="text/javascript" src="jwplayer/jwplayer.js"></script>
+</head>
+
+<body style="margin:0; padding:0; background:#000">
+<div id="video-container"></div>
+<script type="text/javascript">
+function loadVideo(_id, _path, _thumb) {
+	jwplayer(_id).setup({
+		skin: "jwplayer/skins/glow/glow.zip",
+		stretching: "fill",
+		flashplayer: "jwplayer/player.swf",
+		image: _thumb,
+		width: 720,
+		height:408,
+		icons:false,
+		levels: [
+		   {file: _path},
+	   {file: _path} 
+					],
+		events:{
+				onReady: function() {
+					if (jwplayer(_id).getRenderingMode() == "flash") {
+						jwplayer(_id).play();
+					}
+				},
+				onTime: function(object) {
+				if(object.position > object.duration - 1) {this.pause();}
+				}
+			}
+	});
+}
+loadVideo('video-container', 'videos/RFIstudios_2.mp4', 'images/digital-big.jpg');
+
+
+</script>
+</body>
+</html>

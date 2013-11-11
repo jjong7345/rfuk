@@ -1,0 +1,212 @@
+/*
+ * CSS Styles that are needed by jScrollPane for it to operate correctly.
+ *
+ * Include this stylesheet in your site or copy and paste the styles below into your stylesheet - jScrollPane
+ * may not operate correctly without them.
+ */
+
+.jspContainer
+{
+	overflow: hidden;
+	position: relative;
+}
+
+.jspPane
+{
+	position: absolute;
+}
+
+.jspVerticalBar
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 16px;
+	height: 100%;
+	/*background: red;*/
+}
+
+.jspHorizontalBar
+{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 16px;
+	/*background: red;*/
+}
+
+.jspVerticalBar *,
+.jspHorizontalBar *
+{
+	margin: 0;
+	padding: 0;
+}
+
+.jspCap
+{
+	display: none;
+}
+
+.jspHorizontalBar .jspCap
+{
+	float: left;
+}
+
+.jspTrack
+{
+	background: #E6E6E6;
+	position: relative;
+}
+
+.jspDrag
+{
+	background: #ccc;
+	position: relative;
+	top: 0;
+	left: 0;
+	cursor: pointer;
+}
+
+.jspHorizontalBar .jspTrack,
+.jspHorizontalBar .jspDrag
+{
+	float: left;
+	height: 100%;
+}
+.jspArrowUp {
+	background:url("../images/arrowUp.gif");
+}
+.jspArrowDown {
+	background:url("../images/arrowDown.gif");
+}
+
+
+
+.jspArrow
+{
+	text-indent: -20000px;
+	display: block;
+	cursor: pointer;
+}
+
+.jspArrow.jspDisabled
+{
+	cursor: default;
+	/*background: #80808d;*/
+}
+
+.jspVerticalBar .jspArrow
+{
+	height: 16px;
+}
+
+.jspHorizontalBar .jspArrow
+{
+	width: 16px;
+	float: left;
+	height: 100%;
+}
+
+.jspVerticalBar .jspArrow:focus
+{
+	outline: none;
+}
+
+.jspCorner
+{
+	background: #eeeef4;
+	float: left;
+	height: 100%;
+}
+/*****************************/
+.popups .jspVerticalBar
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 7px;
+	height: 100%;
+	background: none;
+}
+
+.popups .jspHorizontalBar
+{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 16px;
+	background: red;
+}
+
+.popups .jspTrack
+{
+	background: #E6E6E6;
+	position: relative;
+}
+
+.popups .scroll-on-white .jspTrack
+{
+	background: url(../images/scroll-bg-white.jpg) left top repeat-y;
+	position: relative;
+}
+
+.popups .scroll-on-white .jspDrag
+{
+	background: #999;
+	position: relative;
+	top: 0;
+	left: 0;
+	cursor: pointer;
+}
+
+.popups .jspArrow
+{
+	text-indent: -20000px;
+	display: block;
+	cursor: pointer;
+}
+
+.popups .jspArrow.jspDisabled
+{
+	cursor: default;
+	background: none;
+}
+
+.popups .jspVerticalBar .jspArrow
+{
+	height: 12px;
+}
+
+.popups .jspHorizontalBar .jspArrow
+{
+	width: 7px;
+	
+	height: 100%;
+}
+
+.popups a.jspArrowUp {
+	background: url(../images/scroll-up.png) left top no-repeat;
+}
+.popups a.jspArrowUp:hover {
+	background: url(../images/scroll-up.png) left top no-repeat;
+}
+.popups a.jspArrowDown {
+	background: url(../images/scroll-down.png) left top no-repeat;
+}
+.popups a.jspArrowDown:hover {
+	background: url(../images/scroll-down.png) left top no-repeat;
+}
+.popups a.jScrollActiveArrowButton, a.jScrollActiveArrowButton:hover {
+	background-position: 0 -30px;
+}
+
+
+
+
+/* Yuk! CSS Hack for IE6 3 pixel bug :( */
+* html .jspCorner
+{
+	margin: 0 -3px 0 0;
+}
