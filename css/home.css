@@ -382,8 +382,11 @@ h5 {
 .careers_r_content {
 	float:left;
 	width:56%;
-	height:58%;
+	height:25%;
 }
+.careers_r_content a {
+		color:#5A9346;
+	}
 
 .about_r_content {
 	float:left;
@@ -418,14 +421,14 @@ h5 {
 }
 .col6 {
 	float: left;
-	margin: 0 5% 0 0;
-	width: 15.8%;
+	margin: 0 4% 0 0;
+	width: 13%;
 }
 #leadership_control {
 	margin: 10px 0 10px 0;
 }
 #leadership_wrapper {
-	margin:5px 0 0 0;
+	margin:20px 0 0 0;
 	float:left;
 	width:100%;
 	position:relative;
@@ -560,7 +563,7 @@ h5 {
 	float:left;
 	width:31.8%;
 	height:100%;
-	margin:0 2% 0 0;
+	margin:0 1.9% 0 0;
 }
 .awards-big img {
 	width:100%;
@@ -617,7 +620,7 @@ h5 {
 	padding-top:10px;
 }
 #threeAwards .awards-big img:hover {
-	border:#ff9900 solid 1px;
+	/*border:#ff9900 solid 1px;*/
 }
 .awards-big-images {
 	width:30%;
@@ -1199,6 +1202,12 @@ h1 {
 	font-size:11px;
 	color:#8E8E8E;
 	height: 100px;
+}
+#footer a {
+	color:#8E8E8E;
+}
+#footer a:hover {
+	text-decoration: underline;
 }
 
 .voicesDescription{

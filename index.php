@@ -71,11 +71,11 @@ else {
                                     <div class='spacer'></div>
                                     <a id="edge_main" class="mainNav weirdDivIssue"><img src="images/nav/edge_s1.jpg" alt="edge"/></a>
                                     <div id="edge_sub" class="menu-list2">
-                                        <div class="weirdDivIssue"><a>digital</a></div>
-                                        <div class="weirdDivIssue"><a>social media</a></div>
-                                        <div class="weirdDivIssue"><a>broadcast</a></div>
                                         <div class="weirdDivIssue"><a>strategy</a></div>
                                         <div class="weirdDivIssue"><a>insights</a></div>
+                                        <div class="weirdDivIssue"><a>content prod.</a></div>
+                                        <div class="weirdDivIssue"><a>digital</a></div>
+                                        <div class="weirdDivIssue"><a>social media</a></div>
                                     </div>
                                     
                                  </div>
@@ -85,17 +85,17 @@ else {
                                         <div class="weirdDivIssue"><a>vision</a></div>
                                         <div class="weirdDivIssue"><a>legacy</a></div>
                                         <div class="weirdDivIssue"><a>leadership</a></div>
-                                        <div class="weirdDivIssue"><a>offices</a></div>
                                         <div class="weirdDivIssue"><a>awards</a></div>
+                                        <div class="weirdDivIssue"><a>offices & contact</a></div>
                                     </div>
                                  </div>
                                  <div class="menu-list1">
                                     <a id="practice_main" class="mainNav weirdDivIssue"><img src="images/nav/practice_s1.jpg" alt="practice"/></a>
                                     <div id="practice_sub" class="menu-list2">
-                                        <div class="weirdDivIssue"><a>health & wellness</a></div>
-                                        <div class="weirdDivIssue"><a>technology <br/>& innovation</a></div>
-                                        <div class="weirdDivIssue"><a>corporate <br/>& public trust</a></div>
-                                        <div class="weirdDivIssue"><a>consumer<br/>connections</a></div>
+                                        <div class="weirdDivIssue"><a>healthcare</a></div>
+                                        <div class="weirdDivIssue"><a>technology</a></div>
+                                        <div class="weirdDivIssue"><a>public affairs & <br/>corporate <br/>communications</a></div>
+                                        <div class="weirdDivIssue"><a>consumer & <br/>life style</a></div>
                                     </div>
                                     
                                     <div class='spacer weirdDivIssue'></div>
@@ -119,7 +119,7 @@ else {
                                     |
                                     <a href="#/about/offices">CONTACT</a>
                                     |
-                                    <a href="http://www.ruderfinn.com/careers/">CAREERS</a>
+                                    <a href="#/about/careers">CAREERS</a>
                                 </p>
                             </div>
                         </div>
@@ -140,40 +140,40 @@ else {
                                 <div class="landing">
                                     <div class="columns4">
                                         <div class="col4">
-                                            <p><a href="#/practice/health_and_wellness"><img class="lazyload" image-link="images/health-wellness.jpg" style="width:100%;" alt="" /></a></p>
-                                            <p><strong>HEALTH &amp; WELLNESS</strong></p>
-                                            <p>Ruder Finn knows how to drive understanding and demand among consumers, patients, healthcare professionals and decision makers, for products, services and technological advances that lead to longer, healthier lives.</p>
+                                            <p><a href="#/practice/heathcare"><img class="lazyload" image-link="images/health-wellness.jpg" style="width:100%;" alt="" /></a></p>
+                                            <p><strong>HEALTHCARE</strong></p>
+                                            <p>We provide communications expertise to the pharmaceutical industry, patient advocacy groups and NGOs. We know how to navigate today's complex health environment to deliver creative campaigns that make a difference.</p>
                                         </div>
                                         <div class="col4">
                                 
-                                            <p><a href="#/practice/technology_innovation"><img class="lazyload" image-link="images/global-connectivity.jpg" style="width:100%;" alt="" /></a></p>
-                                            <p><strong>TECHNOLOGY &amp; INNOVATION</strong></p>
-                                            <p>Ruder Finn is paving the way for virtual and real-world technologies, products and services that serve to connect individuals, businesses and societies across networks, communities and borders.</p>
+                                            <p><a href="#/practice/technology"><img class="lazyload" image-link="images/global-connectivity.jpg" style="width:100%;" alt="" /></a></p>
+                                            <p><strong>TECHNOLOGY</strong></p>
+                                            <p>From enterprise software to marketing technology; virtualisation to biotechnology; green computing to nanotechnology and social software to mobile communications; the technology PR team at Ruder Finn loves it all.</p>
                                         </div>
                                         <div class="col4">
-                                            <p><a href="#/practice/corporate_and_public_trust"><img class="lazyload" image-link="images/corporate-public-trust.jpg"  style="width:100%;" alt="" /></a></p>
+                                            <p><a href="#/practice/public_affairs"><img class="lazyload" image-link="images/corporate-public-trust.jpg"  style="width:100%;" alt="" /></a></p>
                                 
-                                            <p><strong>CORPORATE &amp; PUBLIC TRUST</strong></p>
-                                            <p>Ruder Finn builds corporate reputation, brand-loyalty and trust for corporations, brands and institutions among their most important stakeholders, consumers and constituents.</p>
+                                            <p><strong>PUBLIC AFFAIRS &amp; CORPORATE COMMUNICATIONS</strong></p>
+                                            <p>Ruder Finn offers corporate communications and public affairs advice to parliament, NGOs and a wide range of commercial organisations. Our services include building corporate reputation, Parliamentary, legislative and regulatory issues management</p>
                                         </div>
                                         <div class="col4 last">
-                                            <p><a href="#/practice/consumer_connections"><img class="lazyload" image-link="images/life-style.jpg" style="width:100%;" alt="" /></a></p>
-                                            <p><strong>CONSUMER CONNECTIONS</strong></p>
+                                            <p><a href="#/practice/consumer"><img class="lazyload" image-link="images/life-style.jpg" style="width:100%;" alt="" /></a></p>
+                                            <p><strong>CONSUMER &amp; LIFESTYLE</strong></p>
                                 
-                                            <p>Ruder Finn adds passion to your brand and results to your bottom line. We believe in the power of brands and everything that they represent. Speaking with a consistent voice, we build interest and anticipation for both new and existing products.</p>
+                                            <p>The battle for consumer attention has never been more fierce. Ruder Finn is behind some of the world's most hard hitting, creative, integrated campaigns that deliver business results.</p>
                                         </div>
                                         <div class="clearit">&nbsp;</div>
                                         <div class="col4">
-                                            <p class="more">&#8250; <a href="#/practice/health_and_wellness">Read more</a></p>
+                                            <p class="more">&#8250; <a href="#/practice/heathcare">Read more</a></p>
                                         </div>
                                         <div class="col4">
-                                            <p class="more">&#8250; <a href="#/practice/technology_innovation">Read more</a></p>
+                                            <p class="more">&#8250; <a href="#/practice/technology">Read more</a></p>
                                         </div>
                                         <div class="col4">
-                                            <p class="more">&#8250; <a href="#/practice/corporate_and_public_trust">Read more</a></p>
+                                            <p class="more">&#8250; <a href="#/practice/public_affairs">Read more</a></p>
                                         </div>
                                         <div class="col4 last">
-                                            <p class="more">&#8250; <a href="#/practice/consumer_connections">Read more</a></p>
+                                            <p class="more">&#8250; <a href="#/practice/consumer">Read more</a></p>
                                         </div>
                                         <div class="clearit">&nbsp;</div>
                                     </div>
@@ -181,92 +181,97 @@ else {
                             </div>
                             <div id='health_wellness' class='hiddenContentArea'>
                             	<div class="landing2">
-                                    <h2>HEALTH &amp; WELLNESS</h2>
+                                    <h2>HEALTHCARE</h2>
                                     <div class="img"><img class="lazyload" image-link="images/health-wellness-big.jpg" alt="" /></div>
                                     <div class="content-r">
-                                        <p>Ruder Finn's Health &amp; Wellness practice drives understanding and demand among consumers, patients, healthcare professionals and decision makers, for products, services and technological advances that lead to longer, healthier lives.</p>
-                                        <p>RF Health &amp; Wellness expertise serves:</p>
+                                        <p>We feel passionate about the power of communications and its ability to make a difference in health. We understand our clients' needs and the environment in which they work.</p>
                                         <ul>
-                                            <li>Pharma</li>
-                        
-                                            <li>Biotech </li>
-                                            <li>Consumer Health</li>
-                                            <li>Public Health</li>
-                                            <li>eHealth</li>
-                                            <li>Nutrition</li>
-                                            <li>Fitness</li>
-                        
+                                            <li>Strategic counsel</li>
+                                            <li>Media strategy, training and relations</li>
+                                            <li>Crisis and issues management</li>
+                                            <li>CSR and corporate communications</li>
+                                            <li>Advocacy and stakeholder relations</li>
+                                            <li>Market access programmes</li>
+                                            <li>Patient and healthcare professional education</li>
+                                            <li>Disease awareness</li>
+                                            <li>Internal communications</li>
+                                            <li>Medical education</li>
+                                            <li>Advisory boards</li>
+                                            <li>Meetings and conference support</li>
                                         </ul>
-                                        <p class="orange-more"><a href="mailto:goldsteins@ruderfinn.com">&#8250; CONTACT US TO FIND OUT MORE</a></p>
+                                        <p class="orange-more"><a href="mailto:healthcare@ruderfinn.co.uk?subject=Interested in speaking with you">&#8250; CONTACT US TO FIND OUT MORE</a></p>
                                     </div>
                                     <div class="clearit">&nbsp;</div>
                                 </div>
                             </div>
                              <div id='technology_innovation' class='hiddenContentArea'>
                                 <div class="landing2">
-                                    <h2>TECHNOLOGY &amp; INNOVATION</h2>
+                                    <h2>TECHNOLOGY</h2>
                                     <div class="img"><img class="lazyload" image-link="images/global-connectivity-big.jpg" alt="" /></div>
                                     <div class="content-r">
-                                        <p>Ruder Finn believes that innovation fuels every company. Whether you're powering the cloud, connecting people to real-time information or paving the way for entirely new computing models, our team of passionate storytellers are committed to helping innovative companies develop and tell their stories through digital and traditional media</p>
-                                		<p>Ruder Finn has experience developing strategic communications programs for companies large and small, from enterprise to consumer. Wherever you are in your company lifecycle, we can help with:</p>
+                                        <p>Ruder Finn is paving the way for virtual and real-world technologies, products and services that connect individuals, businesses and societies across networks, communities and borders.</p>
+                                		<p>Ruder Finn delivers programs and measureable results that serve:</p>
                                         <ul>
-                                            <li>Corporate messaging and positioning</li>
-                                            <li>Traditional and digital media relations</li>
-                        
-                                            <li>Web site design and social media strategy </li>
-                                            <li>Product launches</li>
-                                            <li>Thought leadership</li>
-                                            <li>Executive visibility</li>
+                                            <li>Technologies</li>
+                                            <li>Start-ups</li>
+                                            <li>Mobile</li>
+                                            <li>B2B</li>
+                                            <li>Consumer electronics</li>
+                                            <li>Gadgets</li>
                                         </ul>
-                                        <p class="orange-more"><a href="mailto:guttmans@ruderfinn.com">&#8250; CONTACT US TO FIND OUT MORE</a></p>
+                                        <p class="orange-more"><a href="mailto:esinden@ruderfinn.co.uk">&#8250; CONTACT US TO FIND OUT MORE</a></p>
                                     </div>
                                     <div class="clearit">&nbsp;</div>
                                 </div>
                             </div>
                             <div id='corporate_and_public_trust' class='hiddenContentArea'>
                                 <div class="landing2">
-                                    <h2>CORPORATE &amp; PUBLIC TRUST</h2>
+                                    <h2>PUBLIC AFFAIRS &amp; CORPORATE COMMUNICATIONS</h2>
                                     <div class="img"><img class="lazyload" image-link="images/corporate-public-trust-big.jpg" alt="" /></div>
                                     <div class="content-r">
-                                        <p>Ruder Finn builds corporate reputation, brand loyalty and trust between our clients and their most important stakeholders, consumers and constituents.</p>
-                                		<p>Ruder Finn Corporate & Public Trust expertise includes:</p>
+                                        <p>Our clients span many industries, from pharmaceutical to environmental, not-for-profits to international media organisations. Having worked in parliament and as business journalists, our teams understand how to build creative, hard-hitting campaigns that support your public affairs objectives:</p>
                                         <ul>
-                                            <li>Corporate reputation</li>
-                        
-                                            <li>Executive thought leadership</li>
-                                            <li>Employee engagement</li>
-                                            <li>Change management</li>
-                                            <li>Public affairs</li>
-                                            <li>Investor relations</li>
-                                            <li>Crisis and issues communications</li>
-                        
-                                            <li>Diversity and Inclusion</li>
-                                            <li>CSR and Citizenship</li>
-                                            <li>Internal Communications</li>
+                                            <li>Policy development and political monitoring</li>
+                                            <li>Political blogger relations</li>
+                                            <li>Political issues management</li>
+                                            <li>Stakeholder building and campaigning</li>
+                                            <li>Parliamentary events and speakers</li>
+                                            <li>Trade, investment and political events / envoys</li>
+                                            <li>Message development and corporate media training</li>
+                                            <li>Issues and crisis management</li>
+                                            <li>International business media relations</li>
+                                            <li>Broadcast media programmes</li>
+                                            <li>CSR communications</li>
+                                            <li>Internal communications</li>
                                         </ul>
-                                        <p class="orange-more"><a href="mailto:spielmanr@ruderfinn.com">&#8250; CONTACT US TO FIND OUT MORE</a></p>
+                                        <p class="orange-more"><a href="mailto:publicaffairs@ruderfinn.co.uk">&#8250; CONTACT US TO FIND OUT MORE</a></p>
                                     </div>
                                     <div class="clearit">&nbsp;</div>
                                 </div>
                             </div>
                             <div id='consumer_connections' class='hiddenContentArea'>
                                 <div class="landing2">
-                                    <h2>CONSUMER CONNECTIONS</h2>
+                                    <h2>CONSUMER &amp; LIFESTYLE</h2>
                                     <div class="img"><img class="lazyload" image-link="images/life-style-big.jpg" alt="" /></div>
                                     <div class="content-r">
-                                        <p>Ruder Finn's Consumer Connections practice builds interest in new and existing products, and helps our clients create, connect and get a head start on today's trends.</p>
-                               			<p>Ruder Finn's areas of expertise include the following industries:</p>
+                                        <p>Ruder Finn builds interest and anticipation for both new and existing products, services and causes and helps create, connect or get a head-start on today's trends. Our data-led approach ensures the ideas work across paid, earned, owned and earned media. Areas of expertise include the following industries:</p>
                                         <ul>
-                                            <li>Food and Beverage</li>
-                                            <li>Entertainment and sports marketing</li>
-                        
-                                            <li>Travel and Economic Development</li>
-                                            <li>Multicultural and image marketing</li>
+                                            <li>Media and entertainment</li>
+                                            <li>Consumer technology/gadgets</li>
+                                            <li>Mobile</li>
+                                            <li>Gaming</li>
+                                            <li>Consumer Health</li>
+                                            <li>Food and beverage</li>
+                                            <li>Utilities</li>
+                                            <li>Travel</li>
                                             <li>Automotive</li>
-                                            <li>Fashion Beauty Retail</li>
-                                            <li>Luxury goods services</li>
+                                            <li>Fashion/beauty</li>
+                                            <li>Retail</li>
+                                            <li>Luxury goods</li>
+                                            <li>Education</li>
+                                            <li>Third sector</li>
                                         </ul>
-                                        <p class="orange-more"><a href="mailto:guttmans@ruderfinn.com">&#8250; CONTACT US TO FIND OUT MORE</a></p>
+                                        <p class="orange-more"><a href="mailto:gcarroll@ruderfinn.co.uk">&#8250; CONTACT US TO FIND OUT MORE</a></p>
                                     </div>
                                     <div class="clearit">&nbsp;</div>
                                 </div>
@@ -290,58 +295,108 @@ else {
                                 <div id='creative_home' class='hiddenContentArea'>
                                     <div class="landing3">
                                         <div class="columns5">
-                            
-                                            <div class="col5">
-                                                <p><a href="#/edge/digital"><img class="lazyload" image-link="images/digital.jpg" style="width:100%" alt="" /></a></p>
-                                                <p><strong>DIGITAL</strong></p>
-                                                <p>RFI Studios brings a strategic and integrated approach to every project, leveraging the full strength and reach of one of the world's largest and most respected public relations firms - Ruder Finn.</p>
-                                            </div>
-                                            <div class="col5">
-                                                <p><a href="#/edge/social"><img class="lazyload" image-link="images/social-media.jpg" style="width:100%" alt="" /></a></p>
-                                                <p><strong>SOCIAL MEDIA</strong></p>
-                            
-                                                <p>Two-way conversation is where Ruder Finn shines. It's in our DNA to communicate, not just dictate. Our understanding of messaging, audience intent and platforms intersect to best engage specific audiences through various channels, creating an integrated approach to your social media activities.</p>
-                                            </div>
-                                            <div class="col5">
-                                                <p><a href="#/edge/broadcast"><img class="lazyload" image-link="images/broadcast.jpg" style="width:100%" alt="" /></a></p>
-                                                <p><strong>BROADCAST</strong></p>
-                                                <p>RFI Studios' broadcast and animation capability integrates content with converging technologies and a staff of producers and project managers that create nationally recognized, award-winning features in a variety of formats.</p>
-                                            </div>
-                            
-                                            <div class="col5">
+                                             <div class="col5">
                                                 <p><a href="#/edge/strategy"><img class="lazyload" image-link="images/strategy.jpg" style="width:100%" alt="" /></a></p>
                                                 <p><strong>STRATEGY</strong></p>
-                                                <p>Today, the design discipline is moving from the aesthetic to the strategic and Ruder Finn Design is at the forefront of this change, creating successful branding campaigns for a range of companies.</p>
+                                                <p>The starting point of any campaign is building a data-led strategy that ties strongly back to commercial objectives. Our campaigns go beyond the fight for coverage in the "attention economy" and deliver results that will solve a business problem using an innovative approach.</p>
                                             </div>
-                                            <div class="col5 last">
+                                            <div class="col5">
                                                 <p><a href="#/edge/insights"><img class="lazyload" image-link="images/insights.jpg" style="width:100%" alt="" /></a></p>
                                                 <p><strong>INSIGHTS</strong></p>
                             
-                                                <p>As a creative agency, we know that ideas, innovation and beautiful design are integral to Internet success. As a professional agency, we recognize that ensuring the success of a website means more than just fantastic design; as we set out to deliver our clients' creative…</p>
+                                                <p>As a creative agency, we know that great ideas come from data that provides understanding of the audience that you are trying to reach.</p>
                                             </div>
+
+                                             <div class="col5">
+                                                <p><a href="#/edge/content_prod"><img class="lazyload" image-link="images/broadcast.jpg" style="width:100%" alt="" /></a></p>
+                                                <p><strong>BROADCAST</strong></p>
+                                                <p>In order to engage with your audiences, we need a story to tell. Useful, engaging and entertaining content is required across the majority of campaigns today but it must tie in to your wider business story and have a clear and measurable call to action, not just cool for the sake of it.</p>
+                                            </div>
+                                            <div class="col5">
+                                                <p><a href="#/edge/digital"><img class="lazyload" image-link="images/digital.jpg" style="width:100%" alt="" /></a></p>
+                                                <p><strong>DIGITAL</strong></p>
+                                                <p>In order to successfully deliver owned content assets Ruder Finn has built up considerable amount of experience in developing and maintaining digital assets including: Facebook applications, corporate websites, blogs, micro-sites, software applications for PCs, tablets and mobile devices.</p>
+                                            </div>
+                                            <div class="col5 last">
+                                                <p><a href="#/edge/social"><img class="lazyload" image-link="images/social-media.jpg" style="width:100%" alt="" /></a></p>
+                                                <p><strong>SOCIAL MEDIA</strong></p>
+                            
+                                                <p>We approach the media from a 360 view across paid (PPC, advertorial, sponsorship, banners, out of home) earned (media, community and blogger relations), owned (your own media, newsletters and digital properties) and shared (social media, viral, word of mouth).</p>
+                                            </div>
+                                            
                                             <div class="clearit">&nbsp;</div>
                                             <div class="col5">
-                                                <p class="more">&#8250; <a href="#/edge/digital">Read more</a></p>
+                                                <p class="more">&#8250; <a href="#/edge/strategy">Read more</a></p>
                                             </div>
                                             <div class="col5">
                             
-                                                <p class="more">&#8250; <a href="#/edge/social">Read more</a></p>
+                                                <p class="more">&#8250; <a href="#/edge/insights">Read more</a></p>
                                             </div>
                                             <div class="col5">
-                                                <p class="more">&#8250; <a href="#/edge/broadcast">Read more</a></p>
+                                                <p class="more">&#8250; <a href="#/edge/content_prod">Read more</a></p>
                                             </div>
                                             <div class="col5">
-                                                <p class="more">&#8250; <a href="#/edge/strategy">Read more</a></p>
+                                                <p class="more">&#8250; <a href="#/edge/digital">Read more</a></p>
                             
                                             </div>
                                             <div class="col5 last">
-                                                <p class="more">&#8250; <a href="#/edge/insights">Read more</a></p>
+                                                <p class="more">&#8250; <a href="#/edge/social">Read more</a></p>
                                             </div>
                                             <div class="clearit">&nbsp;</div>
                                         </div>
                                     </div>
                                 </div>
                                 
+                            </div>
+                            <div id='strategy' class='hiddenContentArea'>
+                                <div class="landing4">
+                                    <h2>STRATEGY</h2>
+                                    <div class="img-edge">
+                                        <img class="lazyload" image-link="images/strategy-big.jpg" style="width:100%;" />
+                                    </div>
+                                    <div class="content-r-edge">
+                                        <p>The starting point of any campaign is building a data-led strategy that ties strongly back to commercial objectives.  Our campaigns go beyond the fight for coverage in the "attention economy" and deliver results that will solve a business problem using an innovative approach.  Our results amaze audiences, integrate with a wider communications narratives and create a measurable behaviour change whether that is product sales, advocacy or a simple call to action.</p><br/>
+                                        <p class="orange-more"><a href="mailto:RFI-London@ruderfinn.co.uk">&#8250; CONTACT US TO FIND OUT MORE</a></p>
+                            
+                                        <div class="clearit">&nbsp;</div>
+                                    </div>
+                                    <div class="clearit">&nbsp;</div>
+                            
+                                </div>
+                            </div>
+                            <div id='insights' class='hiddenContentArea'>
+                                <div class="landing3">
+                                    <h2>INSIGHTS</h2>
+                                    <div class="img-edge">
+                                        <img class="lazyload" id="rfiStudios_videoCover" image-link="images/insights-big2.jpg" style="width:100%;" />
+                                    </div>
+                                    <div class="content-r-edge">
+                                        <p>As a creative agency, we know that great ideas come from data that provides understanding of the audience that you are trying to reach. We bring a strategic and integrated approach to every project, utilising a range of insights and measurement tools from campaign planning across online, offline, mobile and out-of-home; through to mid-campaign optimisation and measuring success at the end of the activity.</p>
+                                        <br/>
+                                        <p class="orange-more"><a href="mailto:RFI-London@ruderfinn.co.uk">&#8250; CONTACT US TO FIND OUT MORE</a></p>
+                        
+                                        <div class="clearit">&nbsp;</div>
+                                    </div>
+                                    <div class="clearit">&nbsp;</div>
+                                 </div>
+                            </div>
+                            <div id='content_prod' class='hiddenContentArea'>
+                                <div class="landing3">
+                                    <h2>CONTENT PRODUCTION</h2>
+                                    <div class="img-edge">
+                                        <a onclick="loadVideo('broadcast-video.html')"><img class="lazyload" id="rfiStudios_videoCover" image-link="images/boardcast_videoCover.jpg" style="width:100%;" /></a>
+                                    </div>
+                                    <div class="content-r-edge">
+                                        <p>In order to engage with your audiences, we need a story to tell. Useful, engaging and entertaining content is required across the majority of campaigns today but it must tie in to your wider business story and have a clear and measurable call to action, not just cool for the sake of it. Like all PR agencies, Ruder Finn is expert at producing a range of written media and internal content, but our capabilities extend far beyond this to include: adverts, games, documentaries, stands and pop-up environments, kiosks, video, PR infographics, experiential content and lots more. Regardless of the media used, everything we create will be integrated, socialised and deliver against the campaign and commercial objectives.</p>
+                                        <br/>
+                                        <p class="orange-more"><a target="_blank" href="http://www.rfistudios.com/">&#8250; VISIT RFI STUDIOS WEBSITE</a></p>
+                                        <p class="clearit">&nbsp;</p>
+                                        <p class="orange-more"><a href="mailto:RFI-London@ruderfinn.co.uk">&#8250; CONTACT US TO FIND OUT MORE</a></p>
+                        
+                                        <div class="clearit">&nbsp;</div>
+                                    </div>
+                                    <div class="clearit">&nbsp;</div>
+                                 </div>
                             </div>
                             <div id='digital' class='hiddenContentArea'>
                             	
@@ -376,22 +431,12 @@ else {
                                         </script>-->
                                     </div>
                                     <div class="content-r-edge">
-                                        <p>RFI Studios brings a strategic and integrated approach to every project, leveraging the full strength and reach of one of the world's largest and most respected public relations firms - Ruder Finn.</p>
-                                        <p>RFI Studios has substantial experience in building:</p>
-                                        <ul>
-                                            <li>Best in class websites</li>
-                                            <li>Thriving online communities</li>
-                        
-                                            <li>Clean, intuitive user interfaces and navigational systems</li>
-                                            <li>Large and small intranets</li>
-                                            <li>Easy to use and customized extranets</li>
-                                            <li>Custom content management and archiving systems</li>
-                                        </ul>
-                                        
+                                        <p>In order to successfully deliver owned content assets Ruder Finn has built up considerable amount of experience in developing and maintaining digital assets including: Facebook applications, corporate websites, blogs, micro-sites, software applications for PCs, tablets and mobile devices.</p>
+                                        <br/>
                                         <p class="orange-more"><a target="_blank" href="http://www.rfistudios.com/">&#8250; VISIT RFI STUDIOS WEBSITE</a></p>
                         
                                         <p class="clearit">&nbsp;</p>
-                                        <p class="orange-more"><a href="mailto:schneiders@ruderfinn.com">&#8250; CONTACT US TO FIND OUT MORE</a></p>
+                                        <p class="orange-more"><a href="mailto:RFI-London@ruderfinn.co.uk">&#8250; CONTACT US TO FIND OUT MORE</a></p>
                                         <p class="clearit">&nbsp;</p>
                                     </div>
                                     <div class="clearit">&nbsp;</div>
@@ -401,102 +446,17 @@ else {
                             <div id='socialmedia' class='hiddenContentArea'>
                             	<div class="landing4">
                                     <h2>SOCIAL MEDIA</h2>
-                                    <div class="content-r-edge" style="width:100%">
-                                    	<p style="width:68%; float:left">Two-way conversation is where Ruder Finn shines. Our understanding of messaging, audience intent and platforms intersect to best engage specific audiences through various channels, creating an integrated approach to your social media activities.</p>
-                                        <div style="float:right">
-                                        	<p class="orange-more"><a target="_blank" href="http://www.rfistudios.com/">&#8250; VISIT RFI STUDIOS WEBSITE</a></p>
-                                            <p class="clearit">&nbsp;</p>
-                                            <p class="orange-more"><a href="mailto:schneiders@ruderfinn.com">&#8250; CONTACT US TO FIND OUT MORE</a></p>
-                                        </div>
-                                        <div class="clear"></div>
-                                    </div>
-                                    <div id="socialmedia_control" class="page-scroll">
-                                        <a class='prev'></a><a class='next'></a> 
-                                        <div class="num_container"></div>
-                                    </div>
-                                    <div class="clearit"></div>
-                                    <div id="work_wrapper">
-                                        <div id="works_container">
-                                            <div class="work"><a id="pepsico-btn"><img class="lazyload-socialmedia" image-link="images/pepsico.jpg" alt="" /></a></div>
-                                            <div class="work"><a id="matrix-btn"><img class="lazyload-socialmedia" image-link="images/matrix.jpg" alt="" /></a></div>
-                                            <div class="work"><a id="rfii-btn"><img class="lazyload-socialmedia" image-link="images/rfindex.jpg" alt="" /></a></div>	
-                                            <div class="work"><a id="microsoft-btn"><img class="lazyload-socialmedia" image-link="images/microsoft.jpg" alt="" /></a></div>
-                                            <div class="work"><a id="dew-btn"><img class="lazyload-socialmedia" image-link="images/mountain-dew.jpg" alt="" /></a></div>
-                                            <div class="work"><a id="sfc-btn"><img class="lazyload-socialmedia" image-link="images/caring.jpg" alt="" /></a></div>
-                                        </div>
-                                   </div>
-                                </div>
-                            </div>
-                            <div id='broadcast' class='hiddenContentArea'>
-                            	<div class="landing3">
-                                    <h2>BROADCAST</h2>
                                     <div class="img-edge">
-                                    	<a onclick="loadVideo('broadcast-video.html')"><img class="lazyload" id="rfiStudios_videoCover" image-link="images/boardcast_videoCover.jpg" style="width:100%;" /></a>
+                                        <img class="lazyload" image-link="images/insights-big.jpg" style="width:100%;" />
                                     </div>
                                     <div class="content-r-edge">
-                                        <p>RFI Studios' broadcast and animation team provides a full-service package of skills based on outstanding writing, story telling, design, visualization and technology. All projects begin by understanding client needs and then bringing the right creative team, the right tools, and the right strategy to bring a project to a rewarding and effective conclusion. We offer state-of-the-art HD camera packages, non-linear video editing, social media integration, a full suite of design and animation capabilities, all enhanced by a worldwide talent pool. Our highly experienced, award-winning production team is comprised of producers, project managers, camera operators, video editors, graphic artists, and animators who share a common commitment to excellence in the pursuit of imaginative, results-oriented products.</p>
-                                        <br/>
-                                        <p class="orange-more"><a target="_blank" href="http://www.rfistudios.com/">&#8250; VISIT RFI STUDIOS WEBSITE</a></p>
-                                        <p class="clearit">&nbsp;</p>
-                                        <p class="orange-more"><a href="mailto:isera@ruderfinn.com">&#8250; CONTACT US TO FIND OUT MORE</a></p>
-                        
-                                        <div class="clearit">&nbsp;</div>
-                                    </div>
-                                    <div class="clearit">&nbsp;</div>
-                                 </div>
-                            </div>
-                            <div id='strategy' class='hiddenContentArea'>
-                            	<div class="landing4">
-                                    <h2>DESIGN</h2>
-                                    <div id="design_image_wrapper">
-                                        <div id="design_image_container">
-                                            <div class="design_image">
-                                                <p><img class="lazyload-design" image-link="images/design-big.jpg" alt="" /></p>
-                                                <p class="note">New York Theater Workshop: 25th Anniversary Logo and Triennial Report</p>
-                                            </div>
-                                            <div class="design_image">
-                                               <p><img class="lazyload-design" image-link="images/design-big2.jpg" alt="" /></p>
-                                               <p class="note">Helicos BioSciences: Branding and Multi-Platform Launch Campaign</p>
-                                            </div>
-                                            <div class="design_image">
-                                                <p><img class="lazyload-design" image-link="images/design-big3.jpg" alt="" /></p>
-                                                <p class="note">PepsiCo Dream Machine: Event and Partnership Graphics Introducing the Recycling Program</p>
-                                            </div>
-                                        </div>
-                                        <div class="clearit"></div>
-                                        <div id="design_control" class="page-scroll">
-                                            <a class='prev'></a><a class='next'></a> 
-                                            <div class="num_container"></div>
-                                        </div>	
-                                    </div>
-                                    <div class="content-r-edge">
-                                        <p>Ruder Finn Design delivers strategic messages to our clients with clarity, impact, and style. We craft the core visual and verbal elemtns of projects throughout our four award winning practice areas.</p>
-                                        <p><strong>BRANDING</strong><br />Ruder Finn Design has created successful branding campaigns for a range of companies: large multi-national corporations looking for a clear and consistent voice across geographies and business units, divisions and acquisitions that need to be brought into the fold in a seamless yet distinct way, and leading-edge smaller companies looking for immediate impact as a bigger player.</p>
-                                        <p><strong>ADVERTISING</strong><br />As an award-winning full service agency, Ruder Finn Advertising delivers expertise and excellence at every stage. It's evidenced in the soundness and elegance of our work and in the proven results we generate for our clients.</p>
-                                        <p class="orange-more"><a href="mailto:gabbayl@ruderfinn.com">&#8250; CONTACT US TO FIND OUT MORE</a></p>
+                                        <p>We approach the media from a 360 view across paid (PPC, advertorial, sponsorship, banners, out of home) earned (media, community and blogger relations), owned (your own media, newsletters and digital properties) and shared (social media, viral, word of mouth).  Each member of our team is an active community participant in their own right and comes to your account with a wealth of both industry and influencer connections. Working alone or as part of your wider agency network, we work hard to make sure every campaign is integrated ensuring the best results for the lowest budget.</p><br/>
+                                        <p class="orange-more"><a href="mailto:RFI-London@ruderfinn.co.uk">&#8250; CONTACT US TO FIND OUT MORE</a></p>
                             
                                         <div class="clearit">&nbsp;</div>
                                     </div>
                                     <div class="clearit">&nbsp;</div>
-                            
                                 </div>
-                            </div>
-                            <div id='insights' class='hiddenContentArea'>
-                            	<div class="landing3">
-                                    <h2>INSIGHTS</h2>
-                                    <div class="img-edge">
-                                    	<img class="lazyload" id="rfiStudios_videoCover" image-link="images/insights-big2.jpg" style="width:100%;" />
-                                    </div>
-                                    <div class="content-r-edge">
-                                        <p>As a creative agency, we know that ideas, innovation and beautiful design are integral to Internet success. As a professional agency, we recognize that ensuring the success of a website means more than just fantastic design; as we set out to deliver our clients' creative, strategic, and integrated communications programs that yield quantifiable results.</p>
-                                        <p>We bring a strategic and integrated approach to every project, leveraging the full strength and reach of one of the world's largest and most respected public relations firms - Ruder Finn. Our world-class network of partners is made up of more than 1500 practice area specialists ranging from healthcare and technology to consumer marketing, travel and global issues.</p>
-                                        <br/>
-                                        <p class="orange-more"><a href="mailto:RFinsights@ruderfinn.com">&#8250; CONTACT US TO FIND OUT MORE</a></p>
-                        
-                                        <div class="clearit">&nbsp;</div>
-                                    </div>
-                                    <div class="clearit">&nbsp;</div>
-                                 </div>
                             </div>
                         </div>
             		</div>
@@ -518,19 +478,21 @@ else {
                                     <div>
                                         <div class="col5">
                                             <h3><a href="#/about/vision">VISION</a> &#8250;</h3>
-                                            <p><a href="#/about/vision"><img class="lazyload" image-link="images/kate.jpg" style="width:100%"  alt="" /></a></p>
-                                            <p>Creative Edge. It transcends geographies. It drives innovation. It has a singular impact on customers and stakeholders, while optimizing resources in a global economy.</p>
+                                            <p><a href="#/about/vision"><img class="lazyload" image-link="images/nick_vision.jpg" style="width:100%"  alt="" /></a></p>
+                                            <p>Today's agency is not a media relations shop or an internal comms organisation. It's not a
+digital boutique or a social media specialist. We have to work at the intersection of all routes to audience, and communicate effectively and consistently across them all. And today's campaigns MUST have the Creative Edge.</p>
                                         </div>
                                         <div class="col5">
                                             <h3><a href="#/about/legacy">LEGACY</a> &#8250;</h3>
                         
                                             <p><a href="#/about/legacy"><img class="lazyload" image-link="images/david.jpg" style="width:100%" alt="" /></a></p>
-                                            <p>I once described PR as "an old method of advocacy and salesmanship updated to meet the conditions of a mass society," but that description now seems too simplistic.</p>
+                                            <p><b>Looking At the Past and Into the Future:</b>A Message From David Finn</p>
+                                            <p>I once described PR as “an old method of advocacy and salesmanship updated to meet the conditions of a mass society,” but that description now seems too simplistic.</p>
                                         </div>
                                         <div class="col5">
                                             <h3><a href="#/about/leadership">LEADERSHIP</a> &#8250;</h3>
                                             <p><a href="#/about/leadership"><img class="lazyload" image-link="images/leadership.jpg"  style="width:100%" alt="" /></a></p>
-                                            <p>The integrity of independence allows us to concentrate on creating innovative solutions for our clients, not short-term gains for shareholders. Our autonomy means senior management spend their time building client relationships not battling bureaucracy.</p>
+                                            <p>Our senior management team is a bright, experienced and accomplished bunch who genuinely love PR and are still very involved in client work and campaign development.  On the whole we prefer that to swimming in spreadsheets! Meet some of us here.</p>
                         
                                         </div>
                                         <div class="col5">
@@ -542,14 +504,14 @@ else {
                         
                                             <h3><a href="#/about/awards">AWARDS</a> &#8250;</h3>
                                             <p><a href="#/about/awards"><img class="lazyload" image-link="images/awards.jpg"  style="width:100%" alt="" /></a></p>
-                                            <p>Creative edge and team collaboration allow innovative ideas to flourish, resulting in breakthrough campaigns celebrated within the industry for their excellence. Here are a few of our most recent awards.</p>
+                                            <p>Creative edge and team collaboration are a recipe for really innovative ideas. Our breakthrough campaigns have been celebrated within the industry for their excellence. Here are a few of our most recent awards.</p>
                                         </div>
                                         <div class="clearit">&nbsp;</div>
                                     </div>
                                     <br/>
                                     <p class="dotted-line">&nbsp;</p>
                         
-                                    <p style="width:97%"><strong>ABOUT RUDER FINN, INC</strong><br />Ruder Finn, Inc. is a leading independent communications agency with more than 65 years experience. Maintaining offices in New York, San Francisco, London, Beijing, Hong Kong, Shanghai, Singapore, Guangzhou and India, the agency employs over 400 of the leading public relations professionals in the world. Ruder Finn is organized around four strategic pillars that reflect its key areas of leadership: Health & Wellness, Corporate & Public Trust, Technology & Innovation and Consumer Connections. Expertise includes corporate reputation management, branding, cultural and social issues, and intent-driven social media through its full-service digital agency, RFI Studios.</p>
+                                    <p style="width:97%"><strong>ABOUT RUDER FINN, INC</strong><br />Ruder Finn is a leading independent communications agency with more than 65 years experience. Maintaining offices in New York, San Francisco, Washington DC, Boston, London, Paris, Basel, Beijing, Hong Kong, Shanghai, Singapore and Guangzhou, the agency employs over 400 of the leading public relations professionals in the world. Ruder Finn is organized around four strategic pillars that reflect its key areas of leadership: Health & Wellness, Corporate & Public Trust, Global Connectivity and Life & Style.  Expertise includes corporate reputation management, branding, cultural and social issues, and intent-driven social media through its full-service digital agency, RFI Studios.</p>
                         
                                 </div>
                             </div>
@@ -558,17 +520,22 @@ else {
                                     <h2>VISION</h2>
                                     <div class="img-about" >
                                         <p><img class="lazyload" image-link="images/vision-big.jpg" style="width:100%" alt="" /></p>
-                                        <p><strong>Kathy Bloomgarden</strong> Chief Executive Officer</p>
+                                        <p><strong>Nick Leonard</strong> UK Managing Director</p>
                                     </div>
+                                    <h3 class="about">What is Public Relations now?</h3>
                                     <div class="about_r_content">
                                     	<div class="scroll-pane">
-                                            <p>Creative Edge.</p>
-                                            <p>It transcends geographies. It drives innovation. It has a singular impact on customers and stakeholders, while optimizing resources in a global economy. At Ruder Finn, creative edge embodies the way we think and the way we work. We seek to bring that creative edge to our clients and their business.</p>
+                                            <p>Most people will say that PR has changed vastly over the past five years. That digital has changed the game. That the 'traditional' approach to communications is dead. It's not. The core disciplines have never changed.</p>
+                                            <p>Organisations still need to talk to their audiences.</p>
                             
-                                            <p>In today's borderless world, investment, technology and information flow instantaneously and unimpeded through a variety of new channels. Globalization and continual technological advancements have transformed society and the practice of public relations. Social media has redefined traditional relationships between customers and corporations, brand owners and brand creators and consumers and producers. In today's web-connected world, it's no longer just about consuming information but curating conversations. Intent has replaced age, gender, race, income, and geography as the new demographic. The immediacy of the 24/7 news cycle and the power of social networks require unprecedented levels of transparency and accountability.</p>
-                                            <p>The business landscape and the rules of engagement continue to change. But the values that have underpinned our firm's growth for more than six decades remain constant and increasingly relevant. As one of the world's largest independent agencies, we can focus on what we do best; service our clients' needs. We believe in building long-term relationships, which is one reason why our senior management spends the majority of their time proactively engaging with clients. Our autonomy frees us to think outside the box to bring clients the tailored and actionable insights and strategies today's competitive market demands.</p>
-                                            <p>Delivering the breakthrough work our clients deserve and expect depends on collaboration.</p>
-                                            <p>So although we have grown into a full-service global agency with all the scale, infrastructure and experience that entails, we have never lost sight of our entrepreneurial heritage. Bureaucracy inhibits innovation. If you want to ignite creative edge, you need to build a talented and self-motivated team, establish an environment that empowers them and then, as Jack Welsh likes to say, get out of the way.</p>
+                                            <p>The difference now is that we still talk. Engage. Persuade. Articulate. But now it is easier to listen and to have a useful dialogue. </p>
+                                            <p>The channels we use, the strategies we deploy, and the way in which we interact with audiences may be more diverse and dynamic, but old fashioned principles remain. Today's agency is not a media relations shop or an internal comms organisation. It's not a digital boutique or a social media specialist. It's not a Government relations bureau or advocacy firm. Today's Public Relations team has to work at the intersection of all routes to audience, and communicate effectively and consistently across them all.</p>
+                                            <p>Focusing on a single channel – media, social media, Government relations etc. – is an isolated and limited strategy. We communicate in so many ways and consume information across so many different formats and any campaign needs to reflect this reality. People are jaded, brands must fight harder than ever for smart, attention-grabbing campaigns.</p>
+                                            <p>Creative Edge is our response to these challenges. Creative Edge is channel neutral. It is driven by research, data, science and facts. It focuses on key audiences and uses the appropriate channels to reach them with the right campaigns, messages and materials delivered at the right time.</p>
+                                            <p>Put simply, it's about taking a client's communications problem, applying insight, and solving it in a creative way. The manifestation of this varies according to the challenge…</p>
+                                            <p>…it could be a coffee table book.....a corporate partnership with mumsnet...a pop-up clinic to focus on a disease area...a website...a cartoon...a TV ad...a viral video... a campaign strapline...an event.....an experiential idea...a 3D design... a crowdsourced movie…a game to help with recruitment...an internal comms podcast...an e-learning module...an iPad app for GPs... or even (and often) a number of these tactics in tandem…</p>
+                                            <p>The result is designed to influence, delight and amaze audiences, whilst being integrated with the wider communications narrative, and resulting in a marked and measurable behavioural change.</p>
+                                            <p>Because in a world where it's easy to be drowned out by noise, only the best designed and deployed campaigns really stand out.</p>
                                         </div>
                                         <br/>
                                         <p class="orange-more"><a href="#/about/abouthome">&#8249; RETURN TO ABOUT</a></p>
@@ -607,156 +574,282 @@ else {
                                     <div id="leadership_control" class="page-scroll">
                                         <a class='prev'></a><a class='next'></a> 
                                         <div class="num_container"></div>
-                                    </div>	
+                                    </div>
                                     <!--LEADERSHIP-->
-                                     <div id="leadership_wrapper">
-                                            <div id="leadership_container">
-                                                <div class="leadership_page">
-                                                    <div class="columns5-dotted cols-leaders">
-                                                        <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/david1.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>David Finn</strong><br />Chairman</p>
-                                                        </div>
-                                                        <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/kathy.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Kathy Bloomgarden</strong><br />Chief Executive Officer</p>
-                                                        </div>
-                                                        <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/michael.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Michael Schubert</strong><br />Chief Innovation Officer</p>
-                                                        </div>
-                                                        <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/louise.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Louise Harris</strong><br />Chief Global Strategist</p>
-                                                        </div>
-                                                        <div class="col6 last">
-                                                            <p><img class="lazyload-leadership" image-link="images/jean.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Jean-Michel Dumont</strong><br />Chairman, Asia</p>
-                                                        </div>
-                                                        <div class="clearit">&nbsp;</div>
+                                    <div id="leadership_wrapper">
+                                        <div id="leadership_container">
+                                            <div class="leadership_page">
+                                                <div class="columns5-dotted cols-leaders">
+                                                    <div class="col6">
+                                                        <p><img class="lazyload-leadership" image-link="images/kathy.jpg" style="width:100%" alt="" /></p>
+                                                        <p><strong>Kathy Bloomgarden</strong><br />Chief Executive Officer</p>
+                                                    </div>
+                                                    <div class="col6">
+                                                        <p><img class="lazyload-leadership" image-link="images/michael.jpg" style="width:100%" alt="" /></p>
+                                                        <p><strong>Michael Schubert</strong><br />Chief Innovation Officer</p>
+                                                    </div>
+                                                    <div class="col6">
+                                                        <p><img class="lazyload-leadership" image-link="images/nick.jpg" style="width:100%" alt="" /></p>
+                                                        <p><strong>Nick Leonard</strong><br />UK Managing Director</p>
+                                                    </div>
+                                                    <div class="col6">
+                                                        <p><img class="lazyload-leadership" image-link="images/allison.jpg" style="width:100%" alt="" /></p>
+                                                        <p><strong>Alison Denham</strong><br />Director of HR and Operations</p>
+                                                    </div>
+                                                    <div class="col6">
+                                                        <p><img class="lazyload-leadership" image-link="images/beckey.jpg" style="width:100%" alt="" /></p>
+                                                        <p><strong>Beckey McMichael</strong><br />Head of Strategy and Innovation</p>
+                                                    </div>
+                                                    <div class="col6 last">
+                                                        <p><img class="lazyload-leadership" image-link="images/ian.jpg" style="width:100%" alt="" /></p>
+                                                        <p><strong>Ian Glover</strong><br />Finance Director</p>
                                                     </div>
                                                     <div class="clearit">&nbsp;</div>
-                                                    <p class="h-line">&nbsp;</p>
-                                                    <div class="columns5-dotted cols-leaders">
-                                                        <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/scott.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Scott Schneider</strong><br />Chief Digital Officer</p>
-                                                        </div>
-                                                        <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/susan.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Susan Goldstein</strong><br />Global Head of Health & Wellness</p>
-                                                        </div>
-                                                        <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/rachel.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Rachel Spielman</strong><br />Global Head of Corporate Communications</p>
-                                                        </div>
-                                                        <div class="col6">
-                                        					<p><img class="lazyload-leadership" image-link="images/nick.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Nick Leonard</strong><br />Managing Director, Ruder Finn London</p>
-                                                        </div>
-                                                        <div class="col6 last">
-                                                            <p><img class="lazyload-leadership" image-link="images/emmanuel.jpg" style="width:100% "alt="" /></p>
-                                                            <p><strong>Emmanuel Tchividjian</strong><br />Chief Ethics Officer</p>
-                                                        </div>
-
-                                                        <div class="clearit">&nbsp;</div>
-                                                    </div>
-                                                    <div class="clearit">&nbsp;</div>
-                                               </div>
-                                               <div class="leadership_page">
-                                                    <div class="columns5-dotted cols-leaders">
-                                                        <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/trina.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Trina Chiara</strong><br />EVP, Healthcare Strategy</p>
-                                                        </div>
-                                                         <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/John_McInerney.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>John McInerney</strong><br />Director of Brand Marketing & Social, RFI Studios</p>
-                                                        </div>
-                                                        <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/jen.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Jen Long</strong><br />Director of Technology & Innovation</p>
-                                                        </div>
-                                                        <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/Dushka.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Dushka Zapata</strong><br />Managing Director West Coast</p>
-                                                        </div>
-														<div class="col6  last">
-                                                            <p><img class="lazyload-leadership" image-link="images/stephen-downs.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Stephen Downs</strong><br />Managing Director, RFI Studios West</p>
-                                                        </div>
-                                                        <div class="clearit">&nbsp;</div>
-                                                    </div>
-                                                    <div class="clearit">&nbsp;</div>
-                                                    <p class="h-line">&nbsp;</p>
-                                                    <div class="columns5-dotted cols-leaders">
-                                                    	<div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/heather.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Heather Gartman</strong><br />Director, DC Healthcare</p>
-                                                        </div>
-                                                        <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/fiona.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Fiona Phillips</strong><br />SVP, Healthcare</p>
-                                                        </div>
-                                                        <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/sarah.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Sarah Coles</strong><br />Director of CSR</p>
-                                                        </div>
-                                                        <div class="col6">
-                                       						<p><img class="lazyload-leadership" image-link="images/elan.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Elan Shou</strong><br />SVP & Managing Director, China</p>
-                                                        </div>
-                                                        <div class="col6 last">
-                                                            <p><img class="lazyload-leadership" image-link="images/mai.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Mai Tran</strong><br />EVP, Health & Wellness, Asia</p>
-                                                        </div>
-                                                        <div class="clearit">&nbsp;</div>
-                                                    </div>
-                                                    <div class="clearit">&nbsp;</div>
-                                               </div>
-                                               <div class="leadership_page">
-                                                   <div class="columns5-dotted cols-leaders">
-                                                   		<div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/gao.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Gao Ming</strong><br />SVP & General Manager, Shanghai </p>
-                                                        </div>
-                                                   		<div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/yu.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Poh Leng Yu</strong><br />VP & General Manager, Singapore</p>
-                                                        </div>
-                                                        <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/paul.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Paul Yang</strong><br />General Manager, Beijing</p>
-                                                        </div>
-                                                        <div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/sharon.jpg" style="width:100% "alt="" /></p>
-                                                            <p><strong>Sharon Liao</strong><br />SVP & General Manager, Guangzhou</p>
-                                                        </div>
-                                                        <div class="col6 last">
-                                                            <p><img class="lazyload-leadership" image-link="images/elsie.jpg" style="width:100% "alt="" /></p>
-                                                            <p><strong>Elsie Leung</strong><br />Deputy General Manager, Hong Kong</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="clearit">&nbsp;</div>
-                                                    <p class="h-line">&nbsp;</p>
-                                                    <div class="columns5-dotted cols-leaders">
-                                                    	<div class="col6">
-                                                            <p><img class="lazyload-leadership" image-link="images/radha.jpg" style="width:100%" alt="" /></p>
-                                                            <p><strong>Radha Roy</strong><br />Country Head, India</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="clearit">&nbsp;</div>
-                                               </div>
+                                                </div>
+                                                <div class="clearit">&nbsp;</div>
+                                           </div>
                                         </div>
                                     </div>
                                     <!--LEADERSHIP-->
                                 </div>
                                 
                             </div>
+                            <div id='awards' class='hiddenContentArea'>
+                                <div class="landing4">
+                                    <h2>AWARDS</h2>
+                                    <div id="threeAwards">
+                                        <div class="awards-big"><!--<a href="#/about/awards/webby">--><img class="lazyload-awards" image-link="images/prca-award.jpg" /><!--</a><p><b>WINNER</b> / RFI Studios</p>--></div>
+                                        <div class="awards-big"><!--<a href="#/about/awards/anvil">--><img class="lazyload-awards" image-link="images/silver-anvil-award.jpg" /><!--</a><p><b>SILVER ANVILS</b> / RF Healthcare</p>--></div>
+                                        <div class="awards-big last"><!--<a href="#/about/awards/sabre">--><img class="lazyload-awards" image-link="images/sabre-award.jpg" /><!--</a><p><b>WINNER</b> / RF Corporate Communications</p>--></div>
+                                        <div class="clear"></div>
+                                    </div>
+                                    <div id="awards_control" class="page-scroll">
+                                        <a class='prev'></a><a class='next'></a> 
+                                        <div class="num_container"></div>
+                                    </div>  
+                                    <div id="awards_wrapper">
+                                        <div id="awards_container">
+                                            <div class="awards_page">
+                                                <div class="awards-block first">
+                                                    <img class="lazyload-awards" image-link="images/CIPRA-award-t.jpg" />
+                                                    <p><b>GOLDEN AWARD</b><br/>Ruder Finn Asia</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/communique-award-t.jpg" />
+                                                    <p><b>FINALIST</b><br/>Ruder Finn UK</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/china-award-t.jpg" />
+                                                    <p><b>WINNERS</b><br/>Ruder Finn China</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/PR-Week-award-t.jpg" />
+                                                    <p><b>CERTIFICATE OF EXCELLENCE</b><br/>Ruder Finn China</p>
+                                                </div>
+                                                <div class="awards-block last">
+                                                    <img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
+                                                    <p><b>WINNERS</b><br/>Ruder Finn Corporate Communications Group</p>
+                                                </div>
+                                                <div class="clear"></div>
+                                            </div>
+                                            <div class="awards_page">
+                                                <div class="awards-block first">
+                                                    <img class="lazyload-awards" image-link="images/webby-award-t.jpg" />
+                                                    <p><b>HONOREE</b><br/>RF Innovation Studios</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/PRSA-award-t.jpg" />
+                                                    <p><b>BRONZE ANVIL: AWARD of COMMENDATION</b><br/>Healthcare Education</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                     <img class="lazyload-awards" image-link="images/gold-standard-award-t.jpg" />
+                                                    <p><b>FINALIST</b><br/>Ruder Finn Asia</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/PR-Week-award-t.jpg" />
+                                                    <p><b>HONORABLE MENTION</b><br/>Ruder Finn Asia</p>
+                                                </div>
+                                                <div class="awards-block last">
+                                                    <img class="lazyload-awards" image-link="images/PR-Week-award-t.jpg" />
+                                                    <p><b>HONORABLE MENTION</b><br/>RF Corporate Communications Group</p>
+                                                </div>
+                                                <div class="clear"></div>
+                                            </div>
+                                            <div class="awards_page">
+                                                <div class="awards-block first">
+                                                    <img class="lazyload-awards" image-link="images/sabre-award-t.jpg" />
+                                                    <p><b>GOLD SABRE</b><br/>RF Corporate Communications Group</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/sabre-award-t.jpg" />
+                                                    <p><b>SILVER SABRE</b><br/>RF Corporate Communications Group with Arts & Communications Counselors</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
+                                                    <p><b>WINNERS</b><br/>RF Corporate Communications Group</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
+                                                    <p><b>HONORABLE MENTIONS</b><br/>RF Corporate Communications Group</p>
+                                                </div>
+                                                <div class="awards-block last">
+                                                    <img class="lazyload-awards" image-link="images/CIPRA-award-t.jpg" />
+                                                    <p><b>GOLDEN AWARD</b><br/>Ruder Finn Asia</p>
+                                                </div>
+                                                <div class="clear"></div>
+                                            </div>
+                                            <div class="awards_page">
+                                                <div class="awards-block first">
+                                                    <img class="lazyload-awards" image-link="images/CIPRA-award-t.jpg" />
+                                                    <p><b>SILVER AWARD</b><br/>Ruder Finn Asia</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/sabre-award-t.jpg" />
+                                                    <p><b>GOLD SABRE</b><br/>RF Corporate Communications Group</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
+                                                    <p><b>HONORABLE MENTION</b><br/>RF Global Issues Group</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/csr-award-t.jpg" />
+                                                    <p><b>PR NEWS CSR AWARD</b><br/>RF Global Issues Group</p>
+                                                </div>
+                                                <div class="awards-block last">
+                                                    <img class="lazyload-awards" image-link="images/davey-award-t.jpg" />
+                                                    <p><b>SILVER WINNERS</b><br/>RF Innovation Studios</p>
+                                                </div>
+                                                <div class="clear"></div>
+                                            </div> 
+
+                                            <div class="awards_page">
+                                                <div class="awards-block first">
+                                                    <img class="lazyload-awards" image-link="images/w-web-award-t.jpg" />
+                                                    <p><b>WINNERS</b><br/>RF Innovation Studios</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/pr-sourcecode-award-t.jpg" />
+                                                    <p><b>BEST OF THE BEST in IT PR</b><br/>Ruder Finn</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
+                                                    <p><b>THE BEST OF THE BEST</b><br/>Financial/Investor Relations</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
+                                                    <p><b>BIG APPLE WINNERS</b><br/>Use of Internal Video</p>
+                                                </div>
+                                                <div class="awards-block last">
+                                                    <img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
+                                                    <p><b>HONORABLE MENTION</b><br/>Reputation Management</p>
+                                                </div>
+                                                <div class="clear"></div>
+                                            </div>
+                                            <div class="awards_page">
+                                                <div class="awards-block first">
+                                                    <img class="lazyload-awards" image-link="images/sabre-award-t.jpg" />
+                                                    <p><b>GOLD SABRE</b><br/>Executive Leadership</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/sabre-award-t.jpg" />
+                                                    <p><b>SILVER SABRE</b><br/>Pharmaceutical: RX</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/sabre-award-t.jpg" />
+                                                    <p><b>BRONZE SABRE</b><br/>Employee Publication</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/PRSA-award-t.jpg" />
+                                                    <p><b>SILVER ANVIL</b><br/>Investors Relations</p>
+                                                </div>
+                                                <div class="awards-block last">
+                                                    <img class="lazyload-awards" image-link="images/PR-Week-award-t.jpg" />
+                                                    <p><b>HONORABLE MENTIONS</b><br/>Reputation Management</p>
+                                                </div>
+                                                <div class="clear"></div>
+                                            </div>
+                                            <div class="awards_page">
+                                                <div class="awards-block first">
+                                                    <img class="lazyload-awards" image-link="images/webby-award-t.jpg" />
+                                                    <p><b>NOMINEE</b><br/>Corporate Communications, Pharmaceuticals</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/webby-award-t.jpg" />
+                                                    <p><b>OFFICIAL HONOREE</b><br/>last award</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/int-business-award-t.jpg" />
+                                                    <p><b>WINNER</b><br/>Overall Design</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/int-business-award-t.jpg" />
+                                                    <p><b>FINALIST MENTIONS</b><br/>Brand Building, Product Information, Home page</p>
+                                                </div>
+                                                <div class="awards-block last">
+                                                    <img class="lazyload-awards" image-link="images/telly-award-t.jpg" />
+                                                    <p><b>WINNER</b><br/>Museum of Modern Art</p>
+                                                </div>
+                                                <div class="clear"></div>
+                                            </div>
+
+                                            <div class="awards_page">
+                                                <div class="awards-block first">
+                                                    <img class="lazyload-awards" image-link="images/telly-award-t.jpg" />
+                                                    <p><b>BRONZE AWARDS</b><br/>Open Oncology: GIPAP, Novartis</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/davey-award-t.jpg" />
+                                                    <p><b>4 SILVER AWARDS</b><br/>Ruder Finn</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/creative-int-award-t.jpg" />
+                                                    <p><b>CREATIVITY 36</b><br/>Ruder Finn</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/PR-Week-award-t.jpg" />
+                                                    <p><b>CERTIFICATE OF EXCELLENCE</b><br/>Ruder Finn Asia</p>
+                                                </div>
+                                                <div class="awards-block last">
+                                                    <img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
+                                                    <p><b>WINNERS</b><br/>Community Relations, Cause Related Marketing, Marketing Communications</p>
+                                                </div>
+
+                                                <div class="clear"></div>
+                                            </div>
+
+                                            <div class="awards_page">
+                                                <div class="awards-block first">
+                                                    <img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
+                                                    <p><b>HONORABLE MENTIONS</b><br/>Corporate Communication Reputation Management</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/PRSA-award-t.jpg" />
+                                                    <p><b>SILVER ANVIL</b><br/>Public Services – Business</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/PRSA-award-t.jpg" />
+                                                    <p><b>BRONZE ANVIL</b><br/>Award of Commendation</p>
+                                                </div>
+                                                <div class="awards-block">
+                                                    <img class="lazyload-awards" image-link="images/sabre-award-t.jpg" />
+                                                    <p><b>WINNERS</b><br/>Cause-Related Marketing, Corporate Social Responsibility</p>
+                                                </div>
+                                                <div class="awards-block last">
+                                                    <img class="lazyload-awards" image-link="images/PRSA-award-t.jpg" />
+                                                    <p><b>WINNER</b><br/>Feature, News Articles or Op-Eds</p>
+                                                </div>
+
+                                                <div class="clear"></div>
+                                            </div>
+                                        </div>
+                                        <div class="clear"></div>
+                                    </div>
+                                </div>
+                            </div>
                             <div id='offices' class='hiddenContentArea'>
                             	<div class="landing4">
                                     <h2>OFFICES & CONTACT</h2>
-                                    <p>For all business inquiries, contact the Business Development team at <a class="green email" href="mailto:info@ruderfinn.com">info@ruderfinn.com</a><br />For all other inquiries, send an email to <a class="green email" href="mailto:info@ruderfinn.com">info@ruderfinn.com</a>
+                                    <p>For all business inquiries, contact the Business Development team at <a class="green email" href="mailto:info@ruderfinn.com">info@ruderfinn.com</a><br />For all other inquiries, send an email to <a class="green email" href="mailto:whywork@ruderfinn.com">whywork@ruderfinn.com</a>
                                     </p>
                                     <p class="dotted-line">&nbsp;</p>
                                     <div id="offices">
@@ -961,258 +1054,19 @@ else {
                                     </div>
                                 </div>
                             </div>
-                            <div id='awards' class='hiddenContentArea'>
-                            	<div class="landing4">
-                                	<h2>AWARDS</h2>
-                                    <div id="threeAwards">
-                                    	<div class="awards-big"><a href="#/about/awards/webby"><img class="lazyload-awards" image-link="images/webby-award.jpg" /></a><p><b>WINNER</b> / RFI Studios</p></div>
-                                        <div class="awards-big"><a href="#/about/awards/anvil"><img class="lazyload-awards" image-link="images/silver-anvil-award.jpg" /></a><p><b>SILVER ANVILS</b> / RF Healthcare</p></div>
-                                        <div class="awards-big last"><a href="#/about/awards/sabre"><img class="lazyload-awards" image-link="images/sabre-award.jpg" /></a><p><b>WINNER</b> / RF Corporate Communications</p></div>
-                                        <div class="clear"></div>
-                                    </div>
-                                    <div id="awards_control" class="page-scroll">
-                                        <a class='prev'></a><a class='next'></a> 
-                                        <div class="num_container"></div>
-                                    </div>	
-                                    <div id="awards_wrapper">
-                                        <div id="awards_container">
-                                            <div class="awards_page">
-                                            	<div class="awards-block first">
-                                                	<img class="lazyload-awards" image-link="images/sabre-award-t.jpg" />
-                                                    <p><b>GOLD SABRE</b><br/>RF Corporate Communications Group</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
-                                                    <p><b>THE BEST OF THE BEST</b><br/>Financial/Investor Relations Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/webby-award-t.jpg" />
-                                                    <p><b>WINNER</b><br/>RFI Studios - Activism Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/CIPRA-award-t.jpg" />
-                                                    <p><b>GOLDEN AWARD</b><br/>Ruder Finn Asia - Environmental Protection</p>
-                                                </div>
-                                                <div class="awards-block last">
-                                                	<img class="lazyload-awards" image-link="images/PRSA-award-t.jpg" />
-                                                    <p><b>BRONZE ANVIL</b><br/>RF Corporate Communications Group - AWARD OF COMMENDATION</p>
-                                                </div>
-                                                <div class="clear"></div>
-                                            </div>
-                                            <div class="awards_page">
-                                            	<div class="awards-block first">
-                                                	<img class="lazyload-awards" image-link="images/davey-award-t.jpg" />
-                                                    <p><b>SILVER WINNER</b><br/>RFI Studios - Activism Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/w-web-award-t.jpg" />
-                                                    <p><b>WINNER</b><br/>RFI Studios - Sports Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/communique-award-t.jpg" />
-                                                    <p><b>FINALIST</b><br/>Ruder Finn UK - Best User of International Media Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/pr-sourcecode-award-t.jpg" />
-                                                    <p><b>BEST OF THE BEST</b><br/>Corporate Communications Group - IT in PR Category</p>
-                                                </div>
-                                                <div class="awards-block last">
-                                                	<img class="lazyload-awards" image-link="images/sabre-award-t.jpg" />
-                                                    <p><b>GOLD SABRE</b><br/>Corporate Communications Group - Executive Leadership Category</p>
-                                                </div>
-                                                <div class="clear"></div>
-                                            </div>
-                                            <div class="awards_page">
-                                            	<div class="awards-block first">
-                                                	<img class="lazyload-awards" image-link="images/webby-award-t.jpg" />
-                                                    <p><b>NOMINEE</b><br/>RFI Studios - Corporate Communications Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
-                                                    <p><b>WINNER</b><br/>Corporate Communications - Use of Internal Video Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/sabre-award-t.jpg" />
-                                                    <p><b>SILVER SABRE</b><br/>RF Healthcare - Pharmaceutical: RX Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/china-award-t.jpg" />
-                                                    <p><b>WINNERS</b><br/>Ruder Finn China - Creative Excellence</p>
-                                                </div>
-                                                <div class="awards-block last">
-                                                	<img class="lazyload-awards" image-link="images/w-web-award-t.jpg" />
-                                                    <p><b>WINNERS</b><br/>RFI Studios - Pharmaceuticals Category</p>
-                                                </div>
-                                                <div class="clear"></div>
-                                            </div>
-                                            <div class="awards_page">
-                                            	<div class="awards-block first">
-                                                	<img class="lazyload-awards" image-link="images/PRSA-award-t.jpg" />
-                                                    <p><b>BRONZE ANVIL</b><br/>RF Healthcare -AWARD OF COMMENDATION: Healthcare Education Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
-                                                    <p><b>WINNER</b><br/>RF Healthcare - Internal Communications Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/CIPRA-award-t.jpg" />
-                                                    <p><b>SILVER AWARD</b><br/>Ruder Finn Asia - Corporate Social Responsibility Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/int-business-award-t.jpg" />
-                                                    <p><b>WINNER</b><br/>RFI Studios - Overall Design of Website</p>
-                                                </div>
-                                                <div class="awards-block last">
-                                                	<img class="lazyload-awards" image-link="images/PRSA-award-t.jpg" />
-                                                    <p><b>WINNERS</b><br/>RF Corporate Communications - Feature, News Articles or Op-Eds Category</p>
-                                                </div>
-                                                <div class="clear"></div>
-                                            </div>
-                                            <div class="awards_page">
-                                            	<div class="awards-block first">
-                                                	<img class="lazyload-awards" image-link="images/davey-award-t.jpg" />
-                                                    <p><b>SILVER WINNER</b><br/>RFI Studios -Healthcare Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/sabre-award-t.jpg" />
-                                                    <p><b>BRONZE SABRE</b><br/>RF Healthcare - Employee Publication Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/PR-Week-award-t.jpg" />
-                                                    <p><b>CERTIFICATE OF EXCELLENCE</b><br/>Ruder Finn China - Green Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/gold-standard-award-t.jpg" />
-                                                    <p><b>FINALIST</b><br/>Ruder Finn Asia - Public Affairs (Consultancy) Category</p>
-                                                </div>
-                                                <div class="awards-block last">
-                                                	<img class="lazyload-awards" image-link="images/webby-award-t.jpg" />
-                                                    <p><b>NOMINEE</b><br/>RFI Studios - Pharmaceuticals Category</p>
-                                                </div>
-                                                <div class="clear"></div>
-                                            </div>
-                                            <div class="awards_page">
-                                            	<div class="awards-block first">
-                                                	<img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
-                                                    <p><b>WINNER</b><br/>RF Corporate Communication - Corporate Social Responsibility Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/int-business-award-t.jpg" />
-                                                    <p><b>FINALIST</b><br/>RFI Studios - Brand Building Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/CIPRA-award-t.jpg" />
-                                                    <p><b>GOLDEN AWARD</b><br/>Ruder Finn Asia - Long Term CSM Campaign Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/PR-Week-award-t.jpg" />
-                                                    <p><b>HONORABLE MENTION</b><br/>RF Corporate Communications - Reputation Management Category</p>
-                                                </div>
-                                                <div class="awards-block last">
-                                                	<img class="lazyload-awards" image-link="images/davey-award-t.jpg" />
-                                                    <p><b>SILVER AWARD</b><br/>RFI Studios Out-of-the-box Thinking Category</p>
-                                                </div>
-                                                <div class="clear"></div>
-                                            </div>
-                                            <div class="awards_page">
-                                            	<div class="awards-block first">
-                                                	<img class="lazyload-awards" image-link="images/w-web-award-t.jpg" />
-                                                    <p><b>WINNER</b><br/>RFI Studios - Non-Profit Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
-                                                    <p><b>WINNER</b><br/>RF Healthcare - Community Relations Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/sabre-award-t.jpg" />
-                                                    <p><b>WINNERS</b><br/>RF Corporate Communications - Corporate Social Responsibility Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/PRSA-award-t.jpg" />
-                                                    <p><b>SILVER ANVIL</b><br/>RF Corporate Communications - Investor Relations Category</p>
-                                                </div>
-                                                <div class="awards-block last">
-                                                	<img class="lazyload-awards" image-link="images/creative-int-award-t.jpg" />
-                                                    <p><b>WINNER</b><br/>RF Corporate Communications - Branding Campaign Category</p>
-                                                </div>
-                                                <div class="clear"></div>
-                                            </div>
-                                            <div class="awards_page">
-                                            	<div class="awards-block first">
-                                                	<img class="lazyload-awards" image-link="images/w-web-award-t.jpg" />
-                                                    <p><b>WINNER</b><br/>RFI Studios -Education Category</p>
-                                                </div>
-                                                <div class="awards-block">
-                                                	<img class="lazyload-awards" image-link="images/PR-Week-award-t.jpg" />
-                                                    <p><b>HONORABLE MENTION</b><br/>RF Corporate Communications - Entertainment & Media Campaign Category</p>
-                                                </div>
-                                                <div class="awards-block last">
-                                                	<img class="lazyload-awards" image-link="images/prsa-new-york-award-t.jpg" />
-                                                    <p><b>WINNER</b><br/>RF Corporate Communications - Marketing Communications Category</p>
-                                                </div>
-                                                <div class="clear"></div>
-                                            </div>
-                                        </div>
-                                        <div class="clear"></div>
-                                    </div>
-                                    <div class="clear"></div>
-                                    <div class="awards-detail" id="awards-detail-1">
-                                    	<div class="awards-big-images"><img class="lazyload-awards" image-link="images/webby-award-big.jpg" /></div>
-                                        <div class="awards-r-detail">
-                                        	<h3>WINNER / RFI Studios</h3>
-                                            <p>RFI Studios won a Webby Award in the Activism category for its work creating the <a href="http://www.loveisrespect.org/" target="_blank">Love Is Respect</a> website.  This award honors the site that best "empowers and educates people and facilitates civic participation."  RFI continues to enjoy several Webby nominations, including becoming finalist honorees for their work with the Palo Alto Research Center (PARC) in the Corporate Communications category, as well as their work with <a href="http://www.loveisrespect.org/" target="_blank">ReadWriteThink.org</a> in the Education category.</p>
-                                            <br/>
-                                            <p class="orange-more"><a href="#/about/awards">&#8250; RETURN TO AWARDS</a></p>
-                                        </div>
-                                        <div class="clear"></div>
-                                    </div>
-                                    <div class="awards-detail" id="awards-detail-2">
-                                    	<div class="awards-big-images"><img class="lazyload-awards" image-link="images/silver-anvil-award-big.jpg" /></div>
-                                        <div class="awards-r-detail">
-                                        	<h3>SILVER ANVILS / RF Healthcare</h3>
-                                            <p>Three Ruder Finn campaigns received Awards of Excellence at the <a href="http://www.prsa.org/awards/silveranvil" target="_blank">2010 Silver Anvils</a> , and Ruder Finn's Healthcare group received a Bronze Anvil for its Health Reporting Handbook for client Bristol-Myer Squibb.  The Bronze Anvil-winning BMS campaign "Raising Awareness of Chronic Hepatitis B Among Asian-Americans" centered on a Health Reporting Handbook initiative to promote awareness of the disease. In addition to the BMS campaign, Ruder Finn's reputation-building work for Quallion LLC and a Novartis Corporate Reputation campaign received Awards of Excellence at the Silver Anvil Ceremony.</p>
-                                            <br/>
-                                            <p class="orange-more"><a href="#/about/awards">&#8250; RETURN TO AWARDS</a></p>
-                                        </div>
-                                        <div class="clear"></div>	
-                                    </div>
-                                    <div class="awards-detail" id="awards-detail-3">
-                                    	<div class="awards-big-images"><img class="lazyload-awards" image-link="images/sabre-award-big.jpg" /></div>
-                                        <div class="awards-r-detail">
-                                        	<h3>WINNER / RF Corporate Communications</h3>
-                                            <p>Ruder Finn has had the honor of winning many Sabre Awards throughout the years.  Most recently, Abbott and Ruder Finn were awarded the 2011 PRSA-NY Big Apple Award in the Marketing Consumer Services: Healthcare category for the CFCareForward Scholarship program.   Ruder Finn is proud to support Abbott further extend its nearly 25-year-commitment of helping people with cystic fibrosis (CF) manage their health.  In 2010, the Ruder Finn Corporate Communications Group won a Gold Sabre for their work with Novartis CEO Leverages Leadership: Navigating Choppy Waters and Weathering Worst Economic Environment in Decades, as well as a Silver Sabre for their work with Alvin Ailey American Dance Theater: Celebrating the Spirit.</p>
-                                            <br/>
-                                            <p class="orange-more"><a href="#/about/awards">&#8250; RETURN TO AWARDS</a></p>
-                                        </div>
-                                        <div class="clear"></div>	
-                                    </div>
-                                </div>
-                            </div>
+                            
                             <div id='career' class='hiddenContentArea'>
                             	<div class="landing">
-                                    <h2>CAREER</h2>
+                                    <h2>CAREERS</h2>
                                     <div class="img-careers" >
                                         <p><img class="lazyload" image-link="images/careers-photo.jpg" style="width:100%" alt="" /></p>
                                     </div>
-                                    <h3 class="about">Let us tell you about a career at Ruder Finn</span></h3>
+                                    
                                     <div class="careers_r_content">
                                     	<div class="scroll-pane">
-                                            <p>Who we are:</p>
-<p>We are one of the world's largest privately-held agencies. We're a dynamic and energetic group of communications professionals who place a high priority on using problem-solving skills, ingenuity and imagination to help clients achieve real business results.</p>
-
-<p>INDEPENDENCE is a core value. In what has become an acquisition-oriented industry, Ruder Finn has the freedom to chart our own course and listen to our own conscience as we keep clients front and center.</p>
-
-<p>DIVERSITY—of people and opinions—helps us enlarge our worldview in a complex world. We believe creativity thrives in an open environment where every voice counts and dialogue is a valued currency.</p>
-
-<p>INNOVATION reflects our reverence for creativity. There is no cookie-cutter "Ruder Finn way" of churning out communications programs; we're always on the lookout for new ideas. We strive to provide a supportive environment where people count on.</p>
-
-<p>Meaningful work. Great clients. Excellent teams. Collaborative atmosphere. Room to advance.</p>
-
-<p>We're committed to delivering something special to attract outstanding talent...like you!</p>
+                                            <p>Ruder Finn in one of the world's biggest independent agencies and you will have the opportunity to work on some fantastic brands on big, global campaigns. Now is an exciting time for us – we have just moved into some fantastic new offices, have many new clients and great momentum going into 2012. If you want a varied comms challenge that touches digital, PR and experiential communications, all underpinned by clever insights, get in touch <a href="mailto:whywork@ruderfinn.co.uk">here</a>.</p>
                                         </div>
-                                        <br/>
-                                        <br/>
-                                        <p class="orange-more"><a href="http://www.ruderfinn.com/careers/">&#8249; VISIT RUDERFINN CAREER SITE</a></p>
+                                        <p class="orange-more"><a href="mailto:whywork@ruderfinn.co.uk">&#8249; EMAIL RUDERFINN UK</a></p>
                         			</div>
                                     <div class="clearit">&nbsp;</div>
                                 </div>
@@ -1235,21 +1089,21 @@ else {
                     	
                         <div class="horiz_line"></div>
                         <div class="news_block first" id="news1" style="margin-top: 30px;">
-                            <a class="fancy-trigger" href="#/highlights/RFIChina-box">
-                            	<h1 class="news_title">Ruder Finn Expands Global Digital Capabilities to San Francisco and China Markets</h1>
-                            	<img src="images/thumb_RFI_China.jpg" />
+                            <a class="fancy-trigger" href="#/highlights/ACCA-box">
+                            	<h1 class="news_title">ACCA</h1>
+                            	<img src="images/thumb_ACCA.jpg" />
                             </a>
                         </div>
                         <div class="news_block" id="news2" style="margin-top: 30px;">
-                            <a class="fancy-trigger" href="#/highlights/Emmanuel-box">
-                            	<h1 class="news_title">Ruder Finn SVP and Chief Ethics Officer Emmanuel Tchividjian Honored with PRSA-NY’s Annual President's Award</h1>
-                            	<img src="images/thumb_Emmanuel.jpg" />
+                            <a class="fancy-trigger" href="#/highlights/survival-box">
+                            	<h1 class="news_title">Survival Campaign Experts in Health Advocacy</h1>
+                            	<img src="images/thumb_survival_campaign.jpg" />
                             </a>
                         </div>
                         <div class="news_block" id="news3" style="margin-top: 30px;">
-                        	<a class="fancy-trigger" href="#/highlights/fastCompany-box">
-                            	<h1 class="news_title">RF Lands French Fashion Group PPR on Fast Company's "50 Most Innovative Companies" List</h1>
-                            	<img src="images/fastCompany_thumb.jpg" />
+                        	<a class="fancy-trigger" href="#/highlights/voices-box">
+                            	<h1 class="news_title">Voices</h1>
+                            	<img src="images/thumb_voices.jpg" />
                             </a>
                         </div>
                     
@@ -1263,21 +1117,21 @@ else {
                             </a>
                         </div>-->
                          <div class="news_block first" id="news4" style="margin-top: 30px;">
-                           <a class="fancy-trigger" href="#/highlights/citi-past-future-box">
-                            	<h1 class="news_title">RF and Citi Win PRWeek Award for Employee Communications Campaign of the Year</h1>
-                            	<img src="images/citiPastFuture.jpg" />
+                           <a class="fancy-trigger" href="#/highlights/jumeirah-box">
+                            	<h1 class="news_title">RF Asia Signs Retainer Contract with Jumeirah Group</h1>
+                            	<img src="images/thumb_jumeirah.jpg" />
                             </a>
                         </div>
                         <div class="news_block" id="news5" style="margin-top: 30px;">
-                        	<a class="fancy-trigger" href="#/highlights/mhealth-box">	
-                            	<h1 class="news_title">RF Launches Health IT Offering and Release mHealth Report</h1>
-                            	<img src="images/mHealth_thumb.jpg" />
+                        	<a class="fancy-trigger" href="#/highlights/dream-machine-box">	
+                            	<h1 class="news_title">Pepsico Dream Machine</h1>
+                            	<img src="images/thumb_dream_machine.jpg" />
                             </a>
                         </div>
                         <div class="news_block" id="news6" style="margin-top: 30px;">
-                        	<a class="fancy-trigger" href="#/highlights/citi200-box">
-                            	<h1 class="news_title">Citi Celebrates 200 Years</h1>
-                            	<img src="images/citi200-thumb.jpg" />
+                        	<a class="fancy-trigger" href="#/highlights/india-box">
+                            	<h1 class="news_title">RF Announces Its First Office in India</h1>
+                            	<img src="images/thumb_india.jpg" />
                             </a>
                         </div>
                         <div class="clear"></div>
@@ -1291,76 +1145,39 @@ else {
                             <div class="clear"></div>
                             <div id="highlights_wrapper">
                                 <div id="highlights_container">
-                                	<div class="highlights_block"><a class="fancy-trigger" href="#/highlights/mjf-box"><p>RF Supports the Michael J. Fox Foundation in Driving Clinical Trial Participation</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/fourseasons-box"><p>RF Sister Agency Thunder Communications Selected by Four Seasons as AOR in China</p></a></div>
-                                    
-                                    
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/wannabewell-box"><p>RF and Council for Responsible Nutrition Foundation Launch WannaBeWell App</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/parsons-box"><p>Ruder Finn Supports PPR's "Empowering Imagination" Design Competition for Parsons Students</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/bronze-box"><p>Ruder Finn Celebrates 2012 Bronze Anvil Wins</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/AUA-box"><p>AUA Foundation Launches Campaign Addressing Stigma of Overactive Bladder</p></a></div>
-                                    
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/gala-box"><p>The Economist chooses Ruder Finn as official PR Agency for The World in 2013 events in</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/supplemental-box"><p>Council for Responsible Nutrition Launches the Supplemental blog</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/miyanmar-box"><p>Ruder Finn Supports Non-Profit Organization's Fight Against AIDs</p></a></div>
-                                    
-
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/knowyourstats-box"><p>RF Supports the NFL & AUA Foundation's "Know Your Stats" Campaign</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/bulldog-box"><p>RF Wins Gold Bulldog Digital/Social PR Awards for Mountain Dew Throwback Shack</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/caribou-box"><p>RF and Caribou Coffee to Partner on Brand-Building PR and Social Media Programming</p></a></div>
-                                    
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/india-box"><p>RF Announces Its First Office in India</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/parkinsons-box"><p>Activating Awareness and Driving Progress Towards a Parkinson's Cure</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/cfcf-box"><p>Big Apple Award Win in the Marketing Consumer Services</p></a></div>
-                                    
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/fandewmonium-box"><p>FanDEWmonium</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/guangzhou-box"><p>Unveiling of the Guangzhou Opera House</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/lyovel-box"><p>RF Helps Lyovel Build a Better Coffee Break</p></a></div>
-                                    
-
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/matrix-box"><p>Shear Excitement Over L'Oreal Matrix Site</p></a></div>
+                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/kathy-box"><p>CEO Kathy Bloomgarden on How Social Media Helped PR</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/ILSI-box"><p>i20 Summit:Institute for Large Scale Innovation</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/WHCC-box"><p>The 8th Annual World Health Care Congress</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/kathy-box"><p>CEO Kathy Bloomgarden on How Social Media Helped PR</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/rfcharity-box"><p>RF Launches "Ruder Finn Cares" Charity Drive</p></a></div>
+                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/ruder-box"><p>In Memory of Bill Ruder</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/rfii-box"><p>The Reason You Go Online</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/reinvention-box"><p>The Reinvention of Chinese Brands: SVP Elan Shou in CNN</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/dewmo-box"><p>Launching Mountain Dew White Out Charity Drive</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/senior-box"><p>Senior Appointments Strengthen Asian Footprint</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/emmy-box"><p>Emmy Award-nominated Television Producer Moves to Ruder Finn</p></a></div>
-                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/callofduty-box"><p>RF Promotes the Return of Mountain Dew Game Fuel and its partnership with Call of Duty</p></a></div>
+                                    <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/luxuary-forecast-box"><p>RF Asia Unveils 2010 Luxury Forecast</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/kerry-box"><p>Former Bloomberg BusinessWeek Senior Correspondent Kerry Capell Joins RF as SVP</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/prsa-box"><p>RF Recognized at the PRSA's 2010 Silver Anvils</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/solvay-box"><p>RF Celebrates Big Apple Honors for Novartis, Solvay Campaigns</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/webby-box"><p>2010 Webby Awards Recognize RFI Studios' Campaigns for Verizon Foundation, PARC</p></a></div>
-                                    
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/internet-box"><p>RF's New Study Reveals "Intent" Behind Mobile Internet Use</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/teens-box"><p>Study Shows Teens are the New Digital influencers, Driving Moms Online</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/kpa-box"><p>RF Wins King Pharmaceuticals Account</p></a></div>
-                                    
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/kaj-box"><p>RF Launches Educational Campaign with Kareem Abdul-Jabbar</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/pepsi-box"><p>RF Raises Awareness of Pepsi's Longstanding Commitment to Workplace Equality</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/rachel-box"><p>RF EVP Rachel Spielman Talks Creativity in PR Week Op-Ed</p></a></div>
-                                    
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/blogs-box"><p>Kathy Bloomgarden Blogs for Harvard Business Review</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/confidence-box"><p>RF Asia Studies Reveal Confidence High Among Chinese Luxury Consumers</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/online-box"><p>RF's New Study of Online Behavior Focuses On User Intent</p></a></div>
-                                    
-                                
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/parc-box"><p>RFI Launches New Website Redesign for PARC (Palo Alto Research Center, Inc., a Xerox company)</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/hk-box"><p>Ruder Finn Social Media Practice Expands to Hong Kong</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/fight-box"><p>RF Asia Joins Fight Against Human Trafficking</p></a></div>
-                                
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/scott-box"><p>RF's Scott Schneider Speaks at the UN Web Conference</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/lir-box"><p>NY Times Brings Attention to www.loveisrespect.com</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/david-box"><p>David Finn Honored as a Founding Father of Public Relations</p></a></div>
-                               
-                           
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/women-box"><p>RF Among Top 25 Women-Run Companies in New York</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/alvin-box"><p>CBS Evening News Features RF Client Alvin Ailey American Dance Theater</p></a></div>
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/smokeybear-box"><p>RFI Relaunches Smokeybear.com</p></a></div>
-                                
                                     <div class="highlights_block"><a class="fancy-trigger" href="#/highlights/nick-box"><p>RF Diversifies UK Offering with New MD Nick Leonard</p></a></div>
+                                    
                                 </div>
                                 <div class="clear"></div>
                             </div>
@@ -1381,8 +1198,8 @@ else {
                         <div class="horiz_line"></div>
                         <div id="section1">
                             <div style="height:80%; border-right:1px solid #E0E0E0; margin-top:44px">
-                                <a href="http://www.rfistudios.com/blog/" target="_blank"><div class="voices-title"><font color="#8CB204">RFI Studios</font> <font color="#FF9900">Blog</font></div></a>
-                                <p class="voicesDescription" id="section1Description" style="margin: 0px 25px 0px 0px">The RFI Studios blog puts the digital world under a microscope, discovering what's new, overlooked, or downright interesting.</p>
+                                <a href="http://www.ruderfinn.co.uk/blogs/dotcom/" target="_blank"><div class="voices-title"><font color="#8CB204">Dot</font> <font color="#FF9900">Comms</font></div></a>
+                                <p class="voicesDescription" id="section1Description" style="margin: 0px 25px 0px 0px">Thoughts, comment and opinion on communications with a sprinkle of things that inspire us.</p>
                             </div>
                         </div>
                         <div id="section2">
@@ -1393,8 +1210,8 @@ else {
                         </div>
                         <div id="section3">
                             <div class='sections' style="height:80%; border-right:0px solid #E0E0E0; margin-left:25px; margin-top:44px">
-                                <a href="http://www.ruderfinn.co.uk/blogs/" target="_blank"><div class="voices-title"><font color="#FF9900">Dot Comms</font><font face="Times New Roman, Times, serif" color="#E0E0E0"> | </font> <font color="#8CB204">Dot Gov</font></div></a>
-                                <p class="voicesDescription" id="section3Description" style="margin: 0px 25px 0px 0px">Dot Comms includes thoughts, comment and opinion on communications with a sprinkle of things that inspire us. Dot Gov is backbench banter – global political thought and opinion.</p>
+                                <a href="http://www.rfistudios.com/blog/" target="_blank"><div class="voices-title"><font color="#8CB204">RFI Studios</font><font color="#FF9900"> Blog</font></div></a>
+                                <p class="voicesDescription" id="section3Description" style="margin: 0px 25px 0px 0px">The RFI Studios blog puts the digital world under a microscope, discovering what's new, overlooked, or downright interesting.</p>
                             </div>
                         </div>
                     </div>
@@ -1402,7 +1219,147 @@ else {
             </div>
          </div>
     </div>
-   <div id="footer"><div style="float:right; margin-top:10px;"><b>Ruder-Finn</b><div class="vertical_dotted_line" style="display:inline"> </div>Public Relations. Copyright 2013. All rights reserved.</div></div>
+   <div id="footer"><br/><div style="float:left"><a href="http://www.ruderfinn.co.uk/terms.html">Terms & Conditions</a> | <a href="http://www.ruderfinn.co.uk/terms.html">Privacy Policy</a></div><div style="float:right;"><b>Ruder-Finn</b><div class="vertical_dotted_line" style="display:inline"> </div>Public Relations. Copyright 2013. All rights reserved.</div></div>
+</div>
+<!-----------------------ACCA---------------------------------------------->
+<div style="position:absolute; top:0px; left:-3000px;">
+     <div class="popups" id="ACCA-box" style="width:938px; height: 548px"> 
+        <div class="popup-bgImage"><img image-link="images/popups/ACCA.jpg" /></div> 
+        <div class="popup-cnt">
+            <h2>Demystifying the Coalition Government's Emergency Budget in Real-Time&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
+            <p class="h-line" style="margin-top:30px">&nbsp;</p>
+            <div class="scrollable scroll scroll-on-white">
+                <p>The UK Budget stands out on almost every PR calendar as an essential news hijacking opportunity. So how did the ACCA ensure that its messages made an impact on what is arguably the noisiest communications day of the year, reaching an audience of over 43 million?</p><br/><p>Ruder Finn implemented a fully integrated PR campaign with a really creative edge that gave our target media something they didn't have themselves – a live expert blog. We trailed pre-budget analysis, secured spokespeople interviews and published real-time response to ensure that not only were we being helpful to our audience but we were talking directly to end users via an open and informative conversation platform.</p>
+                <ul>
+                    <li>The ACCA live blog appeared on 35 regional websites</li>
+                    <li>ACCA contributed to a further eight regional website blogs</li>
+                    <li>The live blog was highlighted as a "Budget blog to watch" by The Guardian and The Scotsman</li>
+                    <li>The head of taxation was interviewed live by Sky News Radio and his comments were syndicated across all 350 stations within network</li>
+                    <li>The ACCA blog received a 900% uplift in traffic on the day of the Budget, particularly impressive because the majority of views of the blogging module happened on the regional papers websites</li>
+                </ul>
+            </div>          
+            <p class="h-line">&nbsp;</p>
+            <div class="clearit">&nbsp;</div>
+        </div>
+    </div>
+</div>
+<!-----------------------survival---------------------------------------------->
+<div style="position:absolute; top:0px; left:-3000px;">
+     <div class="popups" id="survival-box" style="width:938px; height: 548px"> 
+        <div class="popup-bgImage"><img image-link="images/popups/survival.jpg" /></div> 
+        <div class="popup-cnt">
+            <h2>Survival Campaign – Experts in Health Advocacy&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
+            <p class="h-line" style="margin-top:30px">&nbsp;</p>
+            <div class="scrollable scroll scroll-on-white">
+                <p>
+                    In 2008, Imperial College London, in partnership with BBC World News and Rockhopper TV, developed a groundbreaking documentary series, 'Survival', that offered a unique insight into how some of the world's deadliest diseases affect those in developing countries. Ruder Finn led a global advocacy and communications campaign across the UK, France, Germany and Japan to foster dialogue and stimulate debate among policy makers and stakeholders on key global health issues.<br/><br/>Through a series of short advocacy films, video podcasts and private screenings, combined with stakeholder engagement and media outreach, Ruder Finn implemented a proactive, targeted advocacy campaign which secured:<br/><br/>
+                </p>
+                <ul>
+                    <li>The support and participation of more than 250 organisations relevant to the Survival campaign</li>
+                    <li>A series of video podcasts recorded with high profile global health leaders including Sarah Brown</li>
+                </ul>
+                
+            </div>          
+            <p class="h-line">&nbsp;</p>
+            <div class="clearit">&nbsp;</div>
+        </div>
+    </div>
+</div>
+<!-----------------------voices---------------------------------------------->
+<div style="position:absolute; top:0px; left:-3000px;">
+     <div class="popups" id="voices-box" style="width:938px; height: 548px"> 
+        <div class="popup-bgImage"><img image-link="images/popups/voices.jpg" /></div>
+        <div style="position:absolute; top:470px; left:75px; color:#fff"><strong>Nick Leonard</strong> UK Managing Director</div> 
+        <div class="popup-cnt">
+            <h2>Voices&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
+            <p class="h-line" style="margin-top:30px">&nbsp;</p>
+            <div class="scrollable scroll scroll-on-white">
+                <p>What is Public Relations now?</p>
+                <p>Most people will say that PR has changed vastly over the past five years. That digital has changed the game. That the 'traditional' approach to communications is dead. It's not. The core disciplines have never changed.</p>
+                <p>Organisations still need to talk to their audiences.</p>
+                <p>The difference now is that we still talk. Engage. Persuade. Articulate. But now it is easier to listen and to have a useful dialogue.</p>
+                <p>The channels we use, the strategies we deploy, and the way in 
+which we interact with audiences may be more diverse and 
+dynamic, but old fashioned principles remain.</p>
+                <p>Today’s agency is not a media relations shop or an internal comms 
+organisation. It’s not a digital boutique or a social media specialist.</p>
+<p>It’s not a Government relations bureau or advocacy firm. Today’s 
+Public Relations team has to work at the intersection of all routes 
+to audience, and communicate effectively and consistently across 
+them all.</p>
+<p>Focusing on a single channel – media, social media, Government 
+relations etc. – is an isolated and limited strategy. We 
+communicate in so many ways and consume information across 
+so many different formats and any campaign needs to reflect this 
+reality. People are jaded, brands must fight harder than ever for 
+smart, attention-grabbing campaigns.</p>
+<p>Creative Edge is our response to these challenges.</p>
+<p>Creative Edge is channel neutral. It is driven by research, data, 
+science and facts. It focuses on key audiences and uses the 
+appropriate channels to reach them with the right campaigns,
+messages and materials delivered at the right time.</p>
+<p>Put simply, it’s about taking a client’s communications problem, 
+applying insight, and solving it in a creative way. The manifestation 
+of this varies according to the challenge…</p>
+<p>…it could be a coffee table book.....a corporate partnership with 
+mumsnet...a pop-up clinic to focus on a disease area...a 
+website...a cartoon...a TV ad...a viral video... a campaign
+strapline...an event.....an experiential idea...a 3D design... a 
+crowdsourced movie…a game to help with recruitment...an 
+internal comms podcast...an e-learning module...an iPad app for
+GPs... or even (and often) a number of these tactics in tandem…</p>
+<p>The result is designed to influence, delight and amaze audiences, 
+whilst being integrated with the wider communications narrative, 
+and resulting in a marked and measurable behavioural change.
+Because in a world where it’s easy to be drowned out by noise, 
+only the best designed and deployed campaigns really stand out.</p>
+                
+            </div>          
+            <p class="h-line">&nbsp;</p>
+            <div class="clearit">&nbsp;</div>
+        </div>
+    </div>
+</div>
+<!-----------------------jumeirah---------------------------------------------->
+<div style="position:absolute; top:0px; left:-3000px;">
+    
+    <div class="popups" id="jumeirah-box" style="width:938px; height: 548px"> 
+        <div class="popup-bgImage"><img image-link="images/popups/jumeirah.jpg" /></div> 
+        <div class="popup-cnt">
+            <h2>RF Asia Signs Retainer Contract with Jumeirah Group&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2>
+            <p class="h-line">&nbsp;</p>
+            <div class="scrollable scroll">
+                <p>Ruder Finn Asia has signed a retainer contract with Jumeirah Group, the Dubai-based luxury hotel company that operates a world-class portfolio of hotels and resorts.. The scope of services includes communications strategy consultation, positioning events and integrated communications for mainland China as well as Hong Kong.<br/><br/>
+                In April this year, Jumeirah launched its first five-star luxury hotel in China, the Jumeirah Himalayas Hotel, in Pudong, Shanghai. It is part of the landmark Himalayas Centre, a spacious new arts and cultural hub designed by world-renowned architect Arata Isozaki, which won the CCTV “Designing for China” Award in 2008.<br/><br/>
+                In addition to the Jumeirah Himalayas Hotel in Shanghai, Jumeirah Group has five more hotel projects under development in China: Jumeirah Hangzhou, Jumeirah Guangzhou, Jumeirah Clearwater Bay Resort, Sanya, Jumeirah Macau and Jumeirah Thousand Islands Lake Resort in Qiandaohu.<br/><br/>
+                Last year, Jumeirah hosted Jumeirah Week at the United Arab Emirates Pavilion at the Shanghai 2010 World Expo.</p>
+            </div>          
+            
+            <p class="h-line">&nbsp;</p>
+            <div class="clearit">&nbsp;</div>
+        </div>
+    </div>
+</div>
+<!-------------------dream-machine-------------------------->
+<div style="position:absolute; top:0px; left:-3000px;">     
+    <div class="popups" id="dream-machine-box" style="width:938px; height: 548px">
+        <div class="popup-bgImage"><img image-link="images/popups/dream_machine.jpg" /></div> 
+        <div class="popup-cnt">
+            <h2>Pepsico Dream Machine &nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2>
+            <p class="h-line">&nbsp;</p>
+            
+            <div class="scrollable scroll scroll-on-white">
+                <p>How do you create an online offering of a national recycling program that makes it easier and more rewarding for people to recycle on-the-go? Enter the Bottle Promise Facebook application, part of PepsiCo's Dream Machine program. Created in partnership with Waste Management and Keep America Beautiful, PepsiCo has made a promise to deliver sustainable growth by investing in a healthier future for consumers, the planet and its associations, aiming to increase the U.S. beverage container recycling rate from 34 to 50 percent by 2018 by installing "Dream Machines" throughout the nation. The inverse of a typical soda dispenser, these machines serve as recycling collection kiosks that reward recyclers with points for their efforts.</p>
+            </div>          
+            <p class="h-line">&nbsp;</p>
+            <div class="clearit">&nbsp;</div>
+            <p class="orange-more"><a target="_blank" href="https://www.facebook.com/dreammachine">&#8250; VISIT PEPSICO DREAM MACHINE RECYCLING INITIATIVE</a></p>
+            <div class="clearit">&nbsp;</div>
+            <!--<div style="position:absolute !important; top:200px; left:500px">
+                <div id="video-container" ></div>
+            <div>-->
+        </div>
+    </div> 
 </div>
 <!-----------------------RFIChina---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">
@@ -1457,7 +1414,7 @@ else {
 </div>
 
 
-<!------------------------citi-past-future--------------------------------------------->
+<!------------------------citi-past-future---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">
 	<div class="popups" id="citi-past-future-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/citi_PastFuture_bg.jpg" /></div>
@@ -1488,7 +1445,7 @@ The 200 Years Citi program has received multiple awards from various outlets, in
     </div>
 </div>
 <div style="position:absolute; top:0px; left:-3000px;">
-	<!------------------------citi200--------------------------------------------->
+	<!------------------------citi200---------------------------------------------->
 	<div class="popups" id="citi200-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/citi200.png" /></div>
         <div class="popup-cnt">
@@ -1506,7 +1463,7 @@ The 200 Years Citi program has received multiple awards from various outlets, in
     </div>
 </div>
 <div style="position:absolute; top:0px; left:-3000px;">
-    <!------------------------wannabewell--------------------------------------------->
+    <!------------------------wannabewell---------------------------------------------->
 	<div class="popups" id="wannabewell-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/wanna-be-well.jpg" /></div>
         <div class="popup-cnt">
@@ -1524,7 +1481,7 @@ The 200 Years Citi program has received multiple awards from various outlets, in
     </div>
 </div>
 <div style="position:absolute; top:0px; left:-3000px;">
-    <!------------------------fourseasons--------------------------------------------->
+    <!------------------------fourseasons---------------------------------------------->
     <div class="popups" id="fourseasons-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/FourSeasons.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1651,7 +1608,7 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 	</div>
 </div>
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!------------------------supplemental--------------------------------------------->
+    <!------------------------supplemental---------------------------------------------->
     <div class="popups" id="supplemental-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/supplemental.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1667,7 +1624,7 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 	</div>	
 </div>
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!------------------------miyanmar--------------------------------------------->
+    <!------------------------miyanmar---------------------------------------------->
     <div class="popups" id="miyanmar-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/miyanmar.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1699,7 +1656,7 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 	</div>
 </div>
 <div style="position:absolute; top:0px; left:-3000px;">		
-    <!------------------------bulldog--------------------------------------------->
+    <!------------------------bulldog---------------------------------------------->
     <div class="popups" id="bulldog-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/bulldog.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1715,7 +1672,7 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 	</div>
 </div>
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!------------------------caribou--------------------------------------------->
+    <!------------------------caribou---------------------------------------------->
     <div class="popups" id="caribou-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/caribou.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1731,7 +1688,7 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 	</div>
 </div>
 <div style="position:absolute; top:0px; left:-3000px;">	
-     <!------------------------india--------------------------------------------->
+     <!------------------------india---------------------------------------------->
     <div class="popups" id="india-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/india.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1747,7 +1704,7 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 	</div>
 </div>
 <div style="position:absolute; top:0px; left:-3000px;">		
-     <!------------------------parkinsons--------------------------------------------->
+     <!------------------------parkinsons---------------------------------------------->
     <div class="popups" id="parkinsons-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/parkinsons.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1763,7 +1720,7 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 	</div>	
 </div>
 <div style="position:absolute; top:0px; left:-3000px;">	    
-     <!------------------------cfcf--------------------------------------------->
+     <!------------------------cfcf---------------------------------------------->
     <div class="popups" id="cfcf-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/cfcf.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1780,7 +1737,7 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 	</div>
 </div>
 <div style="position:absolute; top:0px; left:-3000px;">	    
-    <!------------------------fandewmonium--------------------------------------------->
+    <!------------------------fandewmonium---------------------------------------------->
     <div class="popups" id="fandewmonium-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/fandewmonium.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1798,7 +1755,7 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 	</div>	
 </div>
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!------------------------guangzhou--------------------------------------------->
+    <!------------------------guangzhou---------------------------------------------->
     <div class="popups" id="guangzhou-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/guangzhou.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1814,7 +1771,7 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 	</div>
 </div>
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!------------------------lyovel--------------------------------------------->
+    <!------------------------lyovel---------------------------------------------->
     <div class="popups" id="lyovel-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/lyovel.jpg" /></div> 
 		<div class="popup-cnt">

@@ -137,31 +137,31 @@ function MenuClass(_model, _controller) {
 	this.onSubMenuClick = function(target) {
 		switch(target) {
 			case practiceSubMenu[0]:
-				App.setAddress("practice/health_and_wellness");
+				App.setAddress("practice/heathcare");
 				break;
 			case practiceSubMenu[1]:
-				App.setAddress("practice/technology_innovation");
+				App.setAddress("practice/technology");
 				break;
 			case practiceSubMenu[2]:
-				App.setAddress("practice/corporate_and_public_trust");
+				App.setAddress("practice/public_affairs");
 				break;
 			case practiceSubMenu[3]:
-				App.setAddress("practice/consumer_connections");
+				App.setAddress("practice/consumer");
 				break;
 			case edgeSubMenu[0]:
-				App.setAddress("edge/digital");
+				App.setAddress("edge/strategy");
 				break;
 			case edgeSubMenu[1]:
-				App.setAddress("edge/social");
+				App.setAddress("edge/insights");
 				break;
 			case edgeSubMenu[2]:
-				App.setAddress("edge/broadcast");
+				App.setAddress("edge/content_prod");
 				break;
 			case edgeSubMenu[3]:
-				App.setAddress("edge/design");
+				App.setAddress("edge/digital");
 				break;
 			case edgeSubMenu[4]:
-				App.setAddress("edge/insights");
+				App.setAddress("edge/social");
 				break;
 			case aboutSubMenu[0]:
 				App.setAddress("about/vision");
@@ -173,10 +173,10 @@ function MenuClass(_model, _controller) {
 				App.setAddress("about/leadership");
 				break;
 			case aboutSubMenu[3]:
-				App.setAddress("about/offices");
+				App.setAddress("about/awards");
 				break;
 			case aboutSubMenu[4]:
-				App.setAddress("about/awards");
+				App.setAddress("about/offices");
 				break;
 			default:
 		}
@@ -228,39 +228,39 @@ function MenuClass(_model, _controller) {
 				}
 							
 				switch (_this.model.getSubSection()) {
-					case "health_and_wellness":
+					case "heathcare":
 						practiceSubMenu[0].removeClass("subMenuActive");
 						practiceSubMenu[0].addClass("subMenuDeactive");
 						break;
-					case "technology_innovation":
+					case "technology":
 						practiceSubMenu[1].removeClass("subMenuActive");
 						practiceSubMenu[1].addClass("subMenuDeactive");
 						break;
-					case "corporate_and_public_trust":
+					case "public_affairs":
 						practiceSubMenu[2].removeClass("subMenuActive");
 						practiceSubMenu[2].addClass("subMenuDeactive");
 						break;
-					case "consumer_connections":
+					case "consumer":
 						practiceSubMenu[3].removeClass("subMenuActive");
 						practiceSubMenu[3].addClass("subMenuDeactive");
 						break;
-					case "digital":
+					case "strategy":
 						edgeSubMenu[0].removeClass("subMenuActive");
 						edgeSubMenu[0].addClass("subMenuDeactive");
 						break;
-					case "social":
+					case "insights":
 						edgeSubMenu[1].removeClass("subMenuActive");
 						edgeSubMenu[1].addClass("subMenuDeactive");
 						break;
-					case "broadcast":
+					case "content_prod":
 						edgeSubMenu[2].removeClass("subMenuActive");
 						edgeSubMenu[2].addClass("subMenuDeactive");
 						break;
-					case "design":
+					case "digital":
 						edgeSubMenu[3].removeClass("subMenuActive");
 						edgeSubMenu[3].addClass("subMenuDeactive");
 						break;
-					case "insights":
+					case "social":
 						edgeSubMenu[4].removeClass("subMenuActive");
 						edgeSubMenu[4].addClass("subMenuDeactive");
 						break;
@@ -277,13 +277,23 @@ function MenuClass(_model, _controller) {
 						aboutSubMenu[2].removeClass("subMenuActive");
 						aboutSubMenu[2].addClass("subMenuDeactive");
 						break;
-					case "offices":
+					case "awards":
 						aboutSubMenu[3].removeClass("subMenuActive");
 						aboutSubMenu[3].addClass("subMenuDeactive");
 						break;
-					case "awards":
+					case "offices":
 						aboutSubMenu[4].removeClass("subMenuActive");
 						aboutSubMenu[4].addClass("subMenuDeactive");
+						break;
+					case "careers":
+						checkSubElement = null;
+						$('#menu .menu-list2:visible').slideUp('normal');
+						$('#practice_main').find("img").attr({ src:  practice_rollout.src});
+						$('#edge_main').find("img").attr({ src:  edge_rollout.src});
+						$('#about_main').find("img").attr({ src:  about_rollout.src});
+						isPracticeActive = true;
+						isEdgeActive = true;
+						isAboutActive = true;
 						break;
 					default:
 				}
@@ -347,7 +357,7 @@ function PracticeClass(_model, _controller) {
 	var _this = this;
 	this.model = _model;
 	this.controller = _controller;
-	var sections = ["practicehome", "health_and_wellness", "technology_innovation", "corporate_and_public_trust", "consumer_connections" ];
+	var sections = ["practicehome", "heathcare", "technology", "public_affairs", "consumer" ];
 	var xPos;
 	
 	var touchslider = new App.Touchslider("practiceContentStrip");
@@ -423,18 +433,18 @@ function EdgeClass(_model, _controller) {
 	var _this = this;
 	this.model = _model;
 	this.controller = _controller;
-	var sections = ["edgehome", "digital", "social", "broadcast", "design", "insights" ];
+	var sections = ["edgehome","strategy", "insights", "content_prod" , "digital", "social" ];
 	var xPos;
-	var socialMediaSlider;
-	var totalSocialMedia = $("#works_container .work").length;
-	var designSlider;
-	var totalDesign = $("#design_image_container .design_image").length;
+	//var socialMediaSlider;
+	//var totalSocialMedia = $("#works_container .work").length;
+	//var designSlider;
+	//var totalDesign = $("#design_image_container .design_image").length;
 	
 	var touchslider = new App.Touchslider("edgeContentStrip");
 	touchslider.init();
 	
-	socialMediaSlider = new App.PageSlider("socialmedia_control","works_container", 0, Math.ceil(totalSocialMedia/3));
-	designSlider = new App.PageSlider("design_control", "design_image_container", 0, totalDesign);
+	//socialMediaSlider = new App.PageSlider("socialmedia_control","works_container", 0, Math.ceil(totalSocialMedia/3));
+	//designSlider = new App.PageSlider("design_control", "design_image_container", 0, totalDesign);
 	
 	
 	this.doSlide = function(/*jQuery*/ elem, /*int*/ x, /*string*/ duration) {
@@ -480,7 +490,7 @@ function EdgeClass(_model, _controller) {
 									}
 								});
 								break;
-							case "design":
+							case "strategy":
 								$("#edge").find(".lazyload-design").each(function( index ) {
 									if ($(this).attr("src") != "undefined") {
 										$(this).attr({"src":$(this).attr("image-link")});
@@ -511,15 +521,15 @@ function EdgeClass(_model, _controller) {
 				xPos = -($.inArray(_this.model.getSubSection(), sections)  * App.targetOpenWidth());
 				$("#edgeContentStrip").css({"left":xPos + "px"});
 				
-				$("#works_container").css({"width":(Math.ceil(totalSocialMedia/3) * App.targetOpenWidth())+"px"});
-				$(".work").css({"width":(App.targetOpenWidth() / 3) + "px"});
-				socialMediaSlider.width = App.targetOpenWidth();
-				socialMediaSlider.update(0);
+				//$("#works_container").css({"width":(Math.ceil(totalSocialMedia/3) * App.targetOpenWidth())+"px"});
+				//$(".work").css({"width":(App.targetOpenWidth() / 3) + "px"});
+				//socialMediaSlider.width = App.targetOpenWidth();
+				//socialMediaSlider.update(0);
 				
-				$("#design_image_container").css({"width":$("#design_image_wrapper").width() * totalDesign + "px"});
-				$(".design_image").css({"width": $("#design_image_wrapper").width() + "px"});
-				designSlider.width = $("#design_image_wrapper").width();
-				designSlider.update(0);
+				//$("#design_image_container").css({"width":$("#design_image_wrapper").width() * totalDesign + "px"});
+				//$(".design_image").css({"width": $("#design_image_wrapper").width() + "px"});
+				//designSlider.width = $("#design_image_wrapper").width();
+				//designSlider.update(0);
 								
 				break;
 		}
@@ -530,7 +540,7 @@ function AboutClass(_model, _controller) {
 	var _this = this;
 	this.model = _model;
 	this.controller = _controller;
-	var sections = ["abouthome", "vision", "legacy", "leadership", "offices", "awards", "careers" ];
+	var sections = ["abouthome", "vision", "legacy", "leadership", "awards", "offices", "careers" ];
 	var offices = ["SanFrancisco", "WashingtonDC", "NewYork", "Boston", "London", "Basel", "India", "Singapore", "HongKong", "Guangzhou", "Shanghai", "Beijing"];
 	var offices_contents = [$('.address-outer .address-block:nth-child(1)'), $('.address-outer .address-block:nth-child(2)'), $('.address-outer .address-block:nth-child(3)'), $('.address-outer .address-block:nth-child(4)'), $('.address-outer .address-block:nth-child(5)'), $('.address-outer .address-block:nth-child(6)'), $('.address-outer .address-block:nth-child(7)'), $('.address-outer .address-block:nth-child(8)'), $('.address-outer .address-block:nth-child(9)'), $('.address-outer .address-block:nth-child(10)'), $('.address-outer .address-block:nth-child(11)'), $('.address-outer .address-block:nth-child(12)') ];
 	var xPos;
@@ -548,6 +558,7 @@ function AboutClass(_model, _controller) {
 	$('.scroll-pane').jScrollPane({showArrows: true});
 	
 	leadershipSlider = new App.PageSlider("leadership_control","leadership_container", 0, Math.ceil(totalLeaderShipPages));	
+	if (totalLeaderShipPages < 2) $("#leadership_control").hide();
 	awardsSlider = new App.PageSlider("awards_control","awards_container", 0, Math.ceil(totalAwardsPages));	
 	
 	this.doSlide = function(/*jQuery*/ elem, /*int*/ x, /*string*/ duration) {

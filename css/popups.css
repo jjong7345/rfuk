@@ -11,6 +11,238 @@
 #fancybox-content h2 img {
 	vertical-align: middle;
 }
+/* ACCA popup */
+
+#ACCA-box {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	background:#74110D; 
+}
+#ACCA-box p {
+	padding:0;
+	margin:0;
+	color:#fff;
+	font-size:1em;
+}
+#ACCA-box .popup-cnt {
+	padding: 60px 50px 30px 400px;
+}
+#ACCA-box h2 {
+	color: #fff;
+	font-size:2.2em;
+	line-height:130%;
+	font-family:sans-serif, verdana;
+	border:0;
+	margin:0;
+}
+#ACCA-box .scrollable {
+	overflow:auto;
+	margin:0 0 10px 0;
+	height: 260px
+}
+#ACCA-box .scrollable ul {
+	color: #fff;
+	margin:0;
+	padding:20px;
+}
+#ACCA-box .h-line {
+	margin:5px 0 10px 0;
+	background: url("../images/popups/line-bg.png") left top repeat-x;
+	border:none;
+	padding:0;
+	height:1px;
+}
+/* survival popup */
+
+#survival-box {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	background:#000000; 
+}
+#survival-box p {
+	padding:0;
+	margin:0;
+	color:#fff;
+	font-size:1em;
+}
+#survival-box .popup-cnt {
+	padding: 60px 50px 30px 400px;
+}
+#survival-box h2 {
+	color: #fff;
+	font-size:2.2em;
+	line-height:130%;
+	font-family:sans-serif, verdana;
+	border:0;
+	margin:0;
+}
+#survival-box .scrollable {
+	overflow:auto;
+	margin:0 0 10px 0;
+}
+#survival-box .scrollable ul {
+	color: #fff;
+	padding-left: 20px
+}
+
+#survival-box .h-line {
+	margin:5px 0 10px 0;
+	background: url("../images/popups/line-bg.png") left top repeat-x;
+	border:none;
+	padding:0;
+	height:1px;
+}
+/* voices popup */
+
+#voices-box {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	background:#ccc; 
+}
+#voices-box p {
+	padding:0;
+	margin:0;
+	color:#fff;
+	font-size:1em;
+}
+#voices-box .popup-cnt {
+	padding: 72px 50px 30px 450px;
+}
+#voices-box h2 {
+	color: #fff;
+	font-size:2.2em;
+	line-height:130%;
+	font-family:sans-serif, verdana;
+	border:0;
+	margin:0;
+}
+#voices-box .scrollable {
+	overflow:auto;
+	margin:0 0 10px 0;
+	height: 285px
+}
+#voices-box .scrollable p {
+	margin-top:10px;
+}
+
+#voices-box .h-line {
+	margin:5px 0 10px 0;
+	background: url("../images/popups/line-bg.png") left top repeat-x;
+	border:none;
+	padding:0;
+	height:1px;
+}
+/* jumeirah popup */
+
+#jumeirah-box {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	background: #000/*url(../images/work6_parsons.jpg) left top no-repeat;*/
+}
+
+#jumeirah-box .popup-cnt {
+	/*padding: 343px 20px 20px 50px;*/
+	padding: 343px 40px 20px 30px;
+}	
+
+#jumeirah-box .scrollable {
+	height: 110px;
+	overflow: auto;
+	margin: 0 0 10px 0;
+}	
+
+#jumeirah-box h2 {
+	color: #FFFFFF;
+	font-size: 2em;
+	font-family: sans-serif, verdana;
+	padding: 0 0 10px 0;
+}
+
+#jumeirah-box h2 span {
+	margin: 0 0 0 10px;
+}
+
+#jumeirah-box p {
+	color: #FFFFFF;
+	font-size: 1em;
+}
+
+#jumeirah-box .orange-more {
+	margin: 0 15px 0 270px;
+	font-size: 1em;
+}
+
+#jumeirah-box .h-line {
+	margin:5px 0 10px 0;
+	background: url("../images/popups/line-bg.png") left top repeat-x;
+	border:none;
+	padding:0;
+	height:1px;
+}
+
+/* dream-machine popup */
+
+#dream-machine-box {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	background: #000;/* url(../images/FourSeasons.jpg) left top no-repeat;*/
+}
+
+#dream-machine-box .popup-cnt {
+	/*padding: 343px 20px 20px 50px;*/
+	padding: 323px 40px 20px 30px;
+}	
+
+#dream-machine-box .scrollable {
+	overflow: auto;
+	margin: 0 0 10px 0;
+}	
+
+#dream-machine-box h2 {
+	color: #FFFFFF;
+	font-size: 2em;
+	font-family: sans-serif, verdana;
+	padding: 0 0 10px 0;
+}
+
+#dream-machine-box h2 span {
+	margin: 0 0 0 10px;
+}
+
+#dream-machine-box p {
+	color: #FFFFFF;
+	font-size: 1em;
+}
+
+#dream-machine-box .orange-more {
+	margin: 0 15px 0 270px;
+	font-size: 1em;
+}
+
+#dream-machine-box .h-line {
+	margin:0 0 10px 0;
+	background: url("../images/popups/line-bg.png") left top repeat-x;
+	border:none;
+	padding:0;
+	height:1px;
+}
+#dream-machine-box .orange-more {
+	float:left;
+	font-family:sans-serif;
+	margin:0 15px 0 0;
+	padding:0;
+	text-align:center;
+	width:100%;
+}
+#dream-machine-box .orange-more a {
+	text-decoration: none;
+	background:#FF9900;
+	font-weight:bold;
+	padding:5px 10px;
+	color:#FFF !important; 
+	font-size:.9em;
+}
+
 /* RFIChina popup */
 
 #RFIChina-box {

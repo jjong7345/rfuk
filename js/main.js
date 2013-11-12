@@ -318,13 +318,13 @@ var App = (function() {
 		switch (_id)
 		{
 			case "practiceContentStrip":
-				this.panels = ['practicehome','health_and_wellness','technology_innovation', 'corporate_and_public_trust','consumer_connections'];
+				this.panels = ['practicehome','heathcare','technology', 'public_affairs','consumer'];
 				break;
 			case "edgeContentStrip":
-				this.panels = ['edgehome','digital','social', 'broadcast','strategy', 'insights'];
+				this.panels = ['edgehome','strategy', 'insights', 'content_prod','digital','social'];
 				break;
 			case "aboutContentStrip":
-				this.panels = ['abouthome','vision','legacy', 'leadership','offices','awards', 'careers'];
+				this.panels = ['abouthome','vision','legacy', 'leadership','awards','offices', 'careers'];
 				break;
 		}
 		this.currPanel = 0;
