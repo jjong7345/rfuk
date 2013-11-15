@@ -17,7 +17,7 @@ function HeaderClass(_model, _controller) {
 				}
 				break;
 			case "onWindowResize":
-				var h = $("#header").height();
+				var h = $("#header").height() - 15;
 				$("#logolink").find("img").css( {"height":h} );
 				break;
 		}
@@ -295,6 +295,16 @@ function MenuClass(_model, _controller) {
 						isEdgeActive = true;
 						isAboutActive = true;
 						break;
+					case "clients":
+						checkSubElement = null;
+						$('#menu .menu-list2:visible').slideUp('normal');
+						$('#practice_main').find("img").attr({ src:  practice_rollout.src});
+						$('#edge_main').find("img").attr({ src:  edge_rollout.src});
+						$('#about_main').find("img").attr({ src:  about_rollout.src});
+						isPracticeActive = true;
+						isEdgeActive = true;
+						isAboutActive = true;
+						break;
 					default:
 				}
 				
@@ -540,7 +550,7 @@ function AboutClass(_model, _controller) {
 	var _this = this;
 	this.model = _model;
 	this.controller = _controller;
-	var sections = ["abouthome", "vision", "legacy", "leadership", "awards", "offices", "careers" ];
+	var sections = ["abouthome", "vision", "legacy", "leadership", "awards", "offices", "careers", "clients" ];
 	var offices = ["SanFrancisco", "WashingtonDC", "NewYork", "Boston", "London", "Basel", "India", "Singapore", "HongKong", "Guangzhou", "Shanghai", "Beijing"];
 	var offices_contents = [$('.address-outer .address-block:nth-child(1)'), $('.address-outer .address-block:nth-child(2)'), $('.address-outer .address-block:nth-child(3)'), $('.address-outer .address-block:nth-child(4)'), $('.address-outer .address-block:nth-child(5)'), $('.address-outer .address-block:nth-child(6)'), $('.address-outer .address-block:nth-child(7)'), $('.address-outer .address-block:nth-child(8)'), $('.address-outer .address-block:nth-child(9)'), $('.address-outer .address-block:nth-child(10)'), $('.address-outer .address-block:nth-child(11)'), $('.address-outer .address-block:nth-child(12)') ];
 	var xPos;

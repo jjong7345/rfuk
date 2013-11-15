@@ -324,7 +324,7 @@ var App = (function() {
 				this.panels = ['edgehome','strategy', 'insights', 'content_prod','digital','social'];
 				break;
 			case "aboutContentStrip":
-				this.panels = ['abouthome','vision','legacy', 'leadership','awards','offices', 'careers'];
+				this.panels = ['abouthome','vision','legacy', 'leadership','awards','offices', 'careers', 'clients'];
 				break;
 		}
 		this.currPanel = 0;
@@ -658,7 +658,7 @@ var App = (function() {
 				targetVoicesHeight = 200;
 				$("#footer").css({"left":(90+44)+"px"});
 				$(".centerContent").css({"left":"90px", "font-size":"100%"});
-				$("#header").css({"height":"136px"});
+				$("#header").css({"height":"151px"});
 				
 				if (currWinWidthState != "smallBrowser") controller.setWindowResizeHandler();
 				currWinWidthState = "smallBrowser";
@@ -672,7 +672,7 @@ var App = (function() {
 				targetVoicesHeight = 200;
 				$("#footer").css({"left":(90+44)+"px"});
 				$(".centerContent").css({"left":"90px","font-size":"110%"});
-				$("#header").css({"height":"142px"});
+				$("#header").css({"height":"157px"});
 				
 				if (currWinWidthState != "mediumBrowser") controller.setWindowResizeHandler();
 				currWinWidthState = "mediumBrowser";
@@ -687,7 +687,7 @@ var App = (function() {
 				targetVoicesHeight = 200; 
 				$("#footer").css({"left":(90+44)+"px"});
 				$(".centerContent").css({"left":"90px","font-size":"120%"});
-				$("#header").css({"height":"154px"});
+				$("#header").css({"height":"169px"});
 				
 				if (currWinWidthState != "largeBrowser") controller.setWindowResizeHandler();
 				currWinWidthState = "largeBrowser";
@@ -702,7 +702,7 @@ var App = (function() {
 				targetVoicesHeight = 200;
 				$("#footer").css({"left":(170+44)+"px"});
 				$(".centerContent").css({"left":"170px","font-size":"125%"});
-				$("#header").css({"height":"168px"});
+				$("#header").css({"height":"183px"});
 				
 				if (currWinWidthState != "oversizedBrowser") controller.setWindowResizeHandler();
 				currWinWidthState = "oversizedBrowser";
@@ -717,7 +717,7 @@ var App = (function() {
 				targetVoicesHeight = 200; 
 				$("#footer").css({"left":(170+44)+"px"});
 				$(".centerContent").css({"left":"170px","font-size":"125%"});
-				$("#header").css({"height":"168px"});
+				$("#header").css({"height":"183px"});
 				
 				if (currWinWidthState != "oversizedBrowser") controller.setWindowResizeHandler();
 				currWinWidthState = "oversizedBrowser";

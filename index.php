@@ -117,6 +117,8 @@ else {
                                 <p id='util'>
                                     <a href="#/home">HOME</a>
                                     |
+                                    <a href="#/about/clients">CLIENTS</a>
+                                    |
                                     <a href="#/about/offices">CONTACT</a>
                                     |
                                     <a href="#/about/careers">CAREERS</a>
@@ -1068,6 +1070,23 @@ digital boutique or a social media specialist. We have to work at the intersecti
                                         </div>
                                         <p class="orange-more"><a href="mailto:whywork@ruderfinn.co.uk">&#8249; EMAIL RUDERFINN UK</a></p>
                         			</div>
+                                    <div class="clearit">&nbsp;</div>
+                                </div>
+                            </div>
+
+                            <div id='clients' class='hiddenContentArea'>
+                                <div class="landing">
+                                    <h2>CLIENTS</h2>
+                                    <div class="img-careers" >
+                                        <p><img class="lazyload" image-link="images/careers-photo.jpg" style="width:100%" alt="" /></p>
+                                    </div>
+                                    
+                                    <div class="careers_r_content">
+                                        <div class="scroll-pane">
+                                            <p>Ruder Finn in one of the world's biggest independent agencies and you will have the opportunity to work on some fantastic brands on big, global campaigns. Now is an exciting time for us – we have just moved into some fantastic new offices, have many new clients and great momentum going into 2012. If you want a varied comms challenge that touches digital, PR and experiential communications, all underpinned by clever insights, get in touch <a href="mailto:whywork@ruderfinn.co.uk">here</a>.</p>
+                                        </div>
+                                        <p class="orange-more"><a href="mailto:whywork@ruderfinn.co.uk">&#8249; EMAIL RUDERFINN UK</a></p>
+                                    </div>
                                     <div class="clearit">&nbsp;</div>
                                 </div>
                             </div>

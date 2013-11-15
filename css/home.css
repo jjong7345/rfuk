@@ -204,7 +204,7 @@ h5 {
 }
 #util {
 	float:left;
-	width: 200px;
+	width: 300px;
 	border: 0 none;
 	margin: 0;
 	font-size: .9em;
@@ -220,6 +220,7 @@ h5 {
 #logo {
 	position:absolute;
 	left:90px;
+	top:20px;
 }
 #contact {
 	position:absolute; 
@@ -690,7 +691,7 @@ h5 {
 
 .contentStrip {
 	position:relative;
-	width:8000px;
+	width:10000px;
 }
 
 #practice_home {
