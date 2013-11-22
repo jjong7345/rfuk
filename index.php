@@ -481,8 +481,7 @@ else {
                                         <div class="col5">
                                             <h3><a href="#/about/vision">VISION</a> &#8250;</h3>
                                             <p><a href="#/about/vision"><img class="lazyload" image-link="images/nick_vision.jpg" style="width:100%"  alt="" /></a></p>
-                                            <p>Today's agency is not a media relations shop or an internal comms organisation. It's not a
-digital boutique or a social media specialist. We have to work at the intersection of all routes to audience, and communicate effectively and consistently across them all. And today's campaigns MUST have the Creative Edge.</p>
+                                            <p>Today's agency is not a media relations shop or an internal comms organisation. It's not a digital boutique or a social media specialist. We have to work at the intersection of all routes to audience, and communicate effectively and consistently across them all. And today's campaigns MUST have the Creative Edge.</p>
                                         </div>
                                         <div class="col5">
                                             <h3><a href="#/about/legacy">LEGACY</a> &#8250;</h3>
@@ -556,11 +555,10 @@ digital boutique or a social media specialist. We have to work at the intersecti
                                     <div class="legacy_r_content">
                                     	<div class="scroll-pane">
                                             <p>I once described PR as  &quot;an old method of advocacy and salesmanship updated to meet the conditions of a mass society, &quot; but that description now seems too simplistic. Now I feel we need a new and more mature description of what PR is all about.</p>
-                
-                            <p>After almost sixty years in the business, it seems to me that the practice of PR is not simply a form of advocacy and salesmanship, but rather an effort to help people get along with each other in a complicated world. We practitioners also try to help enrich people's lives with meaningful insights and valuable information about matters that can be important to them.</p>
-                            <p>Now that PR has established itself as a valuable resource for so many different kinds of people, organizations, institutions, governments, our goal should be to train our successors to be as knowledgeable, sensitive, thoughtful, imaginative and creative as they can possibly be.</p>
-                            <p>I believe there will be an increasingly significant role for PR in the future. With the sound advice PR people may give, and the effective means of communications they are good at, they should have resources to help make a better world.</p>
-                            <p>In the year 2000, Kofi Annan, the great Secretary General of the United Nations and a dear friend of mine, pointed out that the 20th century was the most devastating century in history, and he hoped the 21st century would be much different. It would be a significant contribution if the people in the PR business could play a significant role in achieving that goal.</p>
+                                            <p>After almost sixty years in the business, it seems to me that the practice of PR is not simply a form of advocacy and salesmanship, but rather an effort to help people get along with each other in a complicated world. We practitioners also try to help enrich people's lives with meaningful insights and valuable information about matters that can be important to them.</p>
+                                            <p>Now that PR has established itself as a valuable resource for so many different kinds of people, organizations, institutions, governments, our goal should be to train our successors to be as knowledgeable, sensitive, thoughtful, imaginative and creative as they can possibly be.</p>
+                                            <p>I believe there will be an increasingly significant role for PR in the future. With the sound advice PR people may give, and the effective means of communications they are good at, they should have resources to help make a better world.</p>
+                                            <p>In the year 2000, Kofi Annan, the great Secretary General of the United Nations and a dear friend of mine, pointed out that the 20th century was the most devastating century in history, and he hoped the 21st century would be much different. It would be a significant contribution if the people in the PR business could play a significant role in achieving that goal.</p>
                                         </div>
                                         <br/>
                                         <br/>
@@ -614,7 +612,6 @@ digital boutique or a social media specialist. We have to work at the intersecti
                                     </div>
                                     <!--LEADERSHIP-->
                                 </div>
-                                
                             </div>
                             <div id='awards' class='hiddenContentArea'>
                                 <div class="landing4">
@@ -1056,7 +1053,6 @@ digital boutique or a social media specialist. We have to work at the intersecti
                                     </div>
                                 </div>
                             </div>
-                            
                             <div id='career' class='hiddenContentArea'>
                             	<div class="landing">
                                     <h2>CAREERS</h2>
@@ -1073,25 +1069,224 @@ digital boutique or a social media specialist. We have to work at the intersecti
                                     <div class="clearit">&nbsp;</div>
                                 </div>
                             </div>
-
                             <div id='clients' class='hiddenContentArea'>
                                 <div class="landing">
                                     <h2>CLIENTS</h2>
-                                    <div class="img-careers" >
-                                        <p><img class="lazyload" image-link="images/careers-photo.jpg" style="width:100%" alt="" /></p>
+                                    <div class="clients_container">
+                                        <div class="clients_block first">
+                                            <img src="images/clients/dymo_thumb.jpg" />
+                                            <p><strong>DYMO</strong></p>
+                                            <p>Making labeling cool again</p>
+                                        </div>
+                                        <div class="clients_block">
+                                            <img src="images/clients/reuters_thumb.jpg" />
+                                            <p><strong>Reuters Communication Services</strong></p>
+                                            <p>Instant Messaging is the new email</p>
+                                        </div>
+                                        <div class="clients_block">
+                                            <img src="images/clients/acca_thumb.jpg" />
+                                            <p><strong>ACCA</strong></p>
+                                            <p>Expert real-time analysis</p>
+                                        </div>
+                                        <div class="clients_block">
+                                            <img src="images/clients/manpower_thumb.jpg" />
+                                            <p><strong>Manpower EMEA</strong></p>
+                                            <p>Brand positioning through thought leadership</p>
+                                        </div>
+                                        <div class="clients_block">
+                                            <img src="images/clients/allparty_thumb.jpg" />
+                                            <p><strong>All Party Parliamentary Group</strong></p>
+                                            <p>Global Action against Childhood Pneumonia</p>
+                                        </div>
+                                        <div class="clients_block first">
+                                            <img src="images/clients/demandmedia_thumb.jpg" />
+                                            <p><strong>Demand Media</strong></p>
+                                            <p>Creating early interest for a future media-darling</p>
+                                        </div>
+                                        <div class="clients_block">
+                                            <img src="images/clients/lundback_thumb.jpg" />
+                                            <p><strong>Lundbeck</strong></p>
+                                            <p>Targeted Media Relations Campaign</p>
+                                        </div>
+                                        <div class="clients_block">
+                                            <img src="images/clients/WHD_thumb.jpg" />
+                                            <p><strong>World Hypertension Day</strong></p>
+                                            <p>Raising awareness of high blood pressure</p>
+                                        </div>
+                                        <div class="clients_block">
+                                            <img src="images/clients/sci_thumb.jpg" />
+                                            <p><strong>Survival Campaign</strong></p>
+                                            <p>Experts in Health Advocacy</p>
+                                        </div>
+                                        <div class="clients_block">
+                                            <img src="images/clients/IVAC_thumb.jpg" />
+                                            <p><strong>IVAC</strong></p>
+                                            <p>Securing a WHA resolution to tackle pneumonia globally</p>
+                                        </div>
+
+                                        
+                                    </div>
+                                    <div class="clearit"></div>
+                                    <div class="clients_detail">
+                                        <img src="images/clients/dymo.jpg" />
+                                        <div class="clients_detail_r">
+                                            <h1>DYMO</h1>
+                                            <h4><strong>Making labeling cool again</strong></h4>
+                                            <p>Under the tagline – Stop Searching, Start Living – Ruder Finn positioned the DYMO LabelMANAGER as the key to escaping the office/house and having fun.</p><p>Branded around a butler/concierge theme, an animated video was created and competitions online and offline drove traffic to the specially created "quality time" themed microsite.</p>
+                                            <ul>
+                                                <li>5 National competitions providing circulation of over 3,7000,000</li>
+                                                <li>Regional competitions/product reviews across Glasgow, Newcastle, Bristol, London, Liverpool, Manchester, Cardiff providing circulation of 1,518,872</li>
+                                                <li>15,000 online competition entrants</li>
+                                                <li><strong>£260k advanced market orders during the campaign period</strong></li>
+                                                <li>Total circulation figure of 11.5 million against an initial target circulation of eight million</li>
+                                            </ul>
+                                            <br/>
+                                            <p class="orange-more"><a href="#">› RETURN TO CLIENTS</a></p>
+                                        </div>
+                                    </div>
+                                    <div class="clients_detail" style="display:none">
+                                        <img src="images/clients/reuters.jpg" />
+                                        <div class="clients_detail_r">
+                                            <h1>Reuters Communication Services</h1>
+                                            <h4><strong>Instant Messaging is the new email</strong></h4>
+                                            <p>Reuters' instant messaging division Reuters Communication Services (RCS) wanted to increase the awareness of its services amongst both media and analysts.</p><p>Ruder Finn developed a trend and thought leadership campaign positioning RCS as experts on social technologies in the financial industry. By linking spokespeople with the key issues of communication and collaboration within this industry, the team achieved fantastic results, including:</p>
+                                            <ul>
+                                                <li>Over 20 pieces of coverage in top-tier titles including, <em>The Financial Times, The Guardian, Financial Sector Technology</em> and <em>Computing</em></li>
+                                                <li>An RCS focused article in City AM entitled <em>"How email became old hat"</em>, proved the perfect hit for RCS's target audience</li>
+                                                <li>Interviews with leading analyst houses including, Gartner, Forrester and IDC</li>
+                                            </ul>
+                                            <br/>
+                                            <p class="orange-more"><a href="#">› RETURN TO CLIENTS</a></p>
+                                        </div>
+                                    </div>
+                                    <div class="clients_detail" style="display:none">
+                                        <img src="images/clients/acca.jpg" />
+                                        <div class="clients_detail_r">
+                                            <h1>ACCA</h1>
+                                            <h4><strong>Expert real-time analysis</strong></h4>
+                                            <p>As the industry body of choice for the global accountancy profession, ACCA (the Association of Chartered Certified Accountants) is constantly defending its position at the top.</p><p>The 2010 UK Emergency Budget offered the perfect opportunity for Ruder Finn to position ACCA as the go-to expert for immediate comment on taxation, policy, government expenditure and green issues.</p><p>Ruder Finn implemented a fully integrated PR campaign, which included trailing pre-budget analysis, securing spokespeople interviews and publishing real-time response through a live blog.</p>
+                                            <ul>
+                                                <li>The <strong>ACCA live blog</strong> appeared on 35 regional websites</li>
+                                                <li>ACCA contributed to a further <strong>eight regional website blogs</strong></li>
+                                                <li>The live blog was highlighted as a <strong>'Budget blog to watch'</strong> by The Guardian and The Scotsman</li>
+                                                <li>The head of taxation was interviewed live by Sky News Radio and his comments were syndicated across all 350 stations within network</li>
+                                            </ul>
+                                            <br/>
+                                            <p class="orange-more"><a href="#">› RETURN TO CLIENTS</a></p>
+                                        </div>
+                                    </div>
+                                    <div class="clients_detail" style="display:none">
+                                        <img src="images/clients/manpower.jpg" />
+                                        <div class="clients_detail_r">
+                                            <h1>Manpower EMEA</h1>
+                                            <h4><strong>Brand positioning through thought leadership</strong></h4>
+                                            <p>Manpower was looking for ways to differentiate itself to major corporate employers.</p><p>Ruder Finn ran a pan-European campaign across 32 countries, using business and in-country media to elevate Manpower's image from a recruitment service provider to an expert on employment and demographic trends.</p><p>Success depended on developing a series of topical stories based upon macroeconomic trends, which would speak to both pan-European and in-country audiences.</p><p>Throughout its five year relationship Ruder Finn:</p>
+                                            <ul>
+                                                <li>Regularly secured coverage in <em>The Financial Times, Wall Street Journal Europe, CNBC Europe, BBC, Reuters</em> and <em>Bloomberg</em></li>
+                                                <li>Worked with in-country PR managers to secure media interviews when senior executives were in Europe</li>
+                                                <li>European CEO Barbara Beck spoke at Davos on the topic of "Diversity in the Boardroom"</li>
+                                            </ul>
+                                            <br/>
+                                            <p class="orange-more"><a href="#">› RETURN TO CLIENTS</a></p>
+                                        </div>
+                                    </div>
+                                    <div class="clients_detail" style="display:none">
+                                        <img src="images/clients/allparty.jpg" />
+                                        <div class="clients_detail_r">
+                                            <h1>All Party Parliamentary Group</h1>
+                                            <h4><strong>Global Action against Childhood Pneumonia</strong></h4>
+                                            <p>Ruder Finn was tasked with raising the political profile and UK awareness of the impact of pneumonia in the developing world.</p><p>As part of this strategy, the team helped to set up and now manages an All Party Parliamentary Group (APPG) for Global Action against Childhood Pneumonia, working towards speeding the access to pneumococcal vaccines for the developing world.</p><p>The Group's activities to date have included:</p>
+                                            <ul>
+                                                <li>Liaison with the Department for International Development (DFID), HM Treasury as well as influential multilaterals, civil society, academia, organisations and industry in Britain and internationally</li>
+                                                <li>High impact parliamentary activities including World Pneumonia Day 2010</li>
+                                                <li>Engagement with British and foreign Heads of State and Government</li>
+                                                <li>Coordinating awareness initiatives from within the British Parliament for Parliamentarians and their international colleagues</li>
+                                            </ul>
+                                            <br/>
+                                            <p class="orange-more"><a href="#">› RETURN TO CLIENTS</a></p>
+                                        </div>
+                                    </div>
+                                    <div class="clients_detail" style="display:none">
+                                        <img src="images/clients/demandmedia.jpg" />
+                                        <div class="clients_detail_r">
+                                            <h1>Demand Media</h1>
+                                            <h4><strong>Creating early interest for a future media-darling</strong></h4>
+                                            <p>Eager to build momentum around the company and the Pluck platform, Demand Media engaged Ruder Finn to begin to build its profile in the UK.</p><p>The UK market lagged slightly behind the US in terms of maturity, so Ruder Finn secured interviews and speaking opportunities for Demand Media's senior executives to position them as industry experts and thought leaders, while promoting Pluck as the leading social media platform for enterprises.</p><p>Using customers as proof points, the team helped to establish Pluck as a leader in its field.</p>
+                                            <ul>
+                                                <li>Relationships developed with top-tier publications including <em>MediaGuardian, The Financial Times, Marketing Week </em>and <em>NMA</em></li>
+                                                <li>Secured a company profile with Forrester entitled, "How Demand Media is redefining content"</li>
+                                                <li>Provided support at events such as the <em>FT Digital Media and Broadcasting Summit</em> and <em>AOP Digital Publishing Summit</em></li>
+                                                <li>the FT Digital Media and Broadcasting Summit and AOP Digital Publishing Summit</li>
+                                            </ul>
+                                            <br/>
+                                            <p class="orange-more"><a href="#">› RETURN TO CLIENTS</a></p>
+                                        </div>
+                                    </div>
+                                    <div class="clients_detail" style="display:none">
+                                        <img src="images/clients/lundback.jpg" />
+                                        <div class="clients_detail_r">
+                                            <h1>Lundbeck</h1>
+                                            <h4><strong>Targeted media relations campaign</strong></h4>
+                                            <p>Ruder Finn was appointed to publicise the outcome of the health technology assessment body NICE's review of Alzheimer's treatments. NICE reviewed four drugs; three for mild/moderate disease, and Lundbeck's medicine, for moderate/severe disease. The challenge was to ensure the media reflected the new guidance for each of the four treatments.</p><p>Well before the announcement date Ruder Finn began preparatory work with the media, as well as liaising with patient groups such as the Alzheimer's Society and Dementia UK.</p><p>Following extensive sell-in on the announcement date, news featuring the new guidance featured across top-tier print, broadcast and online media, including:</p>
+                                            <ul>
+                                                <li>Front page of the Daily Mail and The Telegraph</li>
+                                                <li>Case study on ITV Daybreak, The Times, Sky News and The Mirror</li>
+                                                <li>Mention in 90% of all national, regional and trade coverage</li>
+                                            </ul>
+                                            <br/>
+                                            <p class="orange-more"><a href="#">› RETURN TO CLIENTS</a></p>
+                                        </div>
+                                    </div>
+                                    <div class="clients_detail" style="display:none">
+                                        <img src="images/clients/WHD.jpg" />
+                                        <div class="clients_detail_r">
+                                            <h1>World Hypertension Day</h1>
+                                            <h4><strong>Raising awareness of high blood pressure</strong></h4>
+                                            <p>In 2009, Novartis worked with the World Hypertension League to support WHD and create an impact on a truly global scale. Despite being the leading cause of cardiovascular disease – the world's #1 cause of death – high blood pressure has a low media and public profile. Working with Novartis, Ruder Finn engaged the support of celebrity ambassador – Marco Pierre White – to create a call-to-action for people to reduce salt in their diets and the risk of HBP.</p><p>Ruder Finn developed an innovative communications toolkit including template materials, B-roll footage and Marco's exclusive salt-free recipe.</p>
+                                            <ul>
+                                                <li>Activities in 32 countries: less than 60,000 BP screenings, less than 350,000,000 media impressions, Guinness World Record in Japan and PSA on Eurovision Song Contest in Turkey</li>
+                                                <li>Shortlisted for 2010 Communiqué Award</li>
+                                            </ul>
+                                            <br/>
+                                            <p class="orange-more"><a href="#">› RETURN TO CLIENTS</a></p>
+                                        </div>
+                                    </div>
+                                    <div class="clients_detail" style="display:none">
+                                        <img src="images/clients/sci.jpg" />
+                                        <div class="clients_detail_r">
+                                            <h1>Survival Campaign</h1>
+                                            <h4><strong>Experts in Health Advocacy</strong></h4>
+                                            <p>In 2008, Imperial College London, in partnership with BBC World News and Rockhopper TV, developed a groundbreaking documentary series, 'Survival', that offered a unique insight into how some of the world's deadliest diseases affect those in developing countries. Ruder Finn led a global advocacy and communications campaign across the UK, France, Germany and Japan to foster dialogue and stimulate debate among policy makers and stakeholders on key global health issues.</p><p>Through a series of short advocacy films, video podcasts and private screenings, combined with stakeholder engagement and media outreach, Ruder Finn implemented a proactive, targeted advocacy campaign which secured:</p>
+                                            <ul>
+                                                <li>The support and participation of more than 250 organisations relevant to the Survival campaign</li>
+                                                <li>A series of video podcasts recorded with high profile global health leaders including Sarah Brown</li>
+                                            </ul>
+                                            <br/>
+                                            <p class="orange-more"><a href="#">› RETURN TO CLIENTS</a></p>
+                                        </div>
+                                    </div>
+                                    <div class="clients_detail" style="display:none">
+                                        <img src="images/clients/IVAC.jpg" />
+                                        <div class="clients_detail_r">
+                                            <h1>IVAC</h1>
+                                            <h4><strong>Securing a WHA resolution to tackle pneumonia globally</strong></h4>
+                                            <p>Ruder Finn was approached by the International Vaccine Access Centre (IVAC), to develop a national and international public affairs programme to raise awareness of the burden of pneumonia in the developing world and highlight possible prevention strategies.</p><p>By identifying and working with political and clinical experts who can influence policy on pneumonia, Ruder Finn engaged Government, Parliament, international bodies and key stakeholders in the campaign. This in turn influenced key decision makers, increasing their commitment to tackling pneumonia.</p>
+                                            <p>Throughout the campaign, Ruder Finn:</p>
+                                            <ul>
+                                                <li>Secured WHA resolution on pneumonia</li>
+                                                <li>Secured Government commitment to pneumonia strategies</li>
+                                                <li>Received Letters of support from the Prime Minister</li>
+                                                <li>Convened an panel of key expert clinicians</li>
+                                                <li>Published 'landmark' report on pneumococcal disease</li>
+                                            </ul>
+                                            <br/>
+                                            <p class="orange-more"><a href="#">› RETURN TO CLIENTS</a></p>
+                                        </div>
                                     </div>
                                     
-                                    <div class="careers_r_content">
-                                        <div class="scroll-pane">
-                                            <p>Ruder Finn in one of the world's biggest independent agencies and you will have the opportunity to work on some fantastic brands on big, global campaigns. Now is an exciting time for us – we have just moved into some fantastic new offices, have many new clients and great momentum going into 2012. If you want a varied comms challenge that touches digital, PR and experiential communications, all underpinned by clever insights, get in touch <a href="mailto:whywork@ruderfinn.co.uk">here</a>.</p>
-                                        </div>
-                                        <p class="orange-more"><a href="mailto:whywork@ruderfinn.co.uk">&#8249; EMAIL RUDERFINN UK</a></p>
-                                    </div>
-                                    <div class="clearit">&nbsp;</div>
                                 </div>
                             </div>
                         </div>
-                         
             		</div>
                 </div>
             </div>
@@ -1297,42 +1492,15 @@ digital boutique or a social media specialist. We have to work at the intersecti
                 <p>Most people will say that PR has changed vastly over the past five years. That digital has changed the game. That the 'traditional' approach to communications is dead. It's not. The core disciplines have never changed.</p>
                 <p>Organisations still need to talk to their audiences.</p>
                 <p>The difference now is that we still talk. Engage. Persuade. Articulate. But now it is easier to listen and to have a useful dialogue.</p>
-                <p>The channels we use, the strategies we deploy, and the way in 
-which we interact with audiences may be more diverse and 
-dynamic, but old fashioned principles remain.</p>
-                <p>Today’s agency is not a media relations shop or an internal comms 
-organisation. It’s not a digital boutique or a social media specialist.</p>
-<p>It’s not a Government relations bureau or advocacy firm. Today’s 
-Public Relations team has to work at the intersection of all routes 
-to audience, and communicate effectively and consistently across 
-them all.</p>
-<p>Focusing on a single channel – media, social media, Government 
-relations etc. – is an isolated and limited strategy. We 
-communicate in so many ways and consume information across 
-so many different formats and any campaign needs to reflect this 
-reality. People are jaded, brands must fight harder than ever for 
-smart, attention-grabbing campaigns.</p>
-<p>Creative Edge is our response to these challenges.</p>
-<p>Creative Edge is channel neutral. It is driven by research, data, 
-science and facts. It focuses on key audiences and uses the 
-appropriate channels to reach them with the right campaigns,
-messages and materials delivered at the right time.</p>
-<p>Put simply, it’s about taking a client’s communications problem, 
-applying insight, and solving it in a creative way. The manifestation 
-of this varies according to the challenge…</p>
-<p>…it could be a coffee table book.....a corporate partnership with 
-mumsnet...a pop-up clinic to focus on a disease area...a 
-website...a cartoon...a TV ad...a viral video... a campaign
-strapline...an event.....an experiential idea...a 3D design... a 
-crowdsourced movie…a game to help with recruitment...an 
-internal comms podcast...an e-learning module...an iPad app for
-GPs... or even (and often) a number of these tactics in tandem…</p>
-<p>The result is designed to influence, delight and amaze audiences, 
-whilst being integrated with the wider communications narrative, 
-and resulting in a marked and measurable behavioural change.
-Because in a world where it’s easy to be drowned out by noise, 
-only the best designed and deployed campaigns really stand out.</p>
-                
+                <p>The channels we use, the strategies we deploy, and the way in which we interact with audiences may be more diverse and dynamic, but old fashioned principles remain.</p>
+                <p>Today’s agency is not a media relations shop or an internal comms organisation. It’s not a digital boutique or a social media specialist.</p>
+                <p>It’s not a Government relations bureau or advocacy firm. Today’s Public Relations team has to work at the intersection of all routes to audience, and communicate effectively and consistently across them all.</p>
+                <p>Focusing on a single channel – media, social media, Government relations etc. – is an isolated and limited strategy. We communicate in so many ways and consume information across so many different formats and any campaign needs to reflect this reality. People are jaded, brands must fight harder than ever for smart, attention-grabbing campaigns.</p>
+                <p>Creative Edge is our response to these challenges.</p>
+                <p>Creative Edge is channel neutral. It is driven by research, data, science and facts. It focuses on key audiences and uses the appropriate channels to reach them with the right campaigns, messages and materials delivered at the right time.</p>
+                <p>Put simply, it’s about taking a client’s communications problem, applying insight, and solving it in a creative way. The manifestation of this varies according to the challenge…</p>
+                <p>…it could be a coffee table book.....a corporate partnership with mumsnet...a pop-up clinic to focus on a disease area...a website...a cartoon...a TV ad...a viral video... a campaignstrapline...an event.....an experiential idea...a 3D design... a crowdsourced movie…a game to help with recruitment...an internal comms podcast...an e-learning module...an iPad app for GPs... or even (and often) a number of these tactics in tandem…</p>
+                <p>The result is designed to influence, delight and amaze audiences, whilst being integrated with the wider communications narrative, and resulting in a marked and measurable behavioural change. Because in a world where it’s easy to be drowned out by noise, only the best designed and deployed campaigns really stand out.</p>
             </div>          
             <p class="h-line">&nbsp;</p>
             <div class="clearit">&nbsp;</div>
@@ -1445,26 +1613,16 @@ only the best designed and deployed campaigns really stand out.</p>
             
             <div class="scrollable scroll scroll-on-white">
                 <p>On Thursday, March 7, Ruder Finn won the prestigious PRWeek Award in the Employee Communications Campaign of the Year category for our work with Citi around their 200th anniversary.<br/><br/>
-
-In the midst of the financial environment, Citi's 200th anniversary presented a unique opportunity to reignite passion in the company, celebrate a rich history of progress and growth and demonstrate a renewed appreciation for its employees, the heart of the organization. To achieve this, Ruder Finn and Citi developed the 200 Years Citi campaign, a yearlong series of creative initiatives to engage employees globally.<br/><br/>
-
-Together, we launched creative programs such as Citi Music – a virtual orchestra and music video of 1,100 employees around the world signing the song Proud. We also created the Photo Challenge – a platform that allowed employees to submit their own photos around the core principles. The goal of the program was to reinforce Citi's new principles, and ended up receiving participation from more than 40 percent of employees with intranet access. We even involved children of Citi employees when we asked them to design the company's New Year's Card, which was distributed worldwide to clients, customers and employees. To commemorate the actual anniversary date, more than 110,000 employees around the world volunteered for their local communities on June 16, 2012 for Citi's Global Community Day.<br/><br/>
-
-The award entry, titled "200 Years Citi: Igniting Employee Pride with a Global Celebration" outlines all of the great work we collaborated on with Citi over the past two years. It also shows how these initiatives, among many others we created, allowed Citi to generate awareness of the anniversary, drive global engagement and celebrate the 200th anniversary in a bold and innovative way with its 260,000 employees around the world.<br/><br/>
-
-"This program was authentic, sincere, and genius in celebrating the diversity of its people and also humanizing the brand," noted a PRWeek judge.<br/><br/>
-
-Citi and Ruder Finn competed against Employee Communications programs at AECOM, Fannie Mae, Chobani and Xerox.<br/><br/>
-
-The 200 Years Citi program has received multiple awards from various outlets, including a Gold Stevie American Business Award in the employee communications video category, a PRSA Bronze Anvil Award for internal video programs, three Bronze Telly Awards for non-broadcast productions, and a Videographer Award of Excellence for music videos.</p>
+                In the midst of the financial environment, Citi's 200th anniversary presented a unique opportunity to reignite passion in the company, celebrate a rich history of progress and growth and demonstrate a renewed appreciation for its employees, the heart of the organization. To achieve this, Ruder Finn and Citi developed the 200 Years Citi campaign, a yearlong series of creative initiatives to engage employees globally.<br/><br/>Together, we launched creative programs such as Citi Music – a virtual orchestra and music video of 1,100 employees around the world signing the song Proud. We also created the Photo Challenge – a platform that allowed employees to submit their own photos around the core principles. The goal of the program was to reinforce Citi's new principles, and ended up receiving participation from more than 40 percent of employees with intranet access. We even involved children of Citi employees when we asked them to design the company's New Year's Card, which was distributed worldwide to clients, customers and employees. To commemorate the actual anniversary date, more than 110,000 employees around the world volunteered for their local communities on June 16, 2012 for Citi's Global Community Day.<br/><br/>The award entry, titled "200 Years Citi: Igniting Employee Pride with a Global Celebration" outlines all of the great work we collaborated on with Citi over the past two years. It also shows how these initiatives, among many others we created, allowed Citi to generate awareness of the anniversary, drive global engagement and celebrate the 200th anniversary in a bold and innovative way with its 260,000 employees around the world.<br/><br/>"This program was authentic, sincere, and genius in celebrating the diversity of its people and also humanizing the brand," noted a PRWeek judge.<br/><br/>Citi and Ruder Finn competed against Employee Communications programs at AECOM, Fannie Mae, Chobani and Xerox.<br/><br/>The 200 Years Citi program has received multiple awards from various outlets, including a Gold Stevie American Business Award in the employee communications video category, a PRSA Bronze Anvil Award for internal video programs, three Bronze Telly Awards for non-broadcast productions, and a Videographer Award of Excellence for music videos.</p>
             </div>			
             <p class="h-line"></p>
             <div class="clearit">&nbsp;</div>
         </div>
     </div>
 </div>
+<!------------------------citi200---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">
-	<!------------------------citi200---------------------------------------------->
+	
 	<div class="popups" id="citi200-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/citi200.png" /></div>
         <div class="popup-cnt">
@@ -1481,8 +1639,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
         </div>
     </div>
 </div>
+<!------------------------wannabewell---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">
-    <!------------------------wannabewell---------------------------------------------->
+    
 	<div class="popups" id="wannabewell-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/wanna-be-well.jpg" /></div>
         <div class="popup-cnt">
@@ -1499,8 +1658,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
         </div>
     </div>
 </div>
+<!------------------------fourseasons---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">
-    <!------------------------fourseasons---------------------------------------------->
+    
     <div class="popups" id="fourseasons-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/FourSeasons.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1515,8 +1675,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>
 </div>
+<!-----------------------mjf---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------mjf---------------------------------------------->
+   
     <div class="popups" id="mjf-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/MJFF.png" /></div> 
 		<div class="popup-cnt">
@@ -1531,8 +1692,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>	
 </div>
+<!-----------------------parsons---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">
-    <!-----------------------parsons---------------------------------------------->
+    
     
     <div class="popups" id="parsons-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/work6_parsons.jpg" /></div> 
@@ -1566,8 +1728,8 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>	
 </div>
+<!-----------------------bronze---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">
-    <!-----------------------bronze---------------------------------------------->
     <div class="popups" id="bronze-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/Anvil_awards.png" /></div> 
 		<div class="popup-cnt">
@@ -1582,8 +1744,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>	
 </div>
+<!-----------------------AUA---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">    
-    <!-----------------------AUA---------------------------------------------->
+    
     <div class="popups" id="AUA-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/AUA_Foundation.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1610,8 +1773,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>
 </div>
+<!-----------------------gala---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">
-    <!-----------------------gala---------------------------------------------->
+    
     <div class="popups" id="gala-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/gala.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1626,8 +1790,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>
 </div>
+<!------------------------supplemental---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!------------------------supplemental---------------------------------------------->
+    
     <div class="popups" id="supplemental-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/supplemental.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1642,8 +1807,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>	
 </div>
+<!------------------------miyanmar---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!------------------------miyanmar---------------------------------------------->
+    
     <div class="popups" id="miyanmar-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/miyanmar.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1658,8 +1824,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>
 </div>
+<!-----------------------knowyourstats---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------knowyourstats---------------------------------------------->
+    
     <div class="popups" id="knowyourstats-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/know-your-stats.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1674,8 +1841,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>
 </div>
+<!------------------------bulldog---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">		
-    <!------------------------bulldog---------------------------------------------->
+    
     <div class="popups" id="bulldog-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/bulldog.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1690,8 +1858,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>
 </div>
+<!------------------------caribou---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!------------------------caribou---------------------------------------------->
+    
     <div class="popups" id="caribou-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/caribou.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1706,8 +1875,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>
 </div>
+<!------------------------india---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-     <!------------------------india---------------------------------------------->
+     
     <div class="popups" id="india-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/india.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1722,8 +1892,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>
 </div>
+<!------------------------parkinsons---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">		
-     <!------------------------parkinsons---------------------------------------------->
+     
     <div class="popups" id="parkinsons-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/parkinsons.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1738,8 +1909,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>	
 </div>
+<!------------------------cfcf---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	    
-     <!------------------------cfcf---------------------------------------------->
+     
     <div class="popups" id="cfcf-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/cfcf.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1755,8 +1927,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>
 </div>
+<!------------------------fandewmonium---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	    
-    <!------------------------fandewmonium---------------------------------------------->
+    
     <div class="popups" id="fandewmonium-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/fandewmonium.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1773,8 +1946,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>	
 </div>
+<!------------------------guangzhou---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!------------------------guangzhou---------------------------------------------->
+    
     <div class="popups" id="guangzhou-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/guangzhou.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1789,8 +1963,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>
 </div>
+<!------------------------lyovel---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!------------------------lyovel---------------------------------------------->
+    
     <div class="popups" id="lyovel-box" style="width:938px; height: 548px">
     	<div class="popup-bgImage"><img image-link="images/popups/lyovel.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1803,8 +1978,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 		</div>
 	</div>	
 </div>
+<!-----------------------matrix---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------matrix---------------------------------------------->
+    
     <div class="popups" id="matrix-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/matrix.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1821,8 +1997,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
         </div>
 	</div>	
 </div>
+<!-----------------------ILSI---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------ILSI---------------------------------------------->
+    
     <div class="popups" id="ILSI-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/ILSI.png" /></div> 
 		<div class="popup-cnt">
@@ -1831,15 +2008,16 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 			
 			<div class="scrollable scroll scroll-on-white">
                 <p>Innovation leaders from twenty-two developed and emerging economies across six continents who are part of the non-governmental group the "i20" (including Ruder Finnís Chief Innovation Officer Michael Schubert) recently came together to exchange case studies, share best practices, and discuss how innovation capacities can be mobilized to address pressing global issues such as climate change, disease, poverty, and security.</p><br/>
-<p>"This Summit marked a turning point in harnessing the collective intelligence and experience of so many innovation leaders, not for the benefit of any single enterprise or country, but to help address major problems facing global society,I said Dr. John Kao, founder and chairman of <a href="http://www.largescaleinnovation.com/" target="_blank">Institute for Large-Scale Innovation (ILSI)</a> that supports the i20.</p>
+                <p>"This Summit marked a turning point in harnessing the collective intelligence and experience of so many innovation leaders, not for the benefit of any single enterprise or country, but to help address major problems facing global society,I said Dr. John Kao, founder and chairman of <a href="http://www.largescaleinnovation.com/" target="_blank">Institute for Large-Scale Innovation (ILSI)</a> that supports the i20.</p>
 			</div>			
             <p class="h-line">&nbsp;</p>
 			<div class="clearit">&nbsp;</div>
         </div>
 	</div>	
 </div>
+<!-----------------------WHCC---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------WHCC---------------------------------------------->
+    
     <div class="popups" id="WHCC-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/WHCC.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1847,15 +2025,15 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 			<p class="h-line" style="margin-top:30px">&nbsp;</p>
 			
 			<div class="scrollable scroll scroll-on-white">
-                <p>As the official public relations partner of the 8th <a href="http://www.worldhealthtalks.com/interviews.php" target="_blank">Annual World Health Care</a> Congress that took place in Washington, DC April 4-6th, Ruder Finn developed and implemented a media strategy to obtain coverage from top tier journalists; as well as coordinating speaking invitations for some of todayís foremost healthcare and corporate leaders. This year, the WHCC brought together over 1,800 CEOs and senior leaders from the largest providers, payers, employers and high-ranking government officials for a pan-industry discussion of the latest trends and best practices for improving the quality of care while reducing costs. Topics addressed included health reform, intersection of business and healthcare, chronic care, health IT summit, employer & HR/benefits, health plans, hospitals and physician practice.</p><br/>
-<p>A new highlight this year was <a href="http://www.worldcongress.com/events/HR11000/" target="_blank">The World Health Innovation Summit</a>, a three-day program focused on how innovations are improving the quality of care in developing counties, and how these innovations could be applied to the developed world. As part of this effort The Global Medical Travel Forum convened stakeholders to discuss the many challenges and opportunities in the global health care market.</p>
+                <p>As the official public relations partner of the 8th <a href="http://www.worldhealthtalks.com/interviews.php" target="_blank">Annual World Health Care</a> Congress that took place in Washington, DC April 4-6th, Ruder Finn developed and implemented a media strategy to obtain coverage from top tier journalists; as well as coordinating speaking invitations for some of todayís foremost healthcare and corporate leaders. This year, the WHCC brought together over 1,800 CEOs and senior leaders from the largest providers, payers, employers and high-ranking government officials for a pan-industry discussion of the latest trends and best practices for improving the quality of care while reducing costs. Topics addressed included health reform, intersection of business and healthcare, chronic care, health IT summit, employer & HR/benefits, health plans, hospitals and physician practice.</p><br/><p>A new highlight this year was <a href="http://www.worldcongress.com/events/HR11000/" target="_blank">The World Health Innovation Summit</a>, a three-day program focused on how innovations are improving the quality of care in developing counties, and how these innovations could be applied to the developed world. As part of this effort The Global Medical Travel Forum convened stakeholders to discuss the many challenges and opportunities in the global health care market.</p>
 			</div>			
 			<div class="clearit">&nbsp;</div>
         </div>
 	</div>	
 </div>
+<!-----------------------kathy---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    	<!-----------------------kathy---------------------------------------------->
+    	
     <div class="popups" id="kathy-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/kathy-bg.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1868,8 +2046,9 @@ The 200 Years Citi program has received multiple awards from various outlets, in
         </div>
 	</div>
 </div>
+<!-----------------------rfcharity---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">		
-    <!-----------------------rfcharity---------------------------------------------->
+    
     <div class="popups" id="rfcharity-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/RFCharityBox.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1877,9 +2056,7 @@ The 200 Years Citi program has received multiple awards from various outlets, in
 			<p class="h-line" style="margin-top:30px">&nbsp;</p>
 			
 			<div class="scrollable scroll scroll-on-white">
-                <p>When Ruder Finn launched the first-ever "Ruder Finn Cares" charity drive just before the Thanksgiving holiday this year, nearly all of the agency's 200 New York-based staffers jumped into action - donating canned food, toiletries, toys, and even old prom dresses, to the cause.<br/><br/>
-As part of the effort, Ruder Finn staff members are donating goods on behalf of seven local non-profit organizations, all of which connect daily with thousands of New Yorkers in need. Ruder Finn staff members at all levels are participating, and not just by making donations - several staffers volunteered to serve as "charity leads" - organizing collections, promoting the charities internally and liaising directly with each charity to ensure their needs are met.<br/><br/>
-"This holiday we wanted to do something to give back to our fellow New Yorkers in a way we never have before," said Kathy Bloomgarden, Ruder Finn's CEO. "I continue to be so impressed by our staff's eagerness to participate and their willingness to give. I hope this will be the start of a great holiday tradition at Ruder Finn."</p>
+                <p>When Ruder Finn launched the first-ever "Ruder Finn Cares" charity drive just before the Thanksgiving holiday this year, nearly all of the agency's 200 New York-based staffers jumped into action - donating canned food, toiletries, toys, and even old prom dresses, to the cause.<br/><br/>As part of the effort, Ruder Finn staff members are donating goods on behalf of seven local non-profit organizations, all of which connect daily with thousands of New Yorkers in need. Ruder Finn staff members at all levels are participating, and not just by making donations - several staffers volunteered to serve as "charity leads" - organizing collections, promoting the charities internally and liaising directly with each charity to ensure their needs are met.<br/><br/>"This holiday we wanted to do something to give back to our fellow New Yorkers in a way we never have before," said Kathy Bloomgarden, Ruder Finn's CEO. "I continue to be so impressed by our staff's eagerness to participate and their willingness to give. I hope this will be the start of a great holiday tradition at Ruder Finn."</p>
 			</div>	
             <p class="h-line">&nbsp;</p>		
 			<div class="clearit">&nbsp;</div>
@@ -1887,8 +2064,9 @@ As part of the effort, Ruder Finn staff members are donating goods on behalf of 
         </div>
 	</div>
 </div>
+<!-----------------------rfii---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------rfii---------------------------------------------->
+    
     <div class="popups" id="rfii-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/rfii-bg.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1904,8 +2082,9 @@ As part of the effort, Ruder Finn staff members are donating goods on behalf of 
         </div>
 	</div>	
 </div>
+<!-----------------------reinvention---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------reinvention---------------------------------------------->
+    
     <div class="popups general-box" id="reinvention-box" style="width:938px; height: 548px"> 
 		<div class="popup-cnt">
 			<h2>The Reinvention of Chinese Brands: SVP Elan Shou in CNN&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
@@ -1917,8 +2096,9 @@ As part of the effort, Ruder Finn staff members are donating goods on behalf of 
         </div>
 	</div>	
 </div>
+<!-----------------------dewmo---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------dewmo---------------------------------------------->
+    
     <div class="popups general-box" id="dewmo-box" style="width:938px; height: 548px"> 
 		<div class="popup-cnt">
 			<h2>Launching Mountain Dew White Out&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
@@ -1930,40 +2110,37 @@ As part of the effort, Ruder Finn staff members are donating goods on behalf of 
         </div>
 	</div>
 </div>
+<!-----------------------senior---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------senior---------------------------------------------->
+    
     <div class="popups general-box" id="senior-box" style="width:938px; height: 548px"> 
 		<div class="popup-cnt">
 			<h2>Senior Appointments Strengthen Asian Footprint&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
 			
 			<div class="scrollable scroll scroll-on-white">
-                <p>Coming off a decade of dynamic double-digit growth in China, Ruder Finn continues to strengthen ourbusiness within Asia's fastest growing economic centers. Newly appointed Senior Vice President Elan Shou will oversee and consolidate the work of three of the offices in China, while continuing to maintain the business' double-digit growth. As the former head of Ruder Finn Shanghai, a position she held until 2008, Elan was responsible for growing the business from an office of 10 into a 50 person-strong operation renowned for its innovative and strategic work.<br/><br/>
-Overseeing the Singapore office is Yu Poh Leng, who was recently promoted to General Manager Ruder Finn Singapore. Poh Leng brings more than 20 years of high-level public relations experience, most recently as the Executive Director of the Corporate and Marketing Communications team at Citigate.</p>
+                <p>Coming off a decade of dynamic double-digit growth in China, Ruder Finn continues to strengthen ourbusiness within Asia's fastest growing economic centers. Newly appointed Senior Vice President Elan Shou will oversee and consolidate the work of three of the offices in China, while continuing to maintain the business' double-digit growth. As the former head of Ruder Finn Shanghai, a position she held until 2008, Elan was responsible for growing the business from an office of 10 into a 50 person-strong operation renowned for its innovative and strategic work.<br/><br/>Overseeing the Singapore office is Yu Poh Leng, who was recently promoted to General Manager Ruder Finn Singapore. Poh Leng brings more than 20 years of high-level public relations experience, most recently as the Executive Director of the Corporate and Marketing Communications team at Citigate.</p>
 			</div>			
 			<div class="clearit">&nbsp;</div>
         </div>
 	</div>
 </div>
+<!-----------------------emmy---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------emmy---------------------------------------------->
+    
     <div class="popups general-box" id="emmy-box" style="width:938px; height: 548px"> 
 		<div class="popup-cnt">
 			<h2>Emmy Award-nominated Television Producer Moves to Ruder Finn&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
 			<br/>
 			<div class="scrollable scroll scroll-on-white">
-                <p>Adding to an already impressive list of former executive level journalists on their team, Ruder Finn today announced that Maryam Ayromlou has joined the agency's New York office as Senior Vice President. Ayromlou comes to Ruder Finn from CBS News/The Early Show, where she was the supervising producer, overseeing the planning of all interview-driven segments and garnering herself an Emmy nomination.<br/><br/>
-Utilizing her broadcast journalism experience of more than 16 years, Ayromlou will provide unique insight into how the broadcast media can help Ruder Finn's clients raise their profile and increase sales. Ms. Ayromlou has worked at some of the top networks including MSNBC, Fox News Channel, and CBS News. She has had an extensive and gripping career, from working with Tom Brokaw on assignment in Iran, to producing MSNBC's 2004 election coverage and presidential debates.<br/><br/>
-"We are pleased to add someone of Maryam's caliber to our firm," says Kathy Bloomgarden, CEO. "Her expertise in knowing how the media thinks and operates, her experience in crafting stories that build credibility, and her long list of media contacts will serve our clients for years to come."<br/><br/>
-Ayromlou spent close to eight years at MSNBC as primetime senior producer, where she worked on a number of programs including "Countdown with Keith Olbermann." She was on loan to NBC News and traveled to Iraq for the start of the war in 2003 where she was field producing spots for Nightly News and the Today Show. She also worked on "On Location with Ashleigh Banfield", where she traveled on the road for the search for Elizabeth Smart among other top news stories. She traveled to Iran on a half dozen occasions for NBC News, and covered the Presidential elections in Iran with Tom Brokaw during Mahmoud Ahmadinejad's rise to office. Ayromlou worked as a senior producer on MSNBC's documentaries and specials unit where she worked on prestigious programs like "Silicon Summit" hosted by Tom Brokaw as well as the network's coverage on the Presidential Inauguration and President Reagan's funeral. At Fox News Channel, Ms. Ayromlou was one of the senior producers who helped launch "Happening Now" a fast-paced live two-hour daytime news program on the number one cable news network.<br/><br/>
-"Ruder Finn is a company which I have long respected. As a global company, their leadership in corporate and public trust sets them apart, and I'm greatly looking forward to joining the team. My position demonstrates the agency's commitment to seeking new and innovative approaches to servicing its clients," said Ayromlou.<br/><br/>
-Ayromlou is a graduate of Cornell University and holds an MBA degree from New York University. She lives in New York City with her husband and two children.</p>
+                <p>Adding to an already impressive list of former executive level journalists on their team, Ruder Finn today announced that Maryam Ayromlou has joined the agency's New York office as Senior Vice President. Ayromlou comes to Ruder Finn from CBS News/The Early Show, where she was the supervising producer, overseeing the planning of all interview-driven segments and garnering herself an Emmy nomination.<br/><br/>Utilizing her broadcast journalism experience of more than 16 years, Ayromlou will provide unique insight into how the broadcast media can help Ruder Finn's clients raise their profile and increase sales. Ms. Ayromlou has worked at some of the top networks including MSNBC, Fox News Channel, and CBS News. She has had an extensive and gripping career, from working with Tom Brokaw on assignment in Iran, to producing MSNBC's 2004 election coverage and presidential debates.<br/><br/>"We are pleased to add someone of Maryam's caliber to our firm," says Kathy Bloomgarden, CEO. "Her expertise in knowing how the media thinks and operates, her experience in crafting stories that build credibility, and her long list of media contacts will serve our clients for years to come."<br/><br/>Ayromlou spent close to eight years at MSNBC as primetime senior producer, where she worked on a number of programs including "Countdown with Keith Olbermann." She was on loan to NBC News and traveled to Iraq for the start of the war in 2003 where she was field producing spots for Nightly News and the Today Show. She also worked on "On Location with Ashleigh Banfield", where she traveled on the road for the search for Elizabeth Smart among other top news stories. She traveled to Iran on a half dozen occasions for NBC News, and covered the Presidential elections in Iran with Tom Brokaw during Mahmoud Ahmadinejad's rise to office. Ayromlou worked as a senior producer on MSNBC's documentaries and specials unit where she worked on prestigious programs like "Silicon Summit" hosted by Tom Brokaw as well as the network's coverage on the Presidential Inauguration and President Reagan's funeral. At Fox News Channel, Ms. Ayromlou was one of the senior producers who helped launch "Happening Now" a fast-paced live two-hour daytime news program on the number one cable news network.<br/><br/>"Ruder Finn is a company which I have long respected. As a global company, their leadership in corporate and public trust sets them apart, and I'm greatly looking forward to joining the team. My position demonstrates the agency's commitment to seeking new and innovative approaches to servicing its clients," said Ayromlou.<br/><br/>Ayromlou is a graduate of Cornell University and holds an MBA degree from New York University. She lives in New York City with her husband and two children.</p>
 			</div>			
 			<div class="clearit">&nbsp;</div>
         </div>
 	</div>
 </div>
+<!-----------------------callofduty---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">		
-    <!-----------------------callofduty---------------------------------------------->
+    
     <div class="popups" id="callofduty-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/callofduty.jpg" /></div> 
 		<div class="popup-cnt">
@@ -1971,65 +2148,57 @@ Ayromlou is a graduate of Cornell University and holds an MBA degree from New Yo
 			<p class="h-line" style="margin-top:30px">&nbsp;</p>
 			
 			<div class="scrollable scroll scroll-on-white">
-                <p>RF recently generated national awareness around a strategic partnership between Mountain Dew® (DEW) and Activision for the launches of Mtn Dew Game Fuel® and Call of Duty®: Modern Warfare® 3 (COD: MW3), the latest installment in Activision's 
-top-selling video game franchise. Through this partnership, DEW is celebrating the return of the original Mtn Dew Game Fuel—a citrus cherry flavor—and the debut of a brand-new, tropical flavor of Mtn Dew Game Fuel that was developed with Activision especially for COD: MW3.</p>
+                <p>RF recently generated national awareness around a strategic partnership between Mountain Dew® (DEW) and Activision for the launches of Mtn Dew Game Fuel® and Call of Duty®: Modern Warfare® 3 (COD: MW3), the latest installment in Activision's top-selling video game franchise. Through this partnership, DEW is celebrating the return of the original Mtn Dew Game Fuel—a citrus cherry flavor—and the debut of a brand-new, tropical flavor of Mtn Dew Game Fuel that was developed with Activision especially for COD: MW3.</p>
 			</div>			
             <p class="h-line">&nbsp;</p>
 			<div class="clearit">&nbsp;</div>
         </div>
 	</div>
 </div>
+<!-----------------------kerry---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------kerry---------------------------------------------->
+    
     <div class="popups general-box" id="kerry-box" style="width:938px; height: 548px"> 
 		<div class="popup-cnt">
 			<h2>Former Bloomberg BusinessWeek Senior Correspondent Kerry Capell Joins RF as SVP Focusing on Global Multinational Accounts&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
 			
 			<div class="scrollable scroll scroll-on-white">
-                <p>Ruder Finn, one of the world's largest, independent public relations agencies, has named former Bloomberg BusinessWeek London senior correspondent Kerry Capell as a Senior Vice President. She will co tinue to be based in Europe.<br/><br/>
-With fifteen years of reporting experience covering global economic and corporate trends, innovation and strategic initiatives across all industry sectors, Capell will provide senior level counsel for Ruder Finn's multinational clients.<br/><br/>
-Capell will report to Kathy Bloomgarden, Co-CEO of Ruder Finn, Inc.<br/><br/>
-"In a landscape where large businesses are more and more under scrutiny from the public and the media, someone with the perspective of one of the world's leading business publications is a critical asset for us and for our clients," said Bloomgarden.<br/><br/>
-Capell joined Bloomberg BusinessWeek in 1995 and assumed the position as London senior correspondent in 1999. Prior to this role, she was an international finance editor and a staff editor in the Personal Business section. Before Capell joined BusinessWeek, she was the managing editor of Financial Planning magazine.<br/><br/>
-"I'm excited to join Ruder Finn, especially at a time when companies are often on the defensive in the wake of the global economic crisis and deflated public trust," said Capell. "Conveying the value companies are adding and the good they're doing is more important than ever, especially in the current fragmented media environment."<br/><br/>
-"We're very pleased Kerry is joining us," Bloomgarden added. "Her addition to the Ruder Finn team represents our continuing commitment to understanding and responding to the changing media environment."</p>
+                <p>Ruder Finn, one of the world's largest, independent public relations agencies, has named former Bloomberg BusinessWeek London senior correspondent Kerry Capell as a Senior Vice President. She will co tinue to be based in Europe.<br/><br/>With fifteen years of reporting experience covering global economic and corporate trends, innovation and strategic initiatives across all industry sectors, Capell will provide senior level counsel for Ruder Finn's multinational clients.<br/><br/>Capell will report to Kathy Bloomgarden, Co-CEO of Ruder Finn, Inc.<br/><br/>"In a landscape where large businesses are more and more under scrutiny from the public and the media, someone with the perspective of one of the world's leading business publications is a critical asset for us and for our clients," said Bloomgarden.<br/><br/>Capell joined Bloomberg BusinessWeek in 1995 and assumed the position as London senior correspondent in 1999. Prior to this role, she was an international finance editor and a staff editor in the Personal Business section. Before Capell joined BusinessWeek, she was the managing editor of Financial Planning magazine.<br/><br/>"I'm excited to join Ruder Finn, especially at a time when companies are often on the defensive in the wake of the global economic crisis and deflated public trust," said Capell. "Conveying the value companies are adding and the good they're doing is more important than ever, especially in the current fragmented media environment."<br/><br/>"We're very pleased Kerry is joining us," Bloomgarden added. "Her addition to the Ruder Finn team represents our continuing commitment to understanding and responding to the changing media environment."</p>
 			</div>			
 			<div class="clearit">&nbsp;</div>
         </div>
 	</div>
 </div>
+<!-----------------------prsa---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------prsa---------------------------------------------->
     <div class="popups general-box" id="prsa-box" style="width:938px; height: 548px"> 
 		<div class="popup-cnt">
 			<h2>RF Recieves 3 Silver Anvil Nominations&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
 			
 			<div class="scrollable scroll scroll-on-white">
-                <p>Ruder Finn has received three Silver Anvil Nominations from the PRSA. The nominations, for Quallion, BMS and Novartis campaigns, are among only 134 out of 823 entries.<br/><br/>
-The Silver Anvil award ceremony will be held on June 3 in New York City.</p>
+                <p>Ruder Finn has received three Silver Anvil Nominations from the PRSA. The nominations, for Quallion, BMS and Novartis campaigns, are among only 134 out of 823 entries.<br/><br/>The Silver Anvil award ceremony will be held on June 3 in New York City.</p>
 			</div>			
 			<div class="clearit">&nbsp;</div>
         </div>
 	</div>
 </div>
+<!-----------------------solvay---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------solvay---------------------------------------------->
+    
     <div class="popups general-box" id="solvay-box" style="width:938px; height: 548px"> 
 		<div class="popup-cnt">
 			<h2>RF Celebrates Big Apple Honors for Novartis, Solvay Campaigns&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
 			
 			<div class="scrollable scroll scroll-on-white">
-                <p>RF's Healthcare group received dual honors at the 23rd Annual Big Apple Awards on May 27th, winning a Big Apple award for "Hit your CML Target with Kareem Abdul-Jabbar", while the SolvayCARES Scholarship campaign garnered an Honorable Mention.<br/><br/>
-For the Novartis campaign, RF Healthcare and RFI developed a Facebook Page for Chronic Myeloid Leukemia (CML) patient and advocate Kareem Abdul-Jabbar that helped spread the word that CML is a manageable disease with treatment. The campaign drove traffic to <a href="http://www.cmlearth.com/" target="_blank" style="color:#F90">CML Earth</a>, where patients can connect with each other and share their personal stories.<br/><br/>
-RF Healthcare and RFI also worked together on the Solvay Pharmaceuticals SolvayCARES Scholarship campaign to highlight the creativity and positive spirit of 40 students with Cystic Fibrosis, a terminal inherited illness.<br/><br/>
-32 Big Apple Awards and 20 Honorable Mentions were presented at the ceremony dinner at the Hudson Theatre, Millennium Broadway Hotel. The awards are presented annually by the New York Chapter of the Public Relations Society of America <a href="http://www.prsany.org/" target="_blank" style="color:#F90">(PRSA-NY)</a> and recognize excellence in public relations.</p>
+                <p>RF's Healthcare group received dual honors at the 23rd Annual Big Apple Awards on May 27th, winning a Big Apple award for "Hit your CML Target with Kareem Abdul-Jabbar", while the SolvayCARES Scholarship campaign garnered an Honorable Mention.<br/><br/>For the Novartis campaign, RF Healthcare and RFI developed a Facebook Page for Chronic Myeloid Leukemia (CML) patient and advocate Kareem Abdul-Jabbar that helped spread the word that CML is a manageable disease with treatment. The campaign drove traffic to <a href="http://www.cmlearth.com/" target="_blank" style="color:#F90">CML Earth</a>, where patients can connect with each other and share their personal stories.<br/><br/>RF Healthcare and RFI also worked together on the Solvay Pharmaceuticals SolvayCARES Scholarship campaign to highlight the creativity and positive spirit of 40 students with Cystic Fibrosis, a terminal inherited illness.<br/><br/>32 Big Apple Awards and 20 Honorable Mentions were presented at the ceremony dinner at the Hudson Theatre, Millennium Broadway Hotel. The awards are presented annually by the New York Chapter of the Public Relations Society of America <a href="http://www.prsany.org/" target="_blank" style="color:#F90">(PRSA-NY)</a> and recognize excellence in public relations.</p>
 			</div>			
 			<div class="clearit">&nbsp;</div>
         </div>
 	</div>
 </div>
+<!-----------------------webby---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------webby---------------------------------------------->
+    
     <div class="popups" id="webby-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/webby-bg.jpg" /></div> 
 		<div class="popup-cnt">
@@ -2037,72 +2206,62 @@ RF Healthcare and RFI also worked together on the Solvay Pharmaceuticals SolvayC
 			<br/>
             <p class="h-line">&nbsp;</p>
 			<div class="scrollable scroll scroll-on-white">
-                <p>The 14th Annual <a href="http://www.webbyawards.com/" target="_blank">Webby Awards</a> has chosen RFI Studios campaigns for readwritethink.org and PARC.com as Official Honorees.<br/><br/>
-<a href="http://www.readwritethink.org/" target="_blank">Read Write Think</a> is an Honoree in the Education category. It is a leading site for literary educators, and a member of the Thinkfinity online educational consortium sponsored by the Verizon Foundation. <a href="http://www.parc.com/" target="_blank">The PARC</a> site is an Honoree in the Corporate Communications Category. PARC, or the Palo Alto Research Center is a leading technology and innovation center.<br/><br/>
-The Webby Awards gives the distinction of Official Honoree to the top 15% of all work entered that exhibits remarkable achievements. For the 2010 awards, the Webbys received 10,000 entries from all 50 states and over 60 countries.</p>
+                <p>The 14th Annual <a href="http://www.webbyawards.com/" target="_blank">Webby Awards</a> has chosen RFI Studios campaigns for readwritethink.org and PARC.com as Official Honorees.<br/><br/><a href="http://www.readwritethink.org/" target="_blank">Read Write Think</a> is an Honoree in the Education category. It is a leading site for literary educators, and a member of the Thinkfinity online educational consortium sponsored by the Verizon Foundation. <a href="http://www.parc.com/" target="_blank">The PARC</a> site is an Honoree in the Corporate Communications Category. PARC, or the Palo Alto Research Center is a leading technology and innovation center.<br/><br/>The Webby Awards gives the distinction of Official Honoree to the top 15% of all work entered that exhibits remarkable achievements. For the 2010 awards, the Webbys received 10,000 entries from all 50 states and over 60 countries.</p>
 			</div>			
 			<div class="clearit">&nbsp;</div>
         </div>
 	</div>
 </div>
+<!-----------------------internet---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">		
-    <!-----------------------internet---------------------------------------------->
+    
     <div class="popups" id="internet-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/internet-bg.jpg" /></div> 
 		<div class="popup-cnt">
 			<h2>RF's New Study Reveals 'Intent' Behind Mobile Internet Use&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2>
 			<p class="h-line">&nbsp;</p>
 			<div class="scrollable scroll scroll-on-white">
-                <p>According to a new survey announced today by Ruder Finn, one of the world's largest, independent public relations agencies, Americans are spending an average of 2.7 hours per day on the mobile Internet – connecting socially, managing their personal finances, and even as a means for advocacy. Ruder Finn's first-ever <a href="http://www.intentindex.com/mobile/" target="_blank"><i>Mobile Intent Index</i></a> studies mobile phone user habits and explores the underlying reasons – or intent – people have for accessing the mobile Internet.
-</p><p>According to the <i>Mobile Intent Index</i>, mobile phone users do not access the mobile Internet for educational purposes or for creative expression, as the transitory nature of mobile intent goes against spending time to engage in discussions about personal issues. As expected, usage by gender and age differ – with men accessing the mobile Internet 'to escape,' and women making others laugh.
-</p><p>"Mobile phones have become the way people organize their lives—managing finances, connecting with friends, purchasing products—and this trend will only accelerate," said Kathy Bloomgarden, Ruder Finn co-CEO. "The mobile phone is becoming the most powerful online device, and the faster businesses can adapt their services to harness consumer mobile <i>intent</i>, the more rapidly they can capitalize on understanding their customers to drive growth."
-</p><p>The <i>Mobile Intent Index</i> asked respondents how frequently they use their mobile phones to go online for 295 reasons.  The results show that immediacy is the primary factor driving behavior.
-</p><p>"Mobile phone use goes beyond instant gratification," said Marty McGough, director, Ruder Finn Insights. "Our survey data shows that people use their mobile phones out of necessity for instant access to the Web whether it's to conduct business with the most recent information or advocate on the spot on issues of pressing concern and breaking news."
-</p><p>Additionally, the data underscores the rise of phone applications.  Three in five (61%) respondents download applications at least once per month while 36 percent of users download applications from social networking sites at least once per month.
-</p><p>Michael Schubert, Chief Innovation Officer overseeing digital strategy at Ruder Finn added, "Mobile technology means that people no longer have to wait until they're in front of their computers to do their work. And people are taking advantage of that; using mobile devices to do their core work while using desktops to navigate longer format and higher bandwidth content and tools. This is resulting in huge changes – and opportunities – across industries, making mobile an essential channel in keeping businesses competitive."
-</p><p>The <i>Mobile Intent Index</i> follows Ruder Finn's earlier launch of its <i>Intent Index</i>, which provides a new view on why people go online and redefines how we look at demographics.
-</p><p><b><i>Mobile Intent Index</i> Survey Results</b>
-</p><p>Mobile phones are a social connector.  91% of mobile users go online to socialize, compared to only 79% of traditional users.  They are using their mobile phones "at the moment" to connect with others.  The top socialize intents are:
-<ul>
-<li>Instant message – 62%</li>
-<li>Forward e-mails (58%), content (40%) and photos (38%)</li>
-<li>Post comments on social networking sites – 45%</li>
-<li>Connect to people on social networking sites – 43%</li>
-</ul>
-</p><p><b>Mobile phones are a personal finance tool.</b>  Mobile phone users (60%) are 1.3 times more likely to go online to do business compared to traditional users (45%).  In fact, they are 1.6 times more likely to manage finances (62% versus 39%).  Mobile phones offer users the chance to conduct business in real time, and this is the major reason that business-related intents are so high.  The top business intents are:
-<ul>
-<li>Online banking – 46%</li>
-<li>Check bill/credit card status – 40%</li>
-<li>Read business blogs – 33%</li>
-</ul>
-</p><p><b>Mobile phones are used for advocacy.</b>  Nearly half of mobile users (49%) go online to advocate compared to only 41% of traditional users.  In fact, they (67%) are 1.4 times more likely than traditional users (47%) to activate support.  Mobile phones offer users the chance to immediately respond to breaking news, whether it is a new piece of legislation or even the latest ongoing development of a corporation or politician under siege.  The top advocacy intents are:
-<ul>
-<li>Activate support for a cause or position – 67%</li>
-<li>Post opinions on social networking sites – 45%</li>
-<li>Forward content on a cause – 40%</li>
-</ul>
-</p><p><b>Mobile phones are not a learning tool.</b>  Mobile users (76%) are much less likely than all users (92%) to go online to learn.  Learning requires time and patience, something mobile phone users are in short supply of.  
-<ul>
-<li>They (64%) are 1.5 times less likely than the traditional user (96%) to go online to educate themselves</li>
-<li>They (64%) are 1.4 times less likely than the traditional user (94%) to go online to research.</li>
-<li>They (95%) are more likely than the traditional user (86%) to go online to keep informed.</li>
-</ul>
-</p><p><b>Mobile phones aren't used for creative expression.</b>  Mobile users are 1.3 times less likely to personally express themselves online (42%) compared to traditional users (54%).  The transitory nature of their intents speaks against spending the time to engage in discussions about personal issues while using their mobile phones.
-<ul>
-<li>They (41%) are 1.7 times less likely than the traditional user (70%) to go online to opine.</li>
-<li>They (24%) are 1.8 times less likely than the traditional user (44%) to go online to be creative.</li>
-</ul>
-</p><p><b>Intent of Mobile Phone Users Differ by Gender and Age</b>
-<ul>
-<li>Men look at prices but women buy.  When shopping, men are more likely than women to compare prices (47% vs. 30%), but women are more likely to purchase (40% vs. 30%).</li>
-<li>Women express themselves while men do business.  Women are much more likely than men to personally express themselves (49% vs. 35%) but men are much more likely to do business (62% vs. 57%).</li>
-<li>Men want to get away.  Men (79%) are much more likely than women (61%) to use their mobile phone to simply "escape."</li>
-<li>Women want to make others laugh.  Many more women (70%) than men (58%) go online using their mobile devices to entertain others.</li>
-<li>Youth are the target for retailers. Youth (44%) are more likely to shop over their mobile phones than the average mobile user (35%).</li>
-<li>Seniors want to learn. Seniors (82%) are much more likely than the traditional user (64%) to use their mobile phones to educate themselves.</li>
-</ul>
-</p><p><b>About the <i>Mobile Intent Index</i></b> <a href="http://intentindex.com/mobile" target="_blank">(http://intentindex.com/mobile)</a>
-</p><p>Ruder Finn's <i>Mobile Intent Index</i> is the first study of its kind to examine the underlying motivations or reasons – intents – people have for using their mobile phones.  The representative and Census-balanced online study of 500 American adults 18 years of age and older who "use their mobile device to go online or to access the Internet" was conducted in November 2009 by RF Insights among respondents who belong to Western Wats'  large consumer panel, Opinion Outpost.  The margin of error is +/- 4.4% (95th confidence interval).</p>
+                <p>According to a new survey announced today by Ruder Finn, one of the world's largest, independent public relations agencies, Americans are spending an average of 2.7 hours per day on the mobile Internet – connecting socially, managing their personal finances, and even as a means for advocacy. Ruder Finn's first-ever <a href="http://www.intentindex.com/mobile/" target="_blank"><i>Mobile Intent Index</i></a> studies mobile phone user habits and explores the underlying reasons – or intent – people have for accessing the mobile Internet.</p><p>According to the <i>Mobile Intent Index</i>, mobile phone users do not access the mobile Internet for educational purposes or for creative expression, as the transitory nature of mobile intent goes against spending time to engage in discussions about personal issues. As expected, usage by gender and age differ – with men accessing the mobile Internet 'to escape,' and women making others laugh.</p><p>"Mobile phones have become the way people organize their lives—managing finances, connecting with friends, purchasing products—and this trend will only accelerate," said Kathy Bloomgarden, Ruder Finn co-CEO. "The mobile phone is becoming the most powerful online device, and the faster businesses can adapt their services to harness consumer mobile <i>intent</i>, the more rapidly they can capitalize on understanding their customers to drive growth."</p><p>The <i>Mobile Intent Index</i> asked respondents how frequently they use their mobile phones to go online for 295 reasons.  The results show that immediacy is the primary factor driving behavior.</p><p>"Mobile phone use goes beyond instant gratification," said Marty McGough, director, Ruder Finn Insights. "Our survey data shows that people use their mobile phones out of necessity for instant access to the Web whether it's to conduct business with the most recent information or advocate on the spot on issues of pressing concern and breaking news."</p><p>Additionally, the data underscores the rise of phone applications.  Three in five (61%) respondents download applications at least once per month while 36 percent of users download applications from social networking sites at least once per month.</p><p>Michael Schubert, Chief Innovation Officer overseeing digital strategy at Ruder Finn added, "Mobile technology means that people no longer have to wait until they're in front of their computers to do their work. And people are taking advantage of that; using mobile devices to do their core work while using desktops to navigate longer format and higher bandwidth content and tools. This is resulting in huge changes – and opportunities – across industries, making mobile an essential channel in keeping businesses competitive."</p><p>The <i>Mobile Intent Index</i> follows Ruder Finn's earlier launch of its <i>Intent Index</i>, which provides a new view on why people go online and redefines how we look at demographics.</p><p><b><i>Mobile Intent Index</i> Survey Results</b></p>
+                <p>Mobile phones are a social connector.  91% of mobile users go online to socialize, compared to only 79% of traditional users.  They are using their mobile phones "at the moment" to connect with others.  The top socialize intents are:
+                    <ul>
+                        <li>Instant message – 62%</li>
+                        <li>Forward e-mails (58%), content (40%) and photos (38%)</li>
+                        <li>Post comments on social networking sites – 45%</li>
+                        <li>Connect to people on social networking sites – 43%</li>
+                    </ul>
+                    </p><p><b>Mobile phones are a personal finance tool.</b>  Mobile phone users (60%) are 1.3 times more likely to go online to do business compared to traditional users (45%).  In fact, they are 1.6 times more likely to manage finances (62% versus 39%).  Mobile phones offer users the chance to conduct business in real time, and this is the major reason that business-related intents are so high.  The top business intents are:
+                    <ul>
+                        <li>Online banking – 46%</li>
+                        <li>Check bill/credit card status – 40%</li>
+                        <li>Read business blogs – 33%</li>
+                    </ul>
+                    </p><p><b>Mobile phones are used for advocacy.</b>  Nearly half of mobile users (49%) go online to advocate compared to only 41% of traditional users.  In fact, they (67%) are 1.4 times more likely than traditional users (47%) to activate support.  Mobile phones offer users the chance to immediately respond to breaking news, whether it is a new piece of legislation or even the latest ongoing development of a corporation or politician under siege.  The top advocacy intents are:
+                    <ul>
+                        <li>Activate support for a cause or position – 67%</li>
+                        <li>Post opinions on social networking sites – 45%</li>
+                        <li>Forward content on a cause – 40%</li>
+                    </ul>
+                    </p><p><b>Mobile phones are not a learning tool.</b>  Mobile users (76%) are much less likely than all users (92%) to go online to learn.  Learning requires time and patience, something mobile phone users are in short supply of.  
+                    <ul>
+                        <li>They (64%) are 1.5 times less likely than the traditional user (96%) to go online to educate themselves</li>
+                        <li>They (64%) are 1.4 times less likely than the traditional user (94%) to go online to research.</li>
+                        <li>They (95%) are more likely than the traditional user (86%) to go online to keep informed.</li>
+                    </ul>
+                    </p><p><b>Mobile phones aren't used for creative expression.</b>  Mobile users are 1.3 times less likely to personally express themselves online (42%) compared to traditional users (54%).  The transitory nature of their intents speaks against spending the time to engage in discussions about personal issues while using their mobile phones.
+                    <ul>
+                        <li>They (41%) are 1.7 times less likely than the traditional user (70%) to go online to opine.</li>
+                        <li>They (24%) are 1.8 times less likely than the traditional user (44%) to go online to be creative.</li>
+                    </ul>
+                    </p><p><b>Intent of Mobile Phone Users Differ by Gender and Age</b>
+                    <ul>
+                        <li>Men look at prices but women buy.  When shopping, men are more likely than women to compare prices (47% vs. 30%), but women are more likely to purchase (40% vs. 30%).</li>
+                        <li>Women express themselves while men do business.  Women are much more likely than men to personally express themselves (49% vs. 35%) but men are much more likely to do business (62% vs. 57%).</li>
+                        <li>Men want to get away.  Men (79%) are much more likely than women (61%) to use their mobile phone to simply "escape."</li>
+                        <li>Women want to make others laugh.  Many more women (70%) than men (58%) go online using their mobile devices to entertain others.</li>
+                        <li>Youth are the target for retailers. Youth (44%) are more likely to shop over their mobile phones than the average mobile user (35%).</li>
+                        <li>Seniors want to learn. Seniors (82%) are much more likely than the traditional user (64%) to use their mobile phones to educate themselves.</li>
+                    </ul>
+                </p><p><b>About the <i>Mobile Intent Index</i></b> <a href="http://intentindex.com/mobile" target="_blank">(http://intentindex.com/mobile)</a></p><p>Ruder Finn's <i>Mobile Intent Index</i> is the first study of its kind to examine the underlying motivations or reasons – intents – people have for using their mobile phones.  The representative and Census-balanced online study of 500 American adults 18 years of age and older who "use their mobile device to go online or to access the Internet" was conducted in November 2009 by RF Insights among respondents who belong to Western Wats'  large consumer panel, Opinion Outpost.  The margin of error is +/- 4.4% (95th confidence interval).</p>
 			</div>	
             <p class="h-line">&nbsp;</p>		
 			<div class="clearit">&nbsp;</div>
@@ -2110,9 +2269,9 @@ The Webby Awards gives the distinction of Official Honoree to the top 15% of all
 			<div class="clearit">&nbsp;</div>
         </div>
 	</div>	
- </div>
+</div>
+<!-----------------------teens---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	   
-    <!-----------------------teens---------------------------------------------->
     <div class="popups" id="teens-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/teens-bg.jpg" /></div> 
 		<div class="popup-cnt">
@@ -2120,48 +2279,46 @@ The Webby Awards gives the distinction of Official Honoree to the top 15% of all
 			<br/>
             <p class="h-line">&nbsp;</p>
 			<div class="scrollable scroll scroll-on-white">
-                 <p>Ruder Finn, one of the world's largest, independent public relations agencies, announced results of a new study of mothers, which found that teenagers, as "digital mavens," are strongly influencing their mothers to join online social networks.
-</p><br/><p>In a study conducted by a Ruder Finn employee in pursuit of her Master's degree, mothers were encouraged in part by their teenage children and these online social networks have established a new space for the two demographics to engage.
-</p><p>"Understanding why mothers engage in online social networks can help frame a more meaningful dialogue across the full spectrum of digital platforms," said Michael Schubert, Chief Innovation Officer overseeing digital strategy at Ruder Finn.
-</p><br/><p>Results from a nationally representative, Census-balanced survey of 473 mothers with teenage children living in the home found that:
-</p><br/><p><b>Mothers were driven by their children's online behavior to join social networking sites</b>
-<ul>
-<li>61% of mothers were influenced to join social networking sites right away – less than one month after an initial conversation with their teenager</li>
-<li>73% are thankful that their child introduced them to social networking sites</li>
-<li>71% of mothers want to make sure that content is not harmful to their teenagers</li>
-</ul>
-</p><br/><p>"Teenagers are often early adopters of new technology, with mothers following closely behind," said Stephanie Waters, Senior Account Supervisor at Ruder Finn and Master's recipient. "I sought to determine whether children exerted an influence over their mothers' initial decisions to join a social network and how the two interact in the online space."
-</p><br/><p>The study, titled "Mothers & Original Motivations for Joining Online Social Networking Sites: Research Underscores Children's Influence in Process" also showed that:
-</p><br/><p><b>Mothers and teens are also connected through online social networking sites and it is driving off-line conversation between the two</b>
-<ul>
-<li>91% of mothers have had discussions with their children about online social networking sites and their child's behavior online</li>
-<li>57% of mothers are "friends" on the same social networking sites as their children</li>
-<li>78% of mothers reported that their children did not resist their request to connect online</li>
-</ul>
-</p><br/><p>"Research on social networking site usage and implications on society are still very new with minimal available data," said Marty McGough, Director of Ruder Finn Insights. "This niche study of mother's intentions for joining online social networks adds to the current body and sets the stage for follow up research to more deeply understand its implications."
-</p><br/><p>About the Survey
-</p><br/><p>The survey is based on a cross-sectional, nationally-representative and Census balanced sample of 473 women with Internet access who have teenage children, ages 13-18, living at home. The margin of error is +/- 5% at the 95th confidence interval level and standard deviation of 2.0 across all demographic measures. Results from the survey were cut to gauge any differences between women with older teenagers (16-18) versus those with younger teenagers (13-18). Following the survey, in-depth-interviews were conducted with mothers who fit the demographic profile to gather anecdotal insights.</p>
+                 <p>Ruder Finn, one of the world's largest, independent public relations agencies, announced results of a new study of mothers, which found that teenagers, as "digital mavens," are strongly influencing their mothers to join online social networks.</p><br/><p>In a study conducted by a Ruder Finn employee in pursuit of her Master's degree, mothers were encouraged in part by their teenage children and these online social networks have established a new space for the two demographics to engage.</p><p>"Understanding why mothers engage in online social networks can help frame a more meaningful dialogue across the full spectrum of digital platforms," said Michael Schubert, Chief Innovation Officer overseeing digital strategy at Ruder Finn.</p><br/><p>Results from a nationally representative, Census-balanced survey of 473 mothers with teenage children living in the home found that:
+                </p><br/><p><b>Mothers were driven by their children's online behavior to join social networking sites</b>
+                <ul>
+                <li>61% of mothers were influenced to join social networking sites right away – less than one month after an initial conversation with their teenager</li>
+                <li>73% are thankful that their child introduced them to social networking sites</li>
+                <li>71% of mothers want to make sure that content is not harmful to their teenagers</li>
+                </ul>
+                </p><br/><p>"Teenagers are often early adopters of new technology, with mothers following closely behind," said Stephanie Waters, Senior Account Supervisor at Ruder Finn and Master's recipient. "I sought to determine whether children exerted an influence over their mothers' initial decisions to join a social network and how the two interact in the online space."
+                </p><br/><p>The study, titled "Mothers & Original Motivations for Joining Online Social Networking Sites: Research Underscores Children's Influence in Process" also showed that:
+                </p><br/><p><b>Mothers and teens are also connected through online social networking sites and it is driving off-line conversation between the two</b>
+                <ul>
+                <li>91% of mothers have had discussions with their children about online social networking sites and their child's behavior online</li>
+                <li>57% of mothers are "friends" on the same social networking sites as their children</li>
+                <li>78% of mothers reported that their children did not resist their request to connect online</li>
+                </ul>
+                </p><br/><p>"Research on social networking site usage and implications on society are still very new with minimal available data," said Marty McGough, Director of Ruder Finn Insights. "This niche study of mother's intentions for joining online social networks adds to the current body and sets the stage for follow up research to more deeply understand its implications."
+                </p><br/><p>About the Survey
+                </p><br/><p>The survey is based on a cross-sectional, nationally-representative and Census balanced sample of 473 women with Internet access who have teenage children, ages 13-18, living at home. The margin of error is +/- 5% at the 95th confidence interval level and standard deviation of 2.0 across all demographic measures. Results from the survey were cut to gauge any differences between women with older teenagers (16-18) versus those with younger teenagers (13-18). Following the survey, in-depth-interviews were conducted with mothers who fit the demographic profile to gather anecdotal insights.</p>
 			</div>			
 			<div class="clearit">&nbsp;</div>
         </div>
 	</div>
- </div>
+</div>
+<!-----------------------kpa---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	   
-    <!-----------------------kpa---------------------------------------------->
+    
     <div class="popups general-box" id="kpa-box" style="width:938px; height: 548px"> 
 		<div class="popup-cnt">
 			<h2>RF Wins King Pharmaceuticals Account&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
 			
 			<div class="scrollable scroll scroll-on-white">
-                <p>Ruder Finn's work for the Bristol, TN-based drug company will be comprised of branding and corporate communications supporting King's pain brands.<br/><br/>
-RF was one of three agencies that pitched to King in the final round.</p>
+                <p>Ruder Finn's work for the Bristol, TN-based drug company will be comprised of branding and corporate communications supporting King's pain brands.<br/><br/>RF was one of three agencies that pitched to King in the final round.</p>
 			</div>			
 			<div class="clearit">&nbsp;</div>
         </div>
 	</div>	
 </div>
+<!-----------------------kaj---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	    
-    <!-----------------------kaj---------------------------------------------->
+    
     <div class="popups" id="kaj-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/kaj-bg.jpg" /></div> 
 		<div class="popup-cnt">
@@ -2176,24 +2333,23 @@ RF was one of three agencies that pitched to King in the final round.</p>
         </div>
 	</div>
 </div>
+<!-----------------------pepsi---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------pepsi---------------------------------------------->
+    
     <div class="popups general-box" id="pepsi-box" style="width:938px; height: 548px"> 
 		<div class="popup-cnt">
 			<h2>RF Raises Awareness of Pepsi's Longstanding Commitment to Workplace Equality&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
 			
 			<div class="scrollable scroll scroll-on-white">
-                <p>RFI Studios and PepsiCo Inc.are pleased to announce the launch of <a href="http://www.realpepsichallenge.com/" target="_blank">www.realpepsichallenge.com</a>, a site that chronicles Pepsi's unique choice to employ African-Americans during 1940-1951, well before the Civil Rights movement made workplace equality a prominent issue in America.<br/><br/>
-Pepsi-Cola initially hired 12 black salesmen in 1940 to boost profits, but over the following decade and beyond, the extraordinary sales team also advanced the notion of workforce diversity and revolutionized the image of African-Americans in advertising, portraying them as typical middle-class consumers -- a revelation at the time.
-Even as the team eventually was dispersed in the early 1950s, its legacy was evident, as African-American professionals started to join corporations in increasing numbers and the clout of the black consumer finally was recognized.<br/><br/>
-<a href="http://www.realpepsichallenge.com/" target="_blank">www.realpepsichallenge.com</a> includes an interactive timeline, an archive of newspaper clippings of the team, advertisements, and quotes from the team's members. The site begins with a visually rich flash intro, and a high level of design is maintained throughout the site, highlighting the impact of this moment in Pepsi and America's history.</p>
+                <p>RFI Studios and PepsiCo Inc.are pleased to announce the launch of <a href="http://www.realpepsichallenge.com/" target="_blank">www.realpepsichallenge.com</a>, a site that chronicles Pepsi's unique choice to employ African-Americans during 1940-1951, well before the Civil Rights movement made workplace equality a prominent issue in America.<br/><br/>Pepsi-Cola initially hired 12 black salesmen in 1940 to boost profits, but over the following decade and beyond, the extraordinary sales team also advanced the notion of workforce diversity and revolutionized the image of African-Americans in advertising, portraying them as typical middle-class consumers -- a revelation at the time. Even as the team eventually was dispersed in the early 1950s, its legacy was evident, as African-American professionals started to join corporations in increasing numbers and the clout of the black consumer finally was recognized.<br/><br/><a href="http://www.realpepsichallenge.com/" target="_blank">www.realpepsichallenge.com</a> includes an interactive timeline, an archive of newspaper clippings of the team, advertisements, and quotes from the team's members. The site begins with a visually rich flash intro, and a high level of design is maintained throughout the site, highlighting the impact of this moment in Pepsi and America's history.</p>
 			</div>			
 			<div class="clearit">&nbsp;</div>
         </div>
 	</div>
 </div>
+<!-----------------------rachel---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">		
-    <!-----------------------rachel---------------------------------------------->
+    
     <div class="popups general-box" id="rachel-box" style="width:938px; height: 548px"> 
 		<div class="popup-cnt">
 			<h2>RF EVP Rachel Spielman Talks Creativity in PR Week Op-Ed&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
@@ -2205,8 +2361,9 @@ Even as the team eventually was dispersed in the early 1950s, its legacy was evi
         </div>
 	</div>
 </div>
+<!-----------------------blogs-------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------blogs---------------------------------------------->
+    
     <div class="popups general-box" id="blogs-box" style="width:938px; height: 548px"> 
 		<div class="popup-cnt">
 			<h2>Kathy Bloomgarden Blogs for Harvard Business Review&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
@@ -2218,28 +2375,29 @@ Even as the team eventually was dispersed in the early 1950s, its legacy was evi
         </div>
 	</div>
 </div>
+<!-----------------------confidence---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------confidence---------------------------------------------->
+    
     <div class="popups general-box" id="confidence-box" style="width:938px; height: 548px"> 
 		<div class="popup-cnt">
 			<h2>RF Asia Studies Reveal Confidence High Among Chinese Luxury Consumers&nbsp;&nbsp;<a class="add_this_share_button" href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="images/share2.png" width="58" height="21" alt="share" /></a></h2><p></p>
 			
 			<div class="scrollable scroll scroll-on-white">
-                <p><b>Ruder Finn Asia</b>, part of Ruder Finn's international network, one of the world's largest independent public relations firms, together with <b>Albatross Global Solutions</b>, one of the leading market research companies on the luxury industry segment throughout Asia, today jointly released their <a href="http://www.ruderfinn.com/files/china-luxury-forecast-200909.pdf" target="_blank">2009 China Luxury Forecast</a>. The report shows that theglobal economic downturn has had limited impact on Chinese luxury consumption and that there is widespread confidence in the future among Chinese luxury consumers.</p><p>The <b>2009 China Luxury Forecast</b> interviewed 1,000 luxury consumers with an average annual income of RMB 240,000, from a total of 21 cities including Beijing, Shanghai, Guangzhou, Hong Kong and 17 tier-2 cities in East, South, West and North China. The survey was conducted during April and May this year. By analyzing consumer confidence and purchasing power, purchasing behavior and intention as well as the information channels that influence decision making, the report aims to help marketers better understand the prevailing behaviors among Chinese consumers and foreseeable trends in luxury consumption over the next year.</p><p>In Greater China as a whole, more than half (50.3%) of respondents claimed they will not let the global economic downturn affect their purchases of luxury goods; nearly nine out of ten (89.3%) of respondents said they will not change their preferred categories during the crisis. Tier-1 cities showcase their strong sense of consumer optimism, with 58.9% of respondents claiming that price has little impact on their purchasing plans, against54.6% in tier-2 cities, which is only slightly behind. Beijing expressed the highest optimism among all the surveyed cities, with 44.8% respondents feeling "confident" to "very confident" about their future purchasing power. However, in Hong Kong, luxury consumption and consumer confidence are most affected and consumers maintain a cautious approach compared to mainlandcities. Only one out of ten respondents from Hong Kong was confident that his/her purchasing power would likely increase over the next year whilenearly half said they would maintain a cautious attitude. The remaining 40%expressed pessimism about the future.
-</p><p><b>Other highlights of the report:</b></p>
-<ul>
-<li>The gap between tier 1 and tier 2 luxury markets is smaller than anticipated. Consumers in tier 2 cities are becoming more mature in areas such as consumer perceptions, behaviors and the use of information channels</li>
-<li>Traditional media remains an essential communication tool for the Chinese luxury market but the increasing use of internet technology is changing the rules. How to leverage various internet applications to strengthen the "word-of-mouth" effect to enhance and maintain brand reputation has become one of the crucial considerations for decision makers in luxury brands.</li>
-<li>International luxury brands such as LOUIS VUITTON, CARTIER that tapped into the Mainland Chinese market as early as the 90's, remain in the top positions today despite facing a more competitive market. They have benefited from their long-term, localized and mature marketing events and promotions. The tables below show the preferred brands of respondents in different cities:</li>
-<li>While Hong Kong remains the main luxury hub in China, with 43.2% of respondents selecting the Special Administrative Region as their favorite destination to purchase luxury items, Shanghai is becoming a luxury hub in its own right. This is especially true in East China, where the city is chosen by 33.3% of tier-2 cities respondents. Because of the strong purchasing power of consumers in this region, we anticipate that Shanghai's position as a hub for luxury consumption in Mainland China will only increase in the future.</li>
-</ul>
+                <p><b>Ruder Finn Asia</b>, part of Ruder Finn's international network, one of the world's largest independent public relations firms, together with <b>Albatross Global Solutions</b>, one of the leading market research companies on the luxury industry segment throughout Asia, today jointly released their <a href="http://www.ruderfinn.com/files/china-luxury-forecast-200909.pdf" target="_blank">2009 China Luxury Forecast</a>. The report shows that theglobal economic downturn has had limited impact on Chinese luxury consumption and that there is widespread confidence in the future among Chinese luxury consumers.</p><p>The <b>2009 China Luxury Forecast</b> interviewed 1,000 luxury consumers with an average annual income of RMB 240,000, from a total of 21 cities including Beijing, Shanghai, Guangzhou, Hong Kong and 17 tier-2 cities in East, South, West and North China. The survey was conducted during April and May this year. By analyzing consumer confidence and purchasing power, purchasing behavior and intention as well as the information channels that influence decision making, the report aims to help marketers better understand the prevailing behaviors among Chinese consumers and foreseeable trends in luxury consumption over the next year.</p><p>In Greater China as a whole, more than half (50.3%) of respondents claimed they will not let the global economic downturn affect their purchases of luxury goods; nearly nine out of ten (89.3%) of respondents said they will not change their preferred categories during the crisis. Tier-1 cities showcase their strong sense of consumer optimism, with 58.9% of respondents claiming that price has little impact on their purchasing plans, against54.6% in tier-2 cities, which is only slightly behind. Beijing expressed the highest optimism among all the surveyed cities, with 44.8% respondents feeling "confident" to "very confident" about their future purchasing power. However, in Hong Kong, luxury consumption and consumer confidence are most affected and consumers maintain a cautious approach compared to mainlandcities. Only one out of ten respondents from Hong Kong was confident that his/her purchasing power would likely increase over the next year whilenearly half said they would maintain a cautious attitude. The remaining 40%expressed pessimism about the future.</p><p><b>Other highlights of the report:</b></p>
+                <ul>
+                <li>The gap between tier 1 and tier 2 luxury markets is smaller than anticipated. Consumers in tier 2 cities are becoming more mature in areas such as consumer perceptions, behaviors and the use of information channels</li>
+                <li>Traditional media remains an essential communication tool for the Chinese luxury market but the increasing use of internet technology is changing the rules. How to leverage various internet applications to strengthen the "word-of-mouth" effect to enhance and maintain brand reputation has become one of the crucial considerations for decision makers in luxury brands.</li>
+                <li>International luxury brands such as LOUIS VUITTON, CARTIER that tapped into the Mainland Chinese market as early as the 90's, remain in the top positions today despite facing a more competitive market. They have benefited from their long-term, localized and mature marketing events and promotions. The tables below show the preferred brands of respondents in different cities:</li>
+                <li>While Hong Kong remains the main luxury hub in China, with 43.2% of respondents selecting the Special Administrative Region as their favorite destination to purchase luxury items, Shanghai is becoming a luxury hub in its own right. This is especially true in East China, where the city is chosen by 33.3% of tier-2 cities respondents. Because of the strong purchasing power of consumers in this region, we anticipate that Shanghai's position as a hub for luxury consumption in Mainland China will only increase in the future.</li>
+                </ul>
 			</div>			
 			<div class="clearit">&nbsp;</div>
         </div>
 	</div>
 </div>
+<!-----------------------online---------------------------------------------->
 <div style="position:absolute; top:0px; left:-3000px;">	
-    <!-----------------------online---------------------------------------------->
+    
     <div class="popups" id="online-box" style="width:938px; height: 548px"> 
     	<div class="popup-bgImage"><img image-link="images/popups/online-bg.jpg" /></div> 
 		<div class="popup-cnt">
@@ -2247,46 +2405,39 @@ Even as the team eventually was dispersed in the early 1950s, its legacy was evi
 			<br/>
             <p class="h-line">&nbsp;</p>
 			<div class="scrollable scroll scroll-on-white">
-                 <p>According to the Ruder Finn Intent Index, more than 4 in 5 people (80%) go online to socialize, which is twice as many as those who go online to shop or do business.  Online business isn't dead but marketers who can't connect with their consumers' intent do so at their own peril. 
-</p><p>"Intent is the new demographic," said Kathy Bloomgarden, Ruder Finn co-CEO.  "Delving deeper into the underlying motivations of online behavior is critical to developing proactive strategies. Just being online is not enough to leverage digital channels to drive business imperatives. Audiences must be targeted based upon their intent."
-</p><p>Ruder Finn, one of the world's largest public relations agencies, unveiled its Intent Index today, an online tool that provides a new view on why people go online and redefines how we look at demographics: <a href="http://www.ruderfinn.com/intent" target="_blank">www.ruderfinn.com/intent</a>.
-</p><p>"The Intent Index shows a congruency and similarity among Internet users regardless of traditional demographics," said Marty McGough, Director of Ruder Finn Insights. "This marks a real paradigm shift in how we use online communications tools."
-</p><p>Based on a study among Internet users that asks respondents how frequently they go online for 295 reasons, the Intent Index shows that a person's intent may be a better indicator for how to develop a communications campaign than demographic formulas.
-</p><p>Michael Schubert, Chief Innovation Officer overseeing digital strategy at Ruder Finn said, "The way the Internet has allowed us to share knowledge laterally instead of up the chain of command requires a new way of thinking about our online communications. The Intent Index underscores the importance of knowing what people seek, and how we, as communicators, can intersect with what they're looking for."
-</p><p>The Intent Index shows how critical it is, when communicating on the web, to gain deep insight into user intent, and how the right message, at the right place, at the right time is more important than ever.  Updated quarterly and with the capability of being narrowed down for specific industries, the Intent Index will help businesses improve the context and utility of their online marketing content.
-</p><p>Intent Index Survey Results
-</p><p>Socialize
-<ul>
-<li>More than twice as many people go online to socialize (81%) than to do business (39%) or shop (31%).</li>
-<li>72% of people go online just to become part of a community.</li>
-<li>Seniors are going online today for the same reasons younger people are; to have fun (82%) and to socialize (80%).</li>
-<li> More people go online to connect via a social networking site (41%) than to post comments or opinions (34%).</li>
-</ul>
-</p><p>Learn/Have Fun
-<ul>
-<li>More people go online to be entertained (82%) than entertain others (48%).</li>
-<li>People seek education and entertainment: most people go online both to learn (88%) and have fun (83%).</li>
-<li>Almost half of people (47%) go online to learn to improve themselves and nearly one-third (31%) to find self-help experts or books.</li>
-<li>The desire to learn drives people to the Internet; top areas are new subjects (68%), the world (65%), a disease or condition (61%), eating healthier (55%) and managing finances (37%).</li>
-</ul>
-</p><p>Shop/Engage in Commerce
-<ul>
-<li>Three times as many people go online to compare prices (66%) rather than people via dating sites (21%).</li>
-<li>E-commerce isn't dead -- one-third of people (34%) go online to purchase an item; tops are household items (49%), electronics (45%); music (35%), movies (29%), and school/work supplies (29%).</li>
-<li>More men (42%) than women (36%) go online to do business.</li>
-</ul>
-</p><p>Express
-<ul>
-<li>Women comment, men read: 55% of women go online to find venues for personal expression compared to only 43% of men.</li>
-<li>The age of blogs: 44% of people go online to create or update blogs and 42% of people go online to read other people's blogs.</li>
-</ul>
-</p><p>Escape
-<ul>
-<li>The Internet offers young people the escape through anonymity they seek out: nearly half (48%) go online to be invisible on instant messaging, 29% to create an avatar and 28% to be somewhat different.</li>
-</ul>
-</p><p>Advocate
-<ul>
-<li>Women (48%) are much more likely than men (39%) to go online to advocate for an issue or position.</li></ul>
+                 <p>According to the Ruder Finn Intent Index, more than 4 in 5 people (80%) go online to socialize, which is twice as many as those who go online to shop or do business.  Online business isn't dead but marketers who can't connect with their consumers' intent do so at their own peril. </p><p>"Intent is the new demographic," said Kathy Bloomgarden, Ruder Finn co-CEO.  "Delving deeper into the underlying motivations of online behavior is critical to developing proactive strategies. Just being online is not enough to leverage digital channels to drive business imperatives. Audiences must be targeted based upon their intent."</p><p>Ruder Finn, one of the world's largest public relations agencies, unveiled its Intent Index today, an online tool that provides a new view on why people go online and redefines how we look at demographics: <a href="http://www.ruderfinn.com/intent" target="_blank">www.ruderfinn.com/intent</a>.</p><p>"The Intent Index shows a congruency and similarity among Internet users regardless of traditional demographics," said Marty McGough, Director of Ruder Finn Insights. "This marks a real paradigm shift in how we use online communications tools."</p><p>Based on a study among Internet users that asks respondents how frequently they go online for 295 reasons, the Intent Index shows that a person's intent may be a better indicator for how to develop a communications campaign than demographic formulas.</p><p>Michael Schubert, Chief Innovation Officer overseeing digital strategy at Ruder Finn said, "The way the Internet has allowed us to share knowledge laterally instead of up the chain of command requires a new way of thinking about our online communications. The Intent Index underscores the importance of knowing what people seek, and how we, as communicators, can intersect with what they're looking for."</p><p>The Intent Index shows how critical it is, when communicating on the web, to gain deep insight into user intent, and how the right message, at the right place, at the right time is more important than ever.  Updated quarterly and with the capability of being narrowed down for specific industries, the Intent Index will help businesses improve the context and utility of their online marketing content.</p><p>Intent Index Survey Results</p><p>Socialize
+                 <ul>
+                    <li>More than twice as many people go online to socialize (81%) than to do business (39%) or shop (31%).</li>
+                    <li>72% of people go online just to become part of a community.</li>
+                    <li>Seniors are going online today for the same reasons younger people are; to have fun (82%) and to socialize (80%).</li>
+                    <li> More people go online to connect via a social networking site (41%) than to post comments or opinions (34%).</li>
+                </ul>
+                </p><p>Learn/Have Fun
+                 <ul>
+                    <li>More people go online to be entertained (82%) than entertain others (48%).</li>
+                    <li>People seek education and entertainment: most people go online both to learn (88%) and have fun (83%).</li>
+                    <li>Almost half of people (47%) go online to learn to improve themselves and nearly one-third (31%) to find self-help experts or books.</li>
+                    <li>The desire to learn drives people to the Internet; top areas are new subjects (68%), the world (65%), a disease or condition (61%), eating healthier (55%) and managing finances (37%).</li>
+                </ul>
+                </p><p>Shop/Engage in Commerce
+                <ul>
+                    <li>Three times as many people go online to compare prices (66%) rather than people via dating sites (21%).</li>
+                    <li>E-commerce isn't dead -- one-third of people (34%) go online to purchase an item; tops are household items (49%), electronics (45%); music (35%), movies (29%), and school/work supplies (29%).</li>
+                    <li>More men (42%) than women (36%) go online to do business.</li>
+                </ul>
+                </p><p>Express
+                <ul>
+                    <li>Women comment, men read: 55% of women go online to find venues for personal expression compared to only 43% of men.</li>
+                    <li>The age of blogs: 44% of people go online to create or update blogs and 42% of people go online to read other people's blogs.</li>
+                </ul>
+                </p><p>Escape
+                <ul>
+                    <li>The Internet offers young people the escape through anonymity they seek out: nearly half (48%) go online to be invisible on instant messaging, 29% to create an avatar and 28% to be somewhat different.</li>
+                    </ul>
+                    </p><p>Advocate
+                <ul>
+                    <li>Women (48%) are much more likely than men (39%) to go online to advocate for an issue or position.</li>
+                </ul>
 			</div>			
 			<div class="clearit">&nbsp;</div>
         </div>
